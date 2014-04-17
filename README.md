@@ -12,9 +12,9 @@ Releases of the PROIEL Treebank are hosted on
 
 The following texts are included in this release of the treebank:
 
-  Text                                              Filename
-  ----                                              --------
-  The Greek New Testament (ed. Tischendorf 1869)    greek-nt.xml
+  Text                                           | Filename
+  ----                                           | --------
+  The Greek New Testament (ed. Tischendorf 1869) | greek-nt.xml
 
 Please see the XML files for detailed metadata and a full list of contributors.
 
