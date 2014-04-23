@@ -12,9 +12,13 @@ Releases of the PROIEL Treebank are hosted on
 
 The following texts are included in this release of the treebank:
 
-  Text                                           | Filename
-  ----                                           | --------
-  The Greek New Testament (ed. Tischendorf 1869) | greek-nt.xml
+  Text                                           | Language            | Filename
+  ----                                           | --------            | --------
+  The Greek New Testament (ed. Tischendorf 1869) | Ancient Greek       | greek-nt
+  The Armenian New Testament (ed. Künzle 1984)   | Classical Armenian  | armenian-nt
+  The Gothic Bible (ed. Streitberg 1919)         | Gothic              | gothic-nt
+  Codex Marianus (ed. Jagić 1883)                | Old Church Slavonic | marianus
+  Jerome's Vulgate                               | Latin               | latin-nt
 
 Please see the XML files for detailed metadata and a full list of contributors.
 
