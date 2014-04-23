@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+
+<!-- PROIEL XML format version 2.0 -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace"
+             schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+
+  <xs:annotation>
+    <xs:documentation xml:lang="en">PROIEL XML format version 2.0</xs:documentation>
+  </xs:annotation>
+
+  <xs:complexType name="Source">
+    <xs:sequence>
+      <xs:element name="title" minOccurs="1" maxOccurs="1" type="xs:string"/>
+      <xs:element name="author" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="citation-part" minOccurs="1" maxOccurs="1" type="xs:string"/>
+      <xs:element name="principal" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="funder" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="distributor" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="distributor-address" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="address" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="date" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="license" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="license-url" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="reference-system" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="editor" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="editorial-note" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="annotator" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="reviewer" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="electronic-text-editor" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="electronic-text-title" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="electronic-text-version" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="electronic-text-publisher" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="electronic-text-place" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="electronic-text-date" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="electronic-text-original-url" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="electronic-text-license" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="electronic-text-license-url" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="printed-text-editor" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="printed-text-title" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="printed-text-edition" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="printed-text-publisher" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="printed-text-place" minOccurs="0" maxOccurs="1" type="xs:string"/>
+      <xs:element name="printed-text-date" minOccurs="0" maxOccurs="1" type="xs:string"/>
+
+      <xs:element name="div" minOccurs="1" maxOccurs="unbounded" type="Div"/>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:string" use="required"/>
+    <xs:attribute name="language" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="Div">
+    <xs:sequence>
+      <xs:element name="title" minOccurs="1" maxOccurs="1" type="xs:string"/>
+      <xs:element name="sentence" minOccurs="1" maxOccurs="unbounded" type="Sentence"/>
+    </xs:sequence>
+    <xs:attribute name="presentation-before" type="xs:string" use="optional"/>
+    <xs:attribute name="presentation-after" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="Sentence">
+    <xs:sequence>
+      <xs:element name="token" minOccurs="1" maxOccurs="unbounded" type="Token"/>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:nonNegativeInteger" use="optional"/>
+    <xs:attribute name="presentation-before" type="xs:string" use="optional"/>
+    <xs:attribute name="presentation-after" type="xs:string" use="optional"/>
+    <xs:attribute name="status" type="SentenceStatus" use="optional"/>
+  </xs:complexType>
+
+  <xs:simpleType name="SentenceStatus">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="annotated"/>
+      <xs:enumeration value="reviewed"/>
+      <xs:enumeration value="unannotated"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="Token">
+    <xs:sequence>
+      <xs:element name="slash" minOccurs="0" maxOccurs="unbounded" type="Slash"/>
+    </xs:sequence>
+
+    <xs:attribute name="id" type="xs:nonNegativeInteger" use="optional"/>
+    <xs:attribute name="lemma" type="xs:string" use="optional"/>
+    <xs:attribute name="part-of-speech" type="xs:string" use="optional"/>
+    <xs:attribute name="morphology" type="xs:string" use="optional"/>
+    <xs:attribute name="citation-part" type="xs:string" use="optional"/>
+    <xs:attribute name="relation" type="xs:string" use="optional"/>
+    <xs:attribute name="head-id" type="xs:nonNegativeInteger" use="optional"/>
+    <xs:attribute name="information-status" type="xs:string" use="optional"/>
+    <xs:attribute name="antecedent-id" type="xs:nonNegativeInteger" use="optional"/>
+    <xs:attribute name="contrast-group" type="xs:string" use="optional"/>
+    <xs:attribute name="foreign-ids" type="xs:string" use="optional"/>
+
+    <!-- XSD does not allow us to constrain the use of these attributes properly so they are marked optional even though their occurrence depends on the value of empty-token-sort and form. -->
+    <xs:attribute name="empty-token-sort" type="EmptyTokenSort" use="optional"/>
+    <xs:attribute name="form" type="xs:string" use="optional"/>
+    <xs:attribute name="presentation-before" type="xs:string" use="optional"/>
+    <xs:attribute name="presentation-after" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+  <xs:simpleType name="EmptyTokenSort">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="P"/>
+      <xs:enumeration value="C"/>
+      <xs:enumeration value="V"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="Slash">
+    <xs:attribute name="target-id" type="xs:nonNegativeInteger" use="required"/>
+    <xs:attribute name="relation" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="PartOfSpeechValue">
+    <xs:attribute name="tag" type="xs:string" use="required"/>
+    <xs:attribute name="summary" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="PartsOfSpeech">
+    <xs:sequence>
+      <xs:element name='value' minOccurs="1" maxOccurs="unbounded" type='PartOfSpeechValue'/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="InformationStatusValue">
+    <xs:attribute name="tag" type="xs:string" use="required"/>
+    <xs:attribute name="summary" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="InformationStatuses">
+    <xs:sequence>
+      <xs:element name='value' minOccurs="1" maxOccurs="unbounded" type='InformationStatusValue'/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RelationValue">
+    <xs:attribute name="tag" type="xs:string" use="required"/>
+    <xs:attribute name="summary" type="xs:string" use="required"/>
+    <xs:attribute name="primary" type="xs:boolean" use="required"/>
+    <xs:attribute name="secondary" type="xs:boolean" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="Relations">
+    <xs:sequence>
+      <xs:element name='value' minOccurs="1" maxOccurs="unbounded" type='RelationValue'/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="MorphologyValue">
+    <xs:attribute name="tag" type="xs:string" use="required"/>
+    <xs:attribute name="summary" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="MorphologyField">
+    <xs:sequence>
+      <xs:element name='value' minOccurs="1" maxOccurs="unbounded" type='MorphologyValue'/>
+    </xs:sequence>
+
+    <xs:attribute name="tag" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="Morphology">
+    <xs:sequence>
+      <xs:element name='field' minOccurs="1" maxOccurs="unbounded" type='MorphologyField'/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="Annotation">
+    <xs:sequence>
+      <xs:element name='relations' minOccurs="1" maxOccurs="1" type='Relations'/>
+      <xs:element name='parts-of-speech' minOccurs="1" maxOccurs="1" type='PartsOfSpeech'/>
+      <xs:element name='morphology' minOccurs="1" maxOccurs="1" type='Morphology'/>
+      <xs:element name='information-statuses' minOccurs="1" maxOccurs="1" type='InformationStatuses'/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="Proiel">
+    <xs:sequence>
+      <xs:element name='annotation' minOccurs="0" maxOccurs="1" type='Annotation'/>
+      <xs:element name='source' minOccurs="1" maxOccurs="unbounded" type='Source'/>
+    </xs:sequence>
+    <xs:attribute name='export-time' type="xs:dateTime" use="optional"/>
+    <xs:attribute name="schema-version" type="xs:decimal" use="required" fixed="2.0"/>
+  </xs:complexType>
+
+  <xs:element name='proiel' type='Proiel'/>
+</xs:schema>
