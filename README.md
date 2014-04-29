@@ -7,8 +7,18 @@ Indo-European languages and is freely available under a [Creative Commons
 Attribution-NonCommercial-ShareAlike 3.0 License](
 http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
+Please cite as
+
+> Haug, Dag Trygve Truslew and Marius Jøhndal. 2008. 'Creating a Parallel
+> Treebank of the Old Indo-European Bible Translations'. In Khalid Choukri
+> (ed.). Proceedings of the Second Workshop on Language Technology for
+> Cultural Heritage Data (LaTeCH 2008).
+
 Releases of the PROIEL Treebank are hosted on
 [Github](https://github.com/proiel/proiel-treebank).
+
+Contents
+--------
 
 The following texts are included in this release of the treebank:
 
@@ -22,9 +32,15 @@ The following texts are included in this release of the treebank:
 
 Please see the XML files for detailed metadata and a full list of contributors.
 
-Please cite as
+Data formats
+------------
 
-> Haug, Dag Trygve Truslew and Marius Jøhndal. 2008. 'Creating a Parallel
-> Treebank of the Old Indo-European Bible Translations'. In Khalid Choukri
-> (ed.). Proceedings of the Second Workshop on Language Technology for
-> Cultural Heritage Data (LaTeCH 2008).
+The texts are available on two formats:
+
+1. PROIEL XML: These files are the authoritative source files. They contain the
+   complete morphological, syntactic and information-structure annotation, as well as
+   the complete text, including punctuation, section headers etc. The schema is
+   defined in `proiel.xsd`.
+
+2. [CoNLL-X format](http://nextens.uvt.nl/depparse-wiki/DataFormat): The CoNLL
+   files contain a subset of the information available in the XML files.
