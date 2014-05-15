@@ -24,7 +24,7 @@ The following texts are included in this release of the treebank:
 
   Text                                           | Language            | Filename    | Size
   ----                                           | --------            | --------    | ----
-  The Greek New Testament (ed. Tischendorf 1869) | Ancient Greek       | greek-nt    | 130148 words
+  The Greek New Testament (ed. Tischendorf 1869) | Ancient Greek       | greek-nt    | 132173 words
   The Armenian New Testament (ed. Künzle 1984)   | Classical Armenian  | armenian-nt | 23454 words
   The Gothic Bible (ed. Streitberg 1919)         | Gothic              | gothic-nt   | 57210 words
   Codex Marianus (ed. Jagić 1883)                | Old Church Slavonic | marianus    | 58269 words
