@@ -24047,7 +24047,7 @@
 7	illis	ille	P	Pd	NUMBp|GENDm|CASEd	6	obl	_	_
 8	ne	ne	G	G-	INFLn	6	comp	_	_
 9	cui	quis	P	Px	NUMBs|GENDq|CASEd	12	obl	_	_
-10	quae	quis	P	Px	NUMBp|GENDn|CASEa	11	obj	_	_
+10	quae	quis	P	Pr	NUMBp|GENDn|CASEa	11	obj	_	_
 11	vidissent	video	V	V-	PERS3|NUMBp|TENSl|MOODs|VOICa	12	obj	_	_
 12	narrarent	narro	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	8	pred	_	_
 13	nisi	nisi	D	Df	INFLn	12	adv	_	_
@@ -39558,8 +39558,8 @@
 
 1	ipse	ipse	P	Pp	PERS3|NUMBs|GENDm|CASEn	7	sub	_	_
 2	autem	autem	D	Df	INFLn	7	aux	_	_
-3	ut	ut#1	D	Df	INFLn	7	adv	_	_
-4	vidit	video	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	3	aux	_	_
+3	ut	ut	G	G-	INFLn	7	adv	_	_
+4	vidit	video	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	3	pred	_	_
 5	cogitationes	cogitatio	N	Nb	NUMBp|GENDf|CASEa	4	obj	_	_
 6	eorum	is	P	Pp	PERS3|NUMBp|GENDm|CASEg	5	atr	_	_
 7	dixit	dico	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
@@ -40078,7 +40078,7 @@
 2	vobis	vos	P	Pp	PERS2|NUMBp|GENDp|CASEd	1	obl	_	_
 3	quia	quia	G	G-	INFLn	1	adv	_	_
 4	estis	sum	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	10	pred	_	_
-5	ut	ut#1	D	Df	INFLn	4	xobj	_	_
+5	ut	ut	D	Dq	INFLn	4	xobj	_	_
 6	monumenta	monumentum	N	Nb	NUMBp|GENDn|CASEn	5	sub	_	_
 7	quae	qui	P	Pr	NUMBp|GENDn|CASEn	9	sub	_	_
 8	non	non	D	Df	INFLn	9	aux	_	_
@@ -44642,7 +44642,7 @@
 12	iniusti	iniustus	A	A-	NUMBp|GENDm|CASEn|DEGRp	9	apos	_	_
 13	adulteri	adulter	N	Nb	NUMBp|GENDm|CASEn	9	apos	_	_
 14	vel	vel	C	C-	INFLn	7	xobj	_	_
-15	ut	ut#1	D	Df	INFLn	14	xobj	_	_
+15	ut	ut#2	D	Df	INFLn	14	xobj	_	_
 16	etiam	etiam	D	Df	INFLn	15	aux	_	_
 17	hic	hic	P	Pd	NUMBs|GENDm|CASEn	18	atr	_	_
 18	publicanus	publicanus	N	Nb	NUMBs|GENDm|CASEn	15	sub	_	_
@@ -48564,7 +48564,7 @@
 15	et	et	C	C-	INFLn	10	pred	_	_
 16	sperabat	spero	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	15	pred	_	_
 17	signum	signum	N	Nb	NUMBs|GENDn|CASEa	22	sub	_	_
-18	aliquod	aliquis	P	Px	NUMBs|GENDn|CASEa	17	atr	_	_
+18	aliquod	aliqui	P	Px	NUMBs|GENDn|CASEa	17	atr	_	_
 19	videre	video	V	V-	TENSp|MOODn|VOICa	16	comp	_	_
 20	ab	ab	R	R-	INFLn	22	ag	_	_
 21	eo	is	P	Pp	PERS3|NUMBs|GENDm|CASEb	20	obl	_	_
@@ -59261,7 +59261,7 @@
 8	et	et	C	C-	INFLn	0	pred	_	_
 9	dixerunt	dico	V	V-	PERS3|NUMBp|TENSr|MOODi|VOICa	8	pred	_	_
 10	eis	is	P	Pp	PERS3|NUMBp|GENDm|CASEd	9	obl	_	_
-11	quae	qui	P	Px	NUMBp|GENDn|CASEa	12	obj	_	_
+11	quae	qui	P	Pr	NUMBp|GENDn|CASEa	12	obj	_	_
 12	fecit	facio	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	9	obj	_	_
 13	Iesus	Iesus	N	Ne	NUMBs|GENDm|CASEn	12	sub	_	_
 
@@ -85262,7 +85262,7 @@
 17	facies	facies	N	Nb	NUMBs|GENDf|CASEn	19	sub	_	_
 18	eius	is	P	Pp	PERS3|NUMBs|GENDm|CASEg	17	atr	_	_
 19	erat	sum	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	11	pred	_	_
-20	ut	ut#1	D	Df	INFLn	19	xobj	_	_
+20	ut	ut#2	D	Df	INFLn	19	xobj	_	_
 21	sol	sol	N	Nb	NUMBs|GENDm|CASEn	20	sub	_	_
 22	et	et	C	C-	INFLn	11	aux	_	_
 23	pedes	pes	N	Nb	NUMBp|GENDm|CASEn	11	sub(28)pred	_	_
