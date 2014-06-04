@@ -48564,7 +48564,7 @@
 15	et	et	C	C-	INFLn	10	pred	_	_
 16	sperabat	spero	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	15	pred	_	_
 17	signum	signum	N	Nb	NUMBs|GENDn|CASEa	22	sub	_	_
-18	aliquod	aliqui	P	Px	NUMBs|GENDn|CASEa	17	atr	_	_
+18	aliquod	aliquis	P	Px	NUMBs|GENDn|CASEa	17	atr	_	_
 19	videre	video	V	V-	TENSp|MOODn|VOICa	16	comp	_	_
 20	ab	ab	R	R-	INFLn	22	ag	_	_
 21	eo	is	P	Pp	PERS3|NUMBs|GENDm|CASEb	20	obl	_	_
@@ -60699,7 +60699,7 @@
 1	qui	qui	P	Pr	NUMBs|GENDm|CASEn	2	sub	_	_
 2	accipit	accipio	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	sub	_	_
 3	si	si	G	G-	INFLn	2	adv	_	_
-4	quem	qui	P	Px	NUMBs|GENDm|CASEa	5	obj	_	_
+4	quem	quis	P	Px	NUMBs|GENDm|CASEa	5	obj	_	_
 5	misero	miseror	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	3	pred	_	_
 6	me	ego	P	Pp	PERS1|NUMBs|GENDm|CASEa	7	obj	_	_
 7	accipit	accipio	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
@@ -78865,7 +78865,7 @@
 4	transnavigare	transnavigo	V	V-	TENSp|MOODn|VOICa	1	xobj	_	_
 5	Ephesum	Ephesus	N	Ne	NUMBs|GENDf|CASEa	4	obj	_	_
 6	ne	ne	G	G-	INFLn	1	adv	_	_
-7	qua	qui	P	Px	NUMBs|GENDf|CASEn	8	atr	_	_
+7	qua	quis	P	Px	NUMBs|GENDf|CASEn	8	atr	_	_
 8	mora	mora	N	Nb	NUMBs|GENDf|CASEn	10	sub	_	_
 9	illi	ille	P	Pd	NUMBs|GENDm|CASEd	10	obl	_	_
 10	fieret	fio	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	6	aux	_	_
