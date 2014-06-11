@@ -13710,7 +13710,7 @@
 
 1	ne	ne	D	Df	INFLn	3	aux	_	_
 2	c	que	C	C-	INFLn	3	aux	_	_
-3	vocemini	voco	V	V-	PERS2|NUMBp|TENSp|MOODs|VOICa	0	pred	_	_
+3	vocemini	voco	V	V-	PERS2|NUMBp|TENSp|MOODs|VOICp	0	pred	_	_
 4	magistri	magister	N	Nb	NUMBp|GENDm|CASEn	3	xobj	_	_
 
 1	quia	quia	D	Df	INFLn	5	aux	_	_
@@ -21577,7 +21577,7 @@
 13	cum	cum	R	R-	INFLn	14	xobj	_	_
 14	erant	sum	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	10	obj	_	_
 15	et	et	C	C-	INFLn	0	pred	_	_
-16	ingreditur	ingredior	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	15	pred	_	_
+16	ingreditur	ingredior	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	15	pred	_	_
 17	ubi	ubi	D	Dq	INFLn	18	adv	_	_
 18	erat	sum	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	16	obl	_	_
 19	puella	puella	N	Nb	NUMBs|GENDf|CASEn	18	sub	_	_
@@ -31271,7 +31271,7 @@
 2	ibant	eo	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	0	pred	_	_
 3	omnes	omnis	P	Px	NUMBp|GENDm|CASEn	2	sub	_	_
 4	ut	ut	G	G-	INFLn	2	adv	_	_
-5	profiterentur	profiteor	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	4	pred	_	_
+5	profiterentur	profiteor	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICp	4	pred	_	_
 6	singuli	singulus	A	A-	NUMBp|GENDm|CASEn|DEGRp	2	xadv	_	_
 7	in	in	R	R-	INFLn	2	obl	_	_
 8	suam	suus	P	Pt	PERS3|NUMBs|GENDf|CASEa	9	atr	_	_
@@ -31302,7 +31302,7 @@
 23	familia	familia	N	Nb	NUMBs|GENDf|CASEb	22	obl	_	_
 24	David	David	N	Ne	INFLn	22	atr	_	_
 25	ut	ut	G	G-	INFLn	1	adv	_	_
-26	profiteretur	profiteor	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	25	pred	_	_
+26	profiteretur	profiteor	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICp	25	pred	_	_
 27	cum	cum	R	R-	INFLn	26	adv	_	_
 28	Maria	Maria	N	Ne	NUMBs|GENDf|CASEb	27	obl	_	_
 29	desponsata	desponsor	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEb	28	apos	_	_
@@ -36801,7 +36801,7 @@
 6	eos	is	P	Pp	PERS3|NUMBp|GENDm|CASEa	9	sub	_	_
 7	in	in	R	R-	INFLn	9	obl	_	_
 8	illos	ille	P	Pd	NUMBp|GENDm|CASEa	7	obl	_	_
-9	ingredi	ingredior	V	V-	TENSp|MOODn|VOICa	5	comp	_	_
+9	ingredi	ingredior	V	V-	TENSp|MOODn|VOICp	5	comp	_	_
 
 1	et	et	C	C-	INFLn	2	aux	_	_
 2	permisit	permitto	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
@@ -44045,7 +44045,7 @@
 
 1	et	et	C	C-	INFLn	6	aux	_	_
 2	cum	cum	G	G-	INFLn	6	adv	_	_
-3	ingrederetur	ingredior	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	2	pred	_	_
+3	ingrederetur	ingredior	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICp	2	pred	_	_
 4	quoddam	quidam	P	Px	NUMBs|GENDn|CASEa	5	atr	_	_
 5	castellum	castellum	N	Nb	NUMBs|GENDn|CASEa	3	obj	_	_
 6	occurrerunt	occurro	V	V-	PERS3|NUMBp|TENSr|MOODi|VOICa	0	pred	_	_
@@ -49514,7 +49514,7 @@
 11	quod	qui	P	Pr	NUMBs|GENDn|CASEn	12	sub	_	_
 12	erat	sum	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	10	atr	_	_
 13	in	in	R	R-	INFLn	12	xobj	_	_
-14	spatio	spatior	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	13	obl	_	_
+14	spatio	spatium	N	Nb	NUMBs|GENDn|CASEb	13	obl	_	_
 15	stadiorum	stadium	N	Nb	NUMBp|GENDn|CASEg	14	atr	_	_
 16	sexaginta	sexaginta	M	Ma	INFLn	15	atr	_	_
 17	ab	ab	R	R-	INFLn	14	atr	_	_
@@ -60700,7 +60700,7 @@
 2	accipit	accipio	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	sub	_	_
 3	si	si	G	G-	INFLn	2	adv	_	_
 4	quem	quis	P	Px	NUMBs|GENDm|CASEa	5	obj	_	_
-5	misero	miseror	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	3	pred	_	_
+5	misero	mitto	V	V-	PERS1|NUMBs|TENSt|MOODi|VOICa	3	pred	_	_
 6	me	ego	P	Pp	PERS1|NUMBs|GENDm|CASEa	7	obj	_	_
 7	accipit	accipio	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 
@@ -71354,7 +71354,7 @@
 1	sed	sed	C	C-	INFLn	2	aux	_	_
 2	surge	surgo	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	3	pred	_	_
 3	et	et	C	C-	INFLn	0	pred	_	_
-4	ingredere	ingredior	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	3	pred	_	_
+4	ingredere	ingredior	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICp	3	pred	_	_
 5	civitatem	civitas	N	Nb	NUMBs|GENDf|CASEa	4	obj	_	_
 6	et	et	C	C-	INFLn	7	aux	_	_
 7	dicetur	dico	V	V-	PERS3|NUMBs|TENSf|MOODi|VOICp	3	pred	_	_
@@ -81284,7 +81284,7 @@
 6	semper	semper	D	Df	INFLn	5	adv	_	_
 7	et	et	D	Df	INFLn	8	aux	_	_
 8	nunc	nunc	D	Df	INFLn	9	adv	_	_
-9	magnificabitur	magnifico	V	V-	PERS3|NUMBs|TENSf|MOODi|VOICa	0	pred	_	_
+9	magnificabitur	magnifico	V	V-	PERS3|NUMBs|TENSf|MOODi|VOICp	0	pred	_	_
 10	Christus	Christus	N	Ne	NUMBs|GENDm|CASEn	9	sub	_	_
 11	in	in	R	R-	INFLn	9	adv	_	_
 12	corpore	corpus	N	Nb	NUMBs|GENDn|CASEb	11	obl	_	_
@@ -81527,7 +81527,7 @@
 11	notate	noto	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	12	pred	_	_
 12	et	et	C	C-	INFLn	0	pred	_	_
 13	non	non	D	Df	INFLn	14	aux	_	_
-14	commisceamini	commisceo	V	V-	PERS2|NUMBp|TENSp|MOODs|VOICa	12	pred	_	_
+14	commisceamini	commisceo	V	V-	PERS2|NUMBp|TENSp|MOODs|VOICp	12	pred	_	_
 15	cum	cum	R	R-	INFLn	14	adv	_	_
 16	illo	ille	P	Pd	NUMBs|GENDm|CASEb	15	obl	_	_
 17	ut	ut	G	G-	INFLn	14	adv	_	_
