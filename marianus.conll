@@ -528,7 +528,7 @@
 8	шюица	шоуица	N	Nb	NUMBs|GENDf|CASEn	7	sub	_	_
 9	твоѣ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEn	8	atr	_	_
 10	чьто	чьто	P	Pi	NUMBs|GENDn|CASEa	11	obj	_	_
-11	творитъ	творити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	obj	_	_
+11	творитъ	творити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	comp	_	_
 12	десꙿница	десница	N	Nb	NUMBs|GENDf|CASEn	11	sub	_	_
 13	твоѣ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEn	12	atr	_	_
 14	да	да	G	G-	INFLn	7	adv	_	_
@@ -549,7 +549,7 @@
 
 1	ꙇ҅	и	C	C-	INFLn	6	aux	_	_
 2	егда	ѥгда	D	Dq	INFLn	3	adv	_	_
-3	молиши	молити	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	6	obj	_	_
+3	молиши	молити	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	6	adv	_	_
 4	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	3	aux	_	_
 5	не	не	D	Df	INFLn	6	aux	_	_
 6	бѫди	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
@@ -778,7 +778,7 @@
 1	аминъ	аминъ	I	I-	INFLn	0	voc	_	_
 2	г҃лѭ	глаголати	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 3	вамъ	вꙑ	P	Pp	PERS2|NUMBp|GENDq|CASEd	2	obl	_	_
-4	ѣко	ꙗко	G	G-	INFLn	2	adv	_	_
+4	ѣко	ꙗко	G	G-	INFLn	2	comp	_	_
 5	въсприемлѭтъ	въсприимати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	4	pred	_	_
 6	мъздѫ	мьзда	N	Nb	NUMBs|GENDf|CASEa	5	obj	_	_
 7	своѭ҄	свои	P	Pt	PERS3|NUMBs|GENDf|CASEa	6	atr	_	_
