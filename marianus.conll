@@ -18101,7 +18101,7 @@
 5	нападахѫ	нападати	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	4	pred	_	_
 6	емь	и	P	Pp	PERS3|NUMBs|GENDm|CASEl	5	obl	_	_
 7	хотѧште	хотѣти	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	5	xadv	_	_
-8	прикоснѫти	прикоснѫти	V	V-	TENSp|MOODn|VOICa	7	comp	_	_
+8	прикоснѫти	прикоснѫти	V	V-	TENSp|MOODn|VOICa	7	xobj	_	_
 9	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	8	aux	_	_
 10	емь	и	P	Pp	PERS3|NUMBs|GENDm|CASEl	8	obl	_	_
 11	елико	ѥлико	P	Pr	INFLn	12	sub	_	_
@@ -19616,8 +19616,8 @@
 1	аште	аще	G	G-	INFLn	8	adv	_	_
 2	прикоснѫ	прикоснѫти	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	1	pred	_	_
 3	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	2	aux	_	_
-4	понѣ	понѣ	D	Df	INFLn	2	obl	_	_
-5	ризѣ	риза	N	Nb	NUMBs|GENDf|CASEl	4	atr	_	_
+4	понѣ	понѣ	D	Df	INFLn	2	adv	_	_
+5	ризѣ	риза	N	Nb	NUMBs|GENDf|CASEl	2	obl	_	_
 6	его	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	5	atr	_	_
 7	с҃псна	съпасти#1	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDf|CASEn|STREs	8	xobj	_	_
 8	бѫдѫ	бꙑти	V	V-	PERS1|NUMBs|TENSf|MOODi|VOICa	0	pred	_	_
@@ -20480,8 +20480,8 @@
 2	не	не	D	Df	INFLn	3	aux	_	_
 3	бѣ	бꙑти	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	0	pred	_	_
 4	имъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEd	3	obl	_	_
-5	коли	коли	D	Dq	INFLn	3	adv	_	_
-6	понѣ	понѣ	D	Df	INFLn	5	aux	_	_
+5	коли	коли	D	Df	INFLn	3	adv	_	_
+6	понѣ	понѣ	D	Df	INFLn	3	adv	_	_
 7	ѣсти	ꙗсти	V	V-	TENSp|MOODn|VOICa	3	comp	_	_
 
 1	ꙇ	и	C	C-	INFLn	2	aux	_	_
@@ -21065,10 +21065,10 @@
 10	и	и	C	C-	INFLn	8	narg	_	_
 11	стькльницамъ	стьклѣница	N	Nb	NUMBp|GENDf|CASEd	10	narg	_	_
 12	ꙇ	и	C	C-	INFLn	0	pred	_	_
-13	ина	инъ	P	Px	NUMBp|GENDn|CASEa	17	obj	_	_
-14	подобъна	подобьнъ	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREs	13	atr	_	_
-15	такова	таковъ	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREs	13	atr	_	_
-16	мънога	мъногъ	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREs	13	atr	_	_
+13	ина	инъ	P	Px	NUMBp|GENDn|CASEa	14	atr	_	_
+14	подобъна	подобьнъ	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREs	17	obj	_	_
+15	такова	таковъ	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREs	14	atr	_	_
+16	мънога	мъногъ	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREs	14	atr	_	_
 17	творите	творити	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	12	pred	_	_
 
 1	Ꙇ	и	C	C-	INFLn	2	aux	_	_
@@ -28100,9 +28100,9 @@
 31	слоужаахѫ	слоужити	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	30	atr	_	_
 32	емоу	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	31	obl	_	_
 33	ꙇ	и	C	C-	INFLn	9	sub	_	_
-34	инꙑ	инъ	P	Px	NUMBp|GENDf|CASEn	33	sub	_	_
-35	мъногꙑ	мъногъ	A	A-	NUMBp|GENDf|CASEn|DEGRp|STREs	34	atr	_	_
-36	въшедъшѧѩ	вънити	V	V-	NUMBp|TENSu|MOODp|VOICa|GENDf|CASEn|STREw	34	atr	_	_
+34	инꙑ	инъ	P	Px	NUMBp|GENDf|CASEn	36	atr	_	_
+35	мъногꙑ	мъногъ	A	A-	NUMBp|GENDf|CASEn|DEGRp|STREs	36	atr	_	_
+36	въшедъшѧѩ	вънити	V	V-	NUMBp|TENSu|MOODp|VOICa|GENDf|CASEn|STREw	33	sub	_	_
 37	съ	съ	R	R-	INFLn	36	adv	_	_
 38	нимь	и	P	Pp	PERS3|NUMBs|GENDm|CASEi	37	obl	_	_
 39	въ	въ	R	R-	INFLn	36	obl	_	_
@@ -30869,10 +30869,10 @@
 26	огнемь	огнь	N	Nb	NUMBs|GENDm|CASEi	25	adv	_	_
 27	негашѫштиимь	негасѧ	A	A-	NUMBs|GENDo|CASEi|DEGRp|STREw	26	atr	_	_
 
-1	мънога	мъногъ	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREs	4	aux	_	_
+1	мънога	мъногъ	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREs	6	obj	_	_
 2	же	же	D	Df	INFLn	6	aux	_	_
-3	и	и	D	Df	INFLn	4	aux	_	_
-4	ина	инъ	P	Px	NUMBp|GENDn|CASEa	6	obj	_	_
+3	и	и	D	Df	INFLn	1	aux	_	_
+4	ина	инъ	P	Px	NUMBp|GENDn|CASEa	1	atr	_	_
 5	оутѣшаѩ	оутѣшати	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	6	xadv	_	_
 6	благовѣстъствоваше	благовѣстьствовати	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	0	pred	_	_
 7	къ	къ	R	R-	INFLn	6	obl	_	_
@@ -34526,10 +34526,10 @@
 48	и	и	C	C-	INFLn	42	aux	_	_
 49	соусана	соусана	N	Ne	NUMBs|GENDf|CASEn	42	apos	_	_
 50	и	и	C	C-	INFLn	42	aux	_	_
-51	инꙑ	инъ	P	Px	NUMBp|GENDf|CASEn	42	apos	_	_
-52	мъногꙑ	мъногъ	A	A-	NUMBp|GENDf|CASEn|DEGRp|STREs	51	atr	_	_
+51	инꙑ	инъ	P	Px	NUMBp|GENDf|CASEn	52	atr	_	_
+52	мъногꙑ	мъногъ	A	A-	NUMBp|GENDf|CASEn|DEGRp|STREs	42	apos	_	_
 53	ѩже	иже	P	Pr	NUMBp|GENDf|CASEn	54	sub	_	_
-54	слоужаахѫ	слоужити	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	51	atr	_	_
+54	слоужаахѫ	слоужити	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	52	atr	_	_
 55	емоу	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	54	obl	_	_
 56	отъ	отъ	R	R-	INFLn	54	adv	_	_
 57	имѣнии	имѣниѥ	N	Nb	NUMBp|GENDn|CASEg	56	obl	_	_
@@ -49530,7 +49530,7 @@
 14	ꙇ	и	C	C-	INFLn	0	pred	_	_
 15	сътвори	сътворити	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	14	pred	_	_
 16	бичь	бичь	N	Nb	NUMBs|GENDm|CASEa	15	obj	_	_
-17	отъ	отъ	R	R-	INFLn	15	adv	_	_
+17	отъ	отъ	R	R-	INFLn	15	obl	_	_
 18	връвии҅	врьвь	N	Nb	NUMBs|GENDf|CASEg	17	obl	_	_
 19	вьсѧ	вьсь	P	Px	NUMBp|GENDm|CASEa	20	obj	_	_
 20	изгъна	изгънати	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	14	pred	_	_
