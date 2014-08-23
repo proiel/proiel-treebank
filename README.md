@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/5147/proiel/proiel-treebank.png)](http://dx.doi.org/10.5281/zenodo.11370)
+
 The PROIEL Treebank
 ===================
 
