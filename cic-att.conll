@@ -43732,3 +43732,26 @@
 4	die	dies	N	Nb	NUMBs|GENDm|CASEb	0	adv(6)pred	_	_
 5	septingentesimosexagesimoquinto	septingentesimussexagesimusquintus	M	Mo	NUMBs|GENDm|CASEb	4	atr	_	_
 
+1	sed	sed	C	C-	INFLn	3	aux	_	_
+2	te	tu	P	Pp	PERS2|NUMBs|GENDm|CASEa	3	obj	_	_
+3	amavi	amo	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	6	pred	_	_
+4	tamen	tamen	D	Df	INFLn	3	aux	_	_
+5	admiratus	admiror	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	6	pred	_	_
+6	que	que	C	C-	INFLn	0	pred	_	_
+7	sum	sum	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	5	aux	_	_
+8	quod	quod	G	G-	INFLn	5	adv	_	_
+9	nihilominus	nihilominus	D	Df	INFLn	14	adv	_	_
+10	ad	ad	R	R-	INFLn	14	obl	_	_
+11	me	ego	P	Pp	PERS1|NUMBs|GENDm|CASEa	10	obl	_	_
+12	tua	tuus	P	Ps	PERS2|NUMBs|GENDf|CASEb	13	atr	_	_
+13	manu	manus	N	Nb	NUMBs|GENDf|CASEb	14	adv	_	_
+14	scripsisses	scribo	V	V-	PERS2|NUMBs|TENSl|MOODs|VOICa	8	pred	_	_
+
+1	a	ab	R	R-	INFLn	4	obl	_	_
+2	Turranio	Turranius	N	Ne	NUMBs|GENDm|CASEb	1	obl	_	_
+3	te	tu	P	Pp	PERS2|NUMBs|GENDm|CASEa	4	sub	_	_
+4	accepisse	accipio	V	V-	TENSr|MOODn|VOICa	7	comp	_	_
+5	meas	meus	P	Ps	PERS1|NUMBp|GENDf|CASEa	6	atr	_	_
+6	litteras	littera	N	Nb	NUMBp|GENDf|CASEa	4	obj	_	_
+7	gaudeo	gaudeo	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
