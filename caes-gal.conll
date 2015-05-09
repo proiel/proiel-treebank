@@ -22275,7 +22275,7 @@
 10	imperium	imperium	N	Nb	NUMBs|GENDn|CASEn	11	sub	_	_
 11	defertur	defero	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
 
-1	Illi	ille	P	Pd	NUMBs|GENDm|CASEn	9	sub	_	_
+1	Illi	ille	P	Pd	NUMBp|GENDm|CASEn	9	sub	_	_
 2	finitimos	finitimus	A	A-	NUMBp|GENDm|CASEa|DEGRp	3	atr	_	_
 3	Germanos	Germani	N	Nb	NUMBp|GENDm|CASEa	4	obj	_	_
 4	sollicitare	sollicito	V	V-	TENSp|MOODn|VOICa	5	xobj	_	_

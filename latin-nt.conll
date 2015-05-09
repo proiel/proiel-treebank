@@ -27279,7 +27279,7 @@
 
 1	oportet	oportet	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 2	enim	enim	D	Df	INFLn	1	aux	_	_
-3	fieri	fio	V	V-	TENSp|MOODn|VOICp	1	xobj	_	_
+3	fieri	fio	V	V-	TENSp|MOODn|VOICp	1	comp	_	_
 
 1	sed	sed	C	C-	INFLn	0	aux(4)pred	_	_
 2	nondum	nondum	D	Df	INFLn	0	aux(4)pred	_	_
