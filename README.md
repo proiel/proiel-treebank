@@ -46,10 +46,10 @@ Data formats
 
 The texts are available on two formats:
 
-1. PROIEL XML: These files are the authoritative source files. They contain the
-   complete morphological, syntactic and information-structure annotation, as well as
-   the complete text, including punctuation, section headers etc. The schema is
-   defined in `proiel.xsd`.
+1. PROIEL XML: These files are the authoritative source files and the only ones
+that contain all available annotation. They contain the complete morphological,
+syntactic and information-structure annotation, as well as the complete text,
+including punctuation, section headers etc. The schema is defined in
+`proiel.xsd`.
 
-2. [CoNLL-X format](http://nextens.uvt.nl/depparse-wiki/DataFormat): The CoNLL
-   files contain a subset of the information available in the XML files.
+2. [CoNLL-X format](http://nextens.uvt.nl/depparse-wiki/DataFormat)
