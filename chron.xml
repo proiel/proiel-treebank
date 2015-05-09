@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2014-12-19T12:47:48+01:00" schema-version="2.0">
+<proiel export-time="2015-05-07T18:53:44+02:00" schema-version="2.0">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -54,6 +54,7 @@
       <value tag="Pr" summary="relative pronoun"/>
       <value tag="G-" summary="subjunction"/>
       <value tag="V-" summary="verb"/>
+      <value tag="X-" summary="unassigned"/>
     </parts-of-speech>
     <morphology>
       <field tag="person">
@@ -161,7 +162,7 @@
     <funder>University of Oslo, University of Thessaloniki</funder>
     <distributor>Department of Classics, History of Arts and Ideas</distributor>
     <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
-    <date>19 December 2014</date>
+    <date>09 May 2015</date>
     <license>CC BY-NC-SA 3.0</license>
     <license-url>http://creativecommons.org/licenses/by-nc-sa/3.0/us/</license-url>
     <reference-system>chapter, section</reference-system>
