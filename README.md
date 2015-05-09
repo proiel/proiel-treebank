@@ -24,15 +24,20 @@ The following texts are included in this release of the treebank:
 
   Text                                                | Language            | Filename    | Size
   ----                                                | --------            | --------    | ----
-  The Greek New Testament (ed. Tischendorf 1869)      | Ancient Greek       | greek-nt    | 137005 words
-  The Armenian New Testament (ed. Künzle 1984)        | Classical Armenian  | armenian-nt | 23454 words
-  The Gothic Bible (ed. Streitberg 1919)              | Gothic              | gothic-nt   | 57210 words
-  Codex Marianus (ed. Jagić 1883)                     | Old Church Slavonic | marianus    | 58266 words
-  Jerome's Vulgate                                    | Latin               | latin-nt    | 81414 words
-  Caesar, Commentarii belli Gallici (ed. Holmes 1914) | Latin               | caes-gal    | 23598 words
-  Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     | 41880 words
-  Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         | 81471 words
-  Sphrantzes, Chronicles (post-1453) (ed. Grecu 1966) | Ancient Greek       | chron       | 19295 words
+  The Greek New Testament (ed. Tischendorf 1869)      | Ancient Greek       | greek-nt    | 137005 tokens
+  The Armenian New Testament (ed. Künzle 1984)        | Classical Armenian  | armenian-nt | 23513 tokens
+  The Gothic Bible (ed. Streitberg 1919)              | Gothic              | gothic-nt   | 57210 tokens
+  Codex Marianus (ed. Jagić 1883)                     | Old Church Slavonic | marianus    | 58266 tokens
+  Jerome's Vulgate                                    | Latin               | latin-nt    | 81414 tokens
+  Caesar, Commentarii belli Gallici (ed. Holmes 1914) | Latin               | caes-gal    | 23598 tokens
+  Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     | 41901 tokens
+  Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         | 81471 tokens
+  Sphrantzes, Chronicles (post-1453) (ed. Grecu 1966) | Ancient Greek       | chron       | 19295 tokens
+
+(The 'size' column in the table above shows the number of annotated tokens in
+a text. The number of tokens will be slightly larger than the number of words
+in the original printed edition as some words have been split into multiple
+tokens and some tokens have been inserted during annotation.)
 
 Please see the XML files for detailed metadata and a full list of contributors.
 
