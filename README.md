@@ -29,7 +29,7 @@ The following texts are included in this release of the treebank:
   The Gothic Bible (ed. Streitberg 1919)              | Gothic              | gothic-nt   | 57210 tokens
   Codex Marianus (ed. Jagić 1883)                     | Old Church Slavonic | marianus    | 58266 tokens
   Jerome's Vulgate                                    | Latin               | latin-nt    | 81414 tokens
-  Caesar, Commentarii belli Gallici (ed. Holmes 1914) | Latin               | caes-gal    | 23598 tokens
+  Caesar, Commentarii belli Gallici (ed. Holmes 1914) | Latin               | caes-gal    | 28340 tokens
   Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     | 41901 tokens
   Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         | 81471 tokens
   Sphrantzes, Chronicles (post-1453) (ed. Grecu 1966) | Ancient Greek       | chron       | 19295 tokens
