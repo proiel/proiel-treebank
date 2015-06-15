@@ -9,10 +9,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 Please cite as
 
-> Haug, Dag Trygve Truslew and Marius Jøhndal. 2008. 'Creating a Parallel
-> Treebank of the Old Indo-European Bible Translations'. In Khalid Choukri
-> (ed.). Proceedings of the Second Workshop on Language Technology for
-> Cultural Heritage Data (LaTeCH 2008).
+> Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of the Old Indo-European Bible Translations'. In Caroline Sporleder and Kiril Ribarov (eds.). Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008) (2008), pp. 27-34.
 
 Releases of the PROIEL Treebank are hosted on
 [Github](https://github.com/proiel/proiel-treebank).
