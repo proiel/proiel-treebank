@@ -83342,6 +83342,13 @@
 7	in	in	R	R-	INFLn	6	obl	_	_
 8	caritate	caritas	N	Nb	NUMBs|GENDf|CASEb	7	obl	_	_
 
+1	non	non	D	Df	INFLn	3	aux	_	_
+2	pro	pro	R	R-	INFLn	6	obl	_	_
+3	illo	ille	P	Pd	NUMBs|GENDm|CASEb	2	obl	_	_
+4	dico	dico	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	ut	ut	G	G-	INFLn	4	comp	_	_
+6	roget	rogo	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	5	pred	_	_
+
 1	sit	sum	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	0	pred	_	_
 2	nobis	nos	P	Pp	PERS1|NUMBp|GENDp|CASEb	3	obl	_	_
 3	cum	cum	R	R-	INFLn	1	xobj	_	_
