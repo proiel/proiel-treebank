@@ -6080,7 +6080,7 @@
 3	ludis	ludus	N	Nb	NUMBp|GENDm|CASEb	4	adv	_	_
 4	et	et	C	C-	INFLn	12	adv	_	_
 5	gladiatoribus	gladiator	N	Nb	NUMBp|GENDm|CASEb	4	adv	_	_
-6	mirandas	miror	V	V-	NUMBp|MOODg|GENDf|CASEa	7	atr	_	_
+6	mirandas	mirandus	A	A-	NUMBp|GENDf|CASEa|DEGRp	7	atr	_	_
 7	ἐπισημασίας	greekexpression	F	F-	INFLn	12	obj	_	_
 8	sine	sine	R	R-	INFLn	12	adv	_	_
 9	ulla	ullus	P	Px	NUMBs|GENDf|CASEb	11	atr	_	_
@@ -8122,7 +8122,7 @@
 14	illam	ille	P	Pd	NUMBs|GENDf|CASEa	13	atr	_	_
 15	pictam	pingo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEa	13	atr	_	_
 16	silentio	silentium	N	Nb	NUMBs|GENDn|CASEb	17	adv	_	_
-17	tuetur	tuor	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
+17	tuetur	tueor	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
 18	suam	suus	P	Pt	PERS3|NUMBs|GENDf|CASEa	13	atr	_	_
 
 1	Crassus	Crassus	N	Ne	NUMBs|GENDm|CASEn	0	sub(6)pred	_	_
@@ -20168,7 +20168,7 @@
 1	reliqua	reliquus	A	A-	NUMBp|GENDn|CASEn|DEGRp	5	sub	_	_
 2	quam	quam	D	Du	INFLn	4	adv	_	_
 3	mihi	ego	P	Pp	PERS1|NUMBs|GENDm|CASEd	4	ag	_	_
-4	timenda	timeo	V	V-	NUMBp|MOODg|GENDn|CASEn	5	sub	_	_
+4	timenda	timeo	V	V-	NUMBp|MOODg|GENDn|CASEn	5	xobj	_	_
 5	sint	sum	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	6	comp	_	_
 6	video	video	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	8	pred	_	_
 7	ne	ne	D	Df	INFLn	11	aux	_	_

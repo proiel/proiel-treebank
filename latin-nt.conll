@@ -22583,7 +22583,7 @@
 8	grabattis	grabattus	N	Nb	NUMBp|GENDm|CASEb	7	obl	_	_
 9	eos	is	P	Pp	PERS3|NUMBp|GENDm|CASEa	14	obj	_	_
 10	qui	qui	P	Pr	NUMBp|GENDm|CASEn	13	sub	_	_
-11	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	13	aux	_	_
+11	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	13	obj	_	_
 12	male	male	D	Df	DEGRp	13	xobj	_	_
 13	habebant	habeo	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	9	atr	_	_
 14	circumferre	circumfero	V	V-	TENSp|MOODn|VOICa	6	xobj	_	_
@@ -29553,8 +29553,8 @@
 3	veniat	venio	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	2	pred	_	_
 4	Helias	Helias	N	Ne	NUMBs|GENDm|CASEn	3	sub	_	_
 5	ad	ad	R	R-	INFLn	3	adv	_	_
-6	deponendum	depono	V	V-	NUMBs|MOODg|GENDm|CASEa	7	atr	_	_
-7	eum	is	P	Pp	PERS3|NUMBs|GENDm|CASEa	5	obl	_	_
+6	deponendum	depono	V	V-	NUMBs|MOODg|GENDm|CASEa	5	obl	_	_
+7	eum	is	P	Pp	PERS3|NUMBs|GENDm|CASEa	6	sub	_	_
 
 1	Iesus	Iesus	N	Ne	NUMBs|GENDm|CASEn	6	sub	_	_
 2	autem	autem	D	Df	INFLn	6	aux	_	_
@@ -30924,7 +30924,7 @@
 3	impletum	impleo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn	7	pred	_	_
 4	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	3	aux	_	_
 5	tempus	tempus	N	Nb	NUMBs|GENDn|CASEn	3	sub	_	_
-6	pariendi	pario	V	V-	MOODd|CASEg	5	narg	_	_
+6	pariendi	pario	V	V-	MOODd|CASEg	5	atr	_	_
 7	et	et	C	C-	INFLn	0	pred	_	_
 8	peperit	pario	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	7	pred	_	_
 9	filium	filius	N	Nb	NUMBs|GENDm|CASEa	8	obj	_	_
@@ -69494,7 +69494,7 @@
 5	si	si	G	G-	INFLn	1	comp	_	_
 6	haec	hic	P	Pd	NUMBp|GENDn|CASEn	9	sub	_	_
 7	ita	ita	D	Df	INFLn	9	xobj	_	_
-8	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	9	aux	_	_
+8	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	9	obj	_	_
 9	habent	habeo	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	5	pred	_	_
 
 1	qui	qui	P	Pr	NUMBs|GENDm|CASEn	2	sub	_	_
@@ -73759,7 +73759,7 @@
 2	autem	autem	D	Df	INFLn	3	aux	_	_
 3	adfirmabat	affirmo	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	0	pred	_	_
 4	sic	sic	D	Df	INFLn	6	xobj	_	_
-5	se	se	P	Pk	PERS3|NUMBs|GENDn|CASEa	6	aux	_	_
+5	se	se	P	Pk	PERS3|NUMBs|GENDn|CASEa	6	obj	_	_
 6	habere	habeo	V	V-	TENSp|MOODn|VOICa	3	comp	_	_
 
 1	illi	ille	P	Pd	NUMBp|GENDm|CASEn	3	sub	_	_
@@ -75924,7 +75924,7 @@
 10	verbum	verbum	N	Nb	NUMBs|GENDn|CASEa	9	obj	_	_
 11	Domini	dominus	N	Nb	NUMBs|GENDm|CASEg	10	atr	_	_
 12	quomodo	quomodo	D	Du	INFLn	14	xobj	_	_
-13	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	14	aux	_	_
+13	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	14	obj	_	_
 14	habeant	habeo	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	2	comp	_	_
 
 1	Barnabas	Barnabas	N	Ne	NUMBs|GENDm|CASEn	3	sub	_	_
@@ -76929,7 +76929,7 @@
 18	si	si	G	G-	INFLn	16	comp	_	_
 19	haec	hic	P	Pd	NUMBp|GENDn|CASEn	22	sub	_	_
 20	ita	ita	D	Df	INFLn	22	xobj	_	_
-21	se	se	P	Pk	PERS3|NUMBp|GENDn|CASEa	22	aux	_	_
+21	se	se	P	Pk	PERS3|NUMBp|GENDn|CASEa	22	obj	_	_
 22	haberent	habeo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	18	pred	_	_
 
 1	et	et	C	C-	INFLn	4	aux	_	_

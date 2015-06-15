@@ -7512,7 +7512,7 @@
 14	committendum	committo	V	V-	NUMBs|MOODg|GENDn|CASEa	16	comp	_	_
 15	non	non	D	Df	INFLn	16	aux	_	_
 16	putabat	puto	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	0	pred	_	_
-17	ut	ut	G	G-	INFLn	14	comp	_	_
+17	ut	ut	G	G-	INFLn	14	adv	_	_
 18	pulsis	pello	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEb	21	adv	_	_
 19	hostibus	hostis	N	Nb	NUMBp|GENDm|CASEb	18	sub	_	_
 20	dici	dico	V	V-	TENSp|MOODn|VOICp	21	xobj	_	_
@@ -9290,8 +9290,8 @@
 20	multitudine	multitudo	N	Nb	NUMBs|GENDf|CASEb	18	obl	_	_
 21	uno	unus	M	Ma	NUMBs|GENDo|CASEb	22	atr	_	_
 22	tempore	tempus	N	Nb	NUMBs|GENDn|CASEb	23	adv	_	_
-23	confligendum	confligo	V	V-	NUMBs|MOODg|GENDn|CASEn	17	pred	_	_
-24	sit	sum	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	23	aux	_	_
+23	confligendum	confligo	V	V-	NUMBs|MOODg|GENDn|CASEn	24	xobj	_	_
+24	sit	sum	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	17	pred	_	_
 
 1	Id	is	P	Pp	PERS3|NUMBs|GENDn|CASEa	3	sub	_	_
 2	fieri	fio	V	V-	TENSp|MOODn|VOICp	3	xobj	_	_
@@ -11054,7 +11054,7 @@
 4	que	que	C	C-	INFLn	8	sub	_	_
 5	agminis	agmen	N	Nb	NUMBs|GENDn|CASEg	4	atr	_	_
 6	aliter	aliter	D	Df	INFLn	8	xobj	_	_
-7	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	8	aux	_	_
+7	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	8	obj	_	_
 8	habebat	habeo	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	0	pred	_	_
 9	ac	atque	D	Df	INFLn	6	obl	_	_
 10	Belgae	Belgae	N	Nb	NUMBp|GENDm|CASEn	13	sub	_	_
@@ -11433,18 +11433,18 @@
 12	ut	ut	G	G-	INFLn	6	adv(29)pred	_	_
 13	non	non	D	Df	INFLn	14	aux	_	_
 14	modo	modo	D	Df	INFLn	15	aux	_	_
-15	ad	ad	R	R-	INFLn	18	adv	_	_
+15	ad	ad	R	R-	INFLn	18	obl	_	_
 16	insignia	insigne	N	Nb	NUMBp|GENDn|CASEa	17	sub	_	_
 17	accommodanda	accommodo	V	V-	NUMBp|MOODg|GENDn|CASEa	15	obl	_	_
-18	sed	sed	C	C-	INFLn	28	adv	_	_
-19	etiam	etiam	D	Df	INFLn	24	aux	_	_
-20	ad	ad	R	R-	INFLn	24	adv	_	_
+18	sed	sed	C	C-	INFLn	28	obl	_	_
+19	etiam	etiam	D	Df	INFLn	20	aux	_	_
+20	ad	ad	R	R-	INFLn	18	obl	_	_
 21	galeas	galea	N	Nb	NUMBp|GENDf|CASEa	22	sub	_	_
-22	induendas	induo	V	V-	NUMBp|MOODg|GENDf|CASEa	20	obl	_	_
-23	scutis	scutum	N	Nb	NUMBp|GENDn|CASEb	26	obl	_	_
-24	que	que	C	C-	INFLn	18	adv	_	_
+22	induendas	induo	V	V-	NUMBp|MOODg|GENDf|CASEa	24	obl	_	_
+23	scutis	scutum	N	Nb	NUMBp|GENDn|CASEb	25	atr	_	_
+24	que	que	C	C-	INFLn	20	obl	_	_
 25	tegimenta	tegimentum	N	Nb	NUMBp|GENDn|CASEa	26	sub	_	_
-26	detrahenda	detraho	V	V-	NUMBp|MOODg|GENDn|CASEa	24	adv	_	_
+26	detrahenda	detraho	V	V-	NUMBp|MOODg|GENDn|CASEa	24	obl	_	_
 27	tempus	tempus	N	Nb	NUMBs|GENDn|CASEn	28	sub	_	_
 28	defuerit	desum	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	12	pred	_	_
 
@@ -15534,7 +15534,7 @@
 8	negotii	negotium	N	Nb	NUMBs|GENDn|CASEg	10	sub	_	_
 9	bene	bene	D	Df	DEGRp	10	adv	_	_
 10	gerendi	gero	V	V-	NUMBs|MOODg|GENDn|CASEg	7	narg	_	_
-11	amittendam	amitto	V	V-	NUMBs|MOODg|GENDf|CASEn	5	comp(18)comp	_	_
+11	amittendam	amitto	V	V-	NUMBs|MOODg|GENDf|CASEa	5	comp(18)comp	_	_
 12	non	non	D	Df	INFLn	11	aux	_	_
 13	esse	sum	V	V-	TENSp|MOODn|VOICa	11	aux	_	_
 14	ad	ad	R	R-	INFLn	16	obl	_	_
