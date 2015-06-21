@@ -480,7 +480,7 @@
 4	oportebat	oportet	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	0	pred	_	_
 5	ut	ut	G	G-	INFLn	2	apos	_	_
 6	igni	ignis	N	Nb	NUMBs|GENDm|CASEb	7	adv	_	_
-7	cremaretur	cremo	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICp	5	apos	_	_
+7	cremaretur	cremo	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICp	5	pred	_	_
 
 1	Die	dies	N	Nb	NUMBs|GENDf|CASEb	2	sub	_	_
 2	constituta	constituo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEb	16	adv	_	_
@@ -840,7 +840,7 @@
 4	maximum	magnus	A	A-	NUMBs|GENDo|CASEa|DEGRs	7	atr	_	_
 5	potest	possum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	4	adv	_	_
 6	militum	miles	N	Nb	NUMBp|GENDm|CASEg	7	part	_	_
-7	numerum	numerus	N	Nb	NUMBs|GENDm|CASEa	8	obj(24)comp	_	_
+7	numerum	numerus	N	Nb	NUMBs|GENDm|CASEa	8	obj	_	_
 8	imperat	impero	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred(23)pred	_	_
 9	erat	sum	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	0	parpred	_	_
 10	omnino	omnino	D	Df	INFLn	9	adv	_	_
@@ -951,10 +951,10 @@
 2	ut	ut	G	G-	INFLn	12	adv	_	_
 3	spatium	spatium	N	Nb	NUMBs|GENDn|CASEn	5	sub	_	_
 4	intercedere	intercedo	V	V-	TENSp|MOODn|VOICa	5	xobj	_	_
-5	posset	possum	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	2	adv	_	_
+5	posset	possum	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	2	pred	_	_
 6	dum	dum	G	G-	INFLn	5	adv	_	_
 7	milites	miles	N	Nb	NUMBp|GENDm|CASEn	10	sub	_	_
-8	quos	qui	P	Pr	NUMBp|GENDm|CASEa	9	obj(18)comp	_	_
+8	quos	qui	P	Pr	NUMBp|GENDm|CASEa	9	obj	_	_
 9	imperaverat	impero	V	V-	PERS3|NUMBs|TENSl|MOODi|VOICa	7	atr	_	_
 10	convenirent	convenio	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	6	pred	_	_
 11	legatis	legatus	N	Nb	NUMBp|GENDm|CASEd	12	obl	_	_
@@ -1885,7 +1885,7 @@
 10	difficile	difficile	D	Df	DEGRp	9	xobj	_	_
 11	cavere	caveo	V	V-	TENSp|MOODn|VOICa	9	comp	_	_
 
-1	sed	sed	C	C-	INFLn	0	aux(19)pred	_	_
+1	sed	sed	C	C-	INFLn	3	aux	_	_
 2	eo	eo#2	D	Df	INFLn	3	adv	_	_
 3	deceptum	decipio	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEa	0	comp(19)pred	_	_
 4	quod	quod	G	G-	INFLn	2	apos	_	_
@@ -2610,7 +2610,7 @@
 
 1	Si	si	G	G-	INFLn	12	adv	_	_
 2	quid	quis	P	Px	NUMBs|GENDn|CASEn	3	sub	_	_
-3	accidat	accido	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	1	adv	_	_
+3	accidat	accido	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	1	pred	_	_
 4	Romanis	Romanus	N	Nb	NUMBp|GENDm|CASEd	3	obl	_	_
 5	summam	summus	A	A-	NUMBs|GENDf|CASEa|DEGRp	7	atr	_	_
 6	in	in	R	R-	INFLn	12	obl	_	_
@@ -3464,7 +3464,7 @@
 18	iussit	iubeo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 
 1	Helvetii	Helvetii	N	Nb	NUMBp|GENDm|CASEn	11	sub	_	_
-2	cum	cum	G	G-	INFLn	6	adv	_	_
+2	cum	cum	R	R-	INFLn	6	adv	_	_
 3	omnibus	omnis	P	Px	NUMBp|GENDq|CASEb	5	atr	_	_
 4	suis	suus	P	Pt	PERS3|NUMBp|GENDq|CASEb	5	atr	_	_
 5	carris	carrus	N	Nb	NUMBp|GENDm|CASEb	2	obl	_	_
@@ -3957,9 +3957,9 @@
 8	ierant	eo	V	V-	PERS3|NUMBp|TENSl|MOODi|VOICa	9	apos	_	_
 9	his	hic	P	Pd	NUMBp|GENDm|CASEd	19	obl	_	_
 10	uti	ut	G	G-	INFLn	19	comp	_	_
-11	conquirerent	conquiro	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	12	comp	_	_
-12	et	et	C	C-	INFLn	10	comp	_	_
-13	reducerent	reduco	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	12	comp	_	_
+11	conquirerent	conquiro	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	12	pred	_	_
+12	et	et	C	C-	INFLn	10	pred	_	_
+13	reducerent	reduco	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	12	pred	_	_
 14	si	si	G	G-	INFLn	19	adv	_	_
 15	sibi	se	P	Pk	PERS3|NUMBs|GENDm|CASEd	17	adv	_	_
 16	purgati	purgo	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn	17	xobj	_	_
@@ -4050,14 +4050,14 @@
 26	in	in	R	R-	INFLn	29	obl	_	_
 27	Helvetiorum	Helvetii	N	Nb	NUMBp|GENDm|CASEg	28	atr	_	_
 28	fines	finis	N	Nb	NUMBp|GENDm|CASEa	26	obl	_	_
-29	transirent	transeo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	30	adv	_	_
-30	et	et	C	C-	INFLn	14	adv	_	_
+29	transirent	transeo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	30	pred	_	_
+30	et	et	C	C-	INFLn	14	pred	_	_
 31	finitimi	finitimus	A	A-	NUMBp|GENDm|CASEn|DEGRp	36	xobj	_	_
 32	Galliae	Gallia	N	Ne	NUMBs|GENDf|CASEd	35	obl	_	_
 33	provinciae	provincia	N	Nb	NUMBs|GENDf|CASEd	32	apos	_	_
 34	Allobrogibus	Allobroges	N	Nb	NUMBp|GENDm|CASEd	35	obl	_	_
 35	que	que	C	C-	INFLn	36	obl	_	_
-36	essent	sum	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	30	adv	_	_
+36	essent	sum	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	30	pred	_	_
 
 1	Boios	Boii	N	Nb	NUMBp|GENDm|CASEa	13	obj	_	_
 2	petentibus	peto	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEd	14	xadv	_	_
@@ -4234,17 +4234,17 @@
 38	toti	totus	A	A-	NUMBs|GENDq|CASEd|DEGRp	39	atr	_	_
 39	Galliae	Gallia	N	Ne	NUMBs|GENDf|CASEd	41	obl	_	_
 40	bellum	bellum	N	Nb	NUMBs|GENDn|CASEa	41	obj	_	_
-41	inferrent	infero	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	43	apos	_	_
+41	inferrent	infero	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	43	pred	_	_
 42	imperio	imperium	N	Nb	NUMBs|GENDn|CASEb	44	obl	_	_
-43	que	que	C	C-	INFLn	37	apos	_	_
-44	potirentur	potior	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICp	43	apos	_	_
+43	que	que	C	C-	INFLn	37	pred	_	_
+44	potirentur	potior	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICp	43	pred	_	_
 45	locum	locus	N	Nb	NUMBs|GENDm|CASEa	51	obj	_	_
 46	que	que	C	C-	INFLn	43	aux	_	_
 47	domicilio	domicilium	N	Nb	NUMBs|GENDn|CASEd	51	obl	_	_
 48	ex	ex	R	R-	INFLn	51	adv	_	_
 49	magna	magnus	A	A-	NUMBs|GENDf|CASEb|DEGRp	50	atr	_	_
 50	copia	copia	N	Nb	NUMBs|GENDf|CASEb	48	obl	_	_
-51	deligerent	deligo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	43	apos	_	_
+51	deligerent	deligo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	43	pred	_	_
 52	quem	qui	P	Pr	NUMBs|GENDm|CASEa	59	obj	_	_
 53	ex	ex	R	R-	INFLn	57	part	_	_
 54	omni	omnis	P	Px	NUMBs|GENDq|CASEb	55	atr	_	_
@@ -4257,7 +4257,7 @@
 61	que	que	C	C-	INFLn	43	aux	_	_
 62	civitates	civitas	N	Nb	NUMBp|GENDf|CASEa	64	obj	_	_
 63	stipendiarias	stipendiarius	A	A-	NUMBp|GENDf|CASEa|DEGRp	64	xadv	_	_
-64	haberent	habeo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	43	apos	_	_
+64	haberent	habeo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	43	pred	_	_
 
 1	Petierunt	peto	V	V-	PERS3|NUMBp|TENSr|MOODi|VOICa	0	pred	_	_
 2	uti	ut	G	G-	INFLn	1	comp	_	_
@@ -4549,12 +4549,12 @@
 10	non	non	D	Df	INFLn	11	aux	_	_
 11	potuerit	possum	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	1	atr	_	_
 12	ut	ut	G	G-	INFLn	9	comp	_	_
-13	iuraret	iuro	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	14	comp	_	_
-14	aut	aut	C	C-	INFLn	12	comp	_	_
+13	iuraret	iuro	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	14	pred	_	_
+14	aut	aut	C	C-	INFLn	12	pred	_	_
 15	liberos	liberi	N	Nb	NUMBp|GENDm|CASEa	18	obj	_	_
 16	suos	suus	P	Pt	PERS3|NUMBp|GENDm|CASEa	15	atr	_	_
 17	obsides	obses	N	Nb	NUMBp|GENDm|CASEa	18	xadv	_	_
-18	daret	do	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	14	comp	_	_
+18	daret	do	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	14	pred	_	_
 
 1	Ob	ob	R	R-	INFLn	7	adv	_	_
 2	eam	is	P	Pp	PERS3|NUMBs|GENDf|CASEa	3	atr	_	_
@@ -4645,12 +4645,12 @@
 7	ex	ex	R	R-	INFLn	10	obl	_	_
 8	Galliae	Gallia	N	Ne	NUMBs|GENDf|CASEg	9	atr	_	_
 9	finibus	finis	N	Nb	NUMBp|GENDm|CASEb	7	obl	_	_
-10	pellerentur	pello	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICp	11	comp	_	_
-11	atque	atque	C	C-	INFLn	5	comp	_	_
+10	pellerentur	pello	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICp	11	pred	_	_
+11	atque	atque	C	C-	INFLn	5	pred	_	_
 12	omnes	omnis	P	Px	NUMBp|GENDm|CASEn	13	atr	_	_
 13	Germani	Germani	N	Nb	NUMBp|GENDm|CASEn	15	sub	_	_
 14	Rhenum	Rhenus	N	Ne	NUMBs|GENDm|CASEa	15	obj	_	_
-15	transirent	transeo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	11	comp	_	_
+15	transirent	transeo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	11	pred	_	_
 
 1	ne	ne	D	Df	INFLn	5	aux	_	_
 2	que	que	C	C-	INFLn	11	aux	_	_
@@ -4870,14 +4870,14 @@
 2	ab	ab	R	R-	INFLn	5	obl	_	_
 3	his	hic	P	Pd	NUMBp|GENDm|CASEb	2	obl	_	_
 4	saepius	saepe	D	Df	DEGRc	5	adv	_	_
-5	quaereret	quaero	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	7	adv	_	_
+5	quaereret	quaero	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	7	pred	_	_
 6	ne	ne	D	Df	INFLn	12	aux	_	_
-7	que	que	C	C-	INFLn	1	adv	_	_
+7	que	que	C	C-	INFLn	1	pred	_	_
 8	ullam	ullus	P	Px	NUMBs|GENDf|CASEa	10	atr	_	_
 9	omnino	omnino	D	Df	INFLn	12	adv	_	_
 10	vocem	vox	N	Nb	NUMBs|GENDf|CASEa	11	obj	_	_
 11	exprimere	exprimo	V	V-	TENSp|MOODn|VOICa	12	xobj	_	_
-12	posset	possum	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	7	adv	_	_
+12	posset	possum	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	7	pred	_	_
 13	idem	idem	P	Pd	NUMBs|GENDm|CASEn	14	atr	_	_
 14	Diviacus	Diviciacus	N	Ne	NUMBs|GENDm|CASEn	16	sub	_	_
 15	Haeduus	Aeduus	A	A-	NUMBs|GENDm|CASEn|DEGRp	14	apos	_	_
@@ -5008,18 +5008,18 @@
 29	servitute	servitus	N	Nb	NUMBs|GENDf|CASEb	30	obl	_	_
 30	atque	atque	C	C-	INFLn	28	obl	_	_
 31	dicione	dicio	N	Nb	NUMBs|GENDf|CASEb	30	obl	_	_
-32	videbat	video	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	36	apos	_	_
+32	videbat	video	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	36	pred	_	_
 33	Germanorum	Germani	N	Nb	NUMBp|GENDm|CASEg	30	atr	_	_
 34	teneri	teneo	V	V-	TENSp|MOODn|VOICp	32	comp	_	_
 35	eorum	is	P	Pd	NUMBp|GENDm|CASEg	37	atr	_	_
-36	que	que	C	C-	INFLn	18	apos	_	_
+36	que	que	C	C-	INFLn	18	pred	_	_
 37	obsides	obses	N	Nb	NUMBp|GENDm|CASEa	38	sub	_	_
 38	esse	sum	V	V-	TENSp|MOODn|VOICa	43	comp	_	_
 39	apud	apud	R	R-	INFLn	38	xobj	_	_
 40	Ariovistum	Ariovistus	N	Ne	NUMBs|GENDm|CASEa	41	obl	_	_
 41	ac	atque	C	C-	INFLn	39	obl	_	_
 42	Sequanos	Sequani	N	Nb	NUMBp|GENDm|CASEa	41	obl	_	_
-43	intellegebat	intellego	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	36	apos	_	_
+43	intellegebat	intellego	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	36	pred	_	_
 44	quod	qui	P	Pr	NUMBs|GENDn|CASEa	55	sub	_	_
 45	in	in	R	R-	INFLn	55	adv	_	_
 46	tanto	tantus	A	A-	NUMBs|GENDo|CASEb|DEGRp	47	atr	_	_
@@ -5073,12 +5073,12 @@
 37	fecissent	facio	V	V-	PERS3|NUMBp|TENSl|MOODs|VOICa	40	adv	_	_
 38	in	in	R	R-	INFLn	40	obl	_	_
 39	provinciam	provincia	N	Nb	NUMBs|GENDf|CASEa	38	obl	_	_
-40	exirent	exeo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	41	comp	_	_
-41	atque	atque	C	C-	INFLn	27	comp	_	_
+40	exirent	exeo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	41	pred	_	_
+41	atque	atque	C	C-	INFLn	27	pred	_	_
 42	inde	inde	D	Df	INFLn	45	obl	_	_
 43	in	in	R	R-	INFLn	45	obl	_	_
 44	Italiam	Italia	N	Ne	NUMBs|GENDf|CASEa	43	obl	_	_
-45	contenderent	contendo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	41	comp	_	_
+45	contenderent	contendo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	41	pred	_	_
 
 1	quibus	qui	P	Pr	NUMBp|GENDq|CASEd	2	atr	_	_
 2	rebus	res	N	Nb	NUMBp|GENDf|CASEd	5	obl	_	_
@@ -9235,7 +9235,7 @@
 10	arbitrari	arbitror	V	V-	TENSp|MOODn|VOICp	0	comp(14)pred	_	_
 11	ad	ad	D	Df	INFLn	13	aux	_	_
 12	quadraginta	quadraginta	M	Ma	INFLn	13	atr	_	_
-13	milia	mille	M	Ma	NUMBp|GENDn|CASEa	10	obj(15)comp	_	_
+13	milia	mille	M	Ma	NUMBp|GENDn|CASEa	10	xobj(15)comp	_	_
 
 1	Caesar	Caesar	N	Ne	NUMBs|GENDm|CASEn	20	sub	_	_
 2	Remos	Remi	N	Nb	NUMBp|GENDm|CASEa	5	obj	_	_
@@ -9303,12 +9303,12 @@
 8	in	in	R	R-	INFLn	11	obl	_	_
 9	fines	finis	N	Nb	NUMBp|GENDm|CASEa	8	obl	_	_
 10	Bellovacorum	Bellovaci	N	Nb	NUMBp|GENDm|CASEg	9	atr	_	_
-11	introduxerint	introduco	V	V-	PERS3|NUMBp|TENSr|MOODs|VOICa	12	adv	_	_
-12	et	et	C	C-	INFLn	4	adv	_	_
+11	introduxerint	introduco	V	V-	PERS3|NUMBp|TENSr|MOODs|VOICa	12	pred	_	_
+12	et	et	C	C-	INFLn	4	pred	_	_
 13	eorum	is	P	Pp	PERS3|NUMBp|GENDm|CASEg	14	atr	_	_
 14	agros	ager	N	Nb	NUMBp|GENDm|CASEa	15	obj	_	_
 15	populari	populor	V	V-	TENSp|MOODn|VOICp	16	xobj	_	_
-16	coeperint	coepi	V	V-	PERS3|NUMBp|TENSr|MOODs|VOICa	12	adv	_	_
+16	coeperint	coepi	V	V-	PERS3|NUMBp|TENSr|MOODs|VOICa	12	pred	_	_
 
 1	His	hic	P	Pd	NUMBp|GENDq|CASEd	3	atr	_	_
 2	datis	do	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDn|CASEb	7	adv	_	_
@@ -9424,7 +9424,7 @@
 5	duodecim	duodecim	M	Ma	INFLn	6	atr	_	_
 6	vallo	vallum	N	Nb	NUMBs|GENDn|CASEb	8	atr	_	_
 7	fossa	fossa	N	Nb	NUMBs|GENDf|CASEb	8	atr	_	_
-8	que	que	C	C-	INFLn	11	adv	_	_
+8	que	que	C	C-	INFLn	11	atr	_	_
 9	duodeviginti	duodeviginti	M	Ma	INFLn	7	atr	_	_
 10	pedum	pes	N	Nb	NUMBp|GENDm|CASEg	9	part	_	_
 11	muniri	munio	V	V-	TENSp|MOODn|VOICp	12	comp	_	_
@@ -10012,7 +10012,7 @@
 38	quemque	quisque	P	Px	NUMBs|GENDm|CASEa	39	sub	_	_
 39	reverti	revertor	V	V-	TENSp|MOODn|VOICp	35	comp	_	_
 
-1	et	et	C	C-	INFLn	0	aux(29)pred	_	_
+1	et	et	C	C-	INFLn	13	aux	_	_
 2	quorum	qui	P	Pr	NUMBp|GENDm|CASEg	4	atr	_	_
 3	in	in	R	R-	INFLn	8	obl	_	_
 4	fines	finis	N	Nb	NUMBp|GENDm|CASEa	3	obl	_	_
@@ -12189,12 +12189,12 @@
 15	cecidissent	cado	V	V-	PERS3|NUMBp|TENSl|MOODs|VOICa	12	pred	_	_
 16	proximi	proximus	A	A-	NUMBp|GENDm|CASEn|DEGRp	18	sub	_	_
 17	iacentibus	iaceo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEd	18	obl	_	_
-18	insisterent	insisto	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	19	apos	_	_
-19	atque	atque	C	C-	INFLn	11	apos	_	_
+18	insisterent	insisto	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	19	pred	_	_
+19	atque	atque	C	C-	INFLn	11	pred	_	_
 20	ex	ex	R	R-	INFLn	23	adv	_	_
 21	eorum	is	P	Pp	PERS3|NUMBp|GENDm|CASEg	22	atr	_	_
 22	corporibus	corpus	N	Nb	NUMBp|GENDn|CASEb	20	obl	_	_
-23	pugnarent	pugno	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	19	apos	_	_
+23	pugnarent	pugno	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	19	pred	_	_
 24	his	hic	P	Pd	NUMBp|GENDq|CASEb	28	atr	_	_
 25	deiectis	deicio	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDn|CASEb	26	adv	_	_
 26	et	et	C	C-	INFLn	37	adv	_	_
@@ -12208,7 +12208,7 @@
 34	tela	telum	N	Nb	NUMBp|GENDn|CASEa	37	obj	_	_
 35	in	in	R	R-	INFLn	37	obl	_	_
 36	nostros	noster	P	Ps	PERS1|NUMBp|GENDm|CASEa	35	obl	_	_
-37	coicerent	coicio	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	19	apos	_	_
+37	coicerent	coicio	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	19	pred	_	_
 38	et	et	C	C-	INFLn	19	aux	_	_
 39	pila	pilum	N	Nb	NUMBp|GENDn|CASEa	41	obj	_	_
 40	intercepta	intercipio	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDn|CASEa	39	atr	_	_
@@ -17858,7 +17858,7 @@
 11	remanerent	remaneo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	8	pred	_	_
 
 1	ne	ne	D	Df	INFLn	4	aux	_	_
-2	que	que	C	C-	INFLn	0	aux(13)pred	_	_
+2	que	que	C	C-	INFLn	4	aux	_	_
 3	verum	verus	A	A-	NUMBs|GENDn|CASEn|DEGRp	4	xobj	_	_
 4	esse	sum	V	V-	TENSp|MOODn|VOICa	0	comp(13)pred	_	_
 5	qui	qui	P	Pr	NUMBp|GENDm|CASEn	10	sub	_	_
@@ -17871,7 +17871,7 @@
 12	occupare	occupo	V	V-	TENSp|MOODn|VOICa	4	comp	_	_
 
 1	ne	ne	D	Df	INFLn	6	aux	_	_
-2	que	que	C	C-	INFLn	0	aux(16)pred	_	_
+2	que	que	C	C-	INFLn	6	aux	_	_
 3	ullos	ullus	P	Px	NUMBp|GENDm|CASEa	7	atr	_	_
 4	in	in	R	R-	INFLn	6	adv	_	_
 5	Gallia	Gallia	N	Ne	NUMBs|GENDf|CASEb	4	obl	_	_
@@ -17886,7 +17886,7 @@
 14	iniuria	iniuria	N	Nb	NUMBs|GENDf|CASEb	13	obl	_	_
 15	possint	possum	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	7	atr	_	_
 
-1	sed	sed	C	C-	INFLn	0	aux(24)pred	_	_
+1	sed	sed	C	C-	INFLn	2	aux	_	_
 2	licere	licet	V	V-	TENSp|MOODn|VOICa	0	comp(24)pred	_	_
 3	si	si	G	G-	INFLn	2	adv	_	_
 4	velint	volo#1	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	3	pred	_	_
@@ -19244,10 +19244,10 @@
 20	recepit	recipio	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	21	pred	_	_
 21	atque	atque	C	C-	INFLn	0	pred	_	_
 22	his	hic	P	Pd	NUMBp|GENDm|CASEd	25	obl	_	_
-23	auxilium	auxilium	N	Nb	NUMBs|GENDn|CASEa	25	obj(34)comp	_	_
+23	auxilium	auxilium	N	Nb	NUMBs|GENDn|CASEa	25	obj	_	_
 24	suum	suus	P	Pt	PERS3|NUMBs|GENDo|CASEa	23	atr	_	_
 25	pollicitus	polliceor	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	33	xadv	_	_
-26	si	si	G	G-	INFLn	25	adv(34)comp	_	_
+26	si	si	G	G-	INFLn	25	adv	_	_
 27	a	ab	R	R-	INFLn	29	ag	_	_
 28	Suebis	Suebi	N	Nb	NUMBp|GENDm|CASEb	27	obl	_	_
 29	premerentur	premo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICp	26	pred	_	_
@@ -19396,8 +19396,8 @@
 31	inde	inde	D	Df	INFLn	32	obl	_	_
 32	subministrata	subministro	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDn|CASEa	34	comp	_	_
 33	auxilia	auxilium	N	Nb	NUMBp|GENDn|CASEa	32	sub	_	_
-34	intellegebat	intellego	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	35	part	_	_
-35	et	et	C	C-	INFLn	24	part	_	_
+34	intellegebat	intellego	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	35	pred	_	_
+35	et	et	C	C-	INFLn	24	pred	_	_
 36	si	si	G	G-	INFLn	48	adv	_	_
 37	tempus	tempus	N	Nb	NUMBs|GENDn|CASEn	42	sub	_	_
 38	anni	annus	N	Nb	NUMBs|GENDm|CASEg	37	atr	_	_
@@ -19410,7 +19410,7 @@
 45	sibi	se	P	Pk	PERS3|NUMBs|GENDm|CASEd	47	adv	_	_
 46	usui	usus	N	Nb	NUMBs|GENDm|CASEd	47	xobj	_	_
 47	fore	sum	V	V-	TENSp|MOODn|VOICa	48	comp	_	_
-48	arbitrabatur	arbitror	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICp	35	part	_	_
+48	arbitrabatur	arbitror	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICp	35	pred	_	_
 49	si	si	G	G-	INFLn	47	comp	_	_
 50	modo	modo	D	Df	INFLn	52	adv	_	_
 51	insulam	insula	N	Nb	NUMBs|GENDf|CASEa	52	obj	_	_
@@ -21900,7 +21900,7 @@
 
 1	nisi	nisi	G	G-	INFLn	7	adv	_	_
 2	ita	ita	D	Df	INFLn	3	adv	_	_
-3	fecerint	facio	V	V-	PERS3|NUMBp|TENSr|MOODs|VOICa	1	aux	_	_
+3	fecerint	facio	V	V-	PERS3|NUMBp|TENSr|MOODs|VOICa	1	pred	_	_
 4	sese	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	7	sub	_	_
 5	bello	bellum	N	Nb	NUMBs|GENDn|CASEb	7	adv	_	_
 6	civitatem	civitas	N	Nb	NUMBs|GENDf|CASEa	7	obj	_	_
@@ -22664,7 +22664,7 @@
 22	amentiam	amentia	N	Nb	NUMBs|GENDf|CASEa	23	sub	_	_
 23	progredi	progredior	V	V-	TENSp|MOODn|VOICp	24	comp	_	_
 24	videbat	video	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	19	pred	_	_
-25	prospiciendum	prospicio	V	V-	NUMBs|MOODg|GENDn|CASEa	18	comp(34)comp	_	_
+25	prospiciendum	prospicio	V	V-	NUMBs|MOODg|GENDn|CASEa	18	xobj(36)comp(34)comp	_	_
 26	ne	ne	G	G-	INFLn	25	adv	_	_
 27	quid	quis	P	Px	NUMBs|GENDn|CASEa	32	adv	_	_
 28	sibi	se	P	Pk	PERS3|NUMBs|GENDm|CASEd	29	obl	_	_
@@ -23815,7 +23815,7 @@
 15	facultatem	facultas	N	Nb	NUMBs|GENDf|CASEa	10	obj	_	_
 
 1	hostem	hostis	N	Nb	NUMBs|GENDm|CASEa	6	obj	_	_
-2	impedito	impedio	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEb	3	atr	_	_
+2	impedito	impedio	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDo|CASEb	3	atr	_	_
 3	atque	atque	C	C-	INFLn	5	atr	_	_
 4	iniquo	iniquus	A	A-	NUMBs|GENDo|CASEb|DEGRp	3	atr	_	_
 5	loco	locus	N	Nb	NUMBs|GENDm|CASEb	6	adv	_	_
@@ -24004,7 +24004,7 @@
 1	Nota	nosco	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEb	2	adv	_	_
 2	atque	atque	C	C-	INFLn	11	adv	_	_
 3	instituta	instituo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEb	2	adv	_	_
-4	ratione	ratio	N	Nb	NUMBs|GENDf|CASEb	2	sub	_	_
+4	ratione	ratio	N	Nb	NUMBs|GENDf|CASEb	1	sub	_	_
 5	magno	magnus	A	A-	NUMBs|GENDo|CASEb|DEGRp	7	atr	_	_
 6	militum	miles	N	Nb	NUMBp|GENDm|CASEg	7	atr	_	_
 7	studio	studium	N	Nb	NUMBs|GENDn|CASEb	11	adv	_	_
@@ -24219,11 +24219,10 @@
 6	alterius	alter	A	A-	NUMBs|GENDq|CASEg|DEGRp	7	atr	_	_
 7	factionis	factio	N	Nb	NUMBs|GENDf|CASEg	8	atr	_	_
 8	principes	princeps	A	A-	NUMBp|GENDm|CASEn|DEGRp	9	xobj	_	_
-9	erant	sum	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	0	pred	_	_
+9	erant	sum	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	0	pred(13)pred	_	_
 10	Haedui	Aedui	N	Nb	NUMBp|GENDm|CASEn	9	sub	_	_
-
-1	alterius	alter	A	A-	NUMBs|GENDf|CASEg|DEGRp	0	xobj(3)pred	_	_
-2	Sequani	Sequani	N	Nb	NUMBp|GENDm|CASEn	0	sub(3)pred	_	_
+11	alterius	alter	A	A-	NUMBs|GENDq|CASEg|DEGRp	0	xobj(14)pred(13)pred	_	_
+12	Sequani	Sequani	N	Nb	NUMBp|GENDm|CASEn	0	sub(14)pred(13)pred	_	_
 
 1	Hi	is	P	Pp	PERS3|NUMBp|GENDm|CASEn	6	sub	_	_
 2	cum	cum	G	G-	INFLn	23	adv	_	_
@@ -24492,25 +24491,22 @@
 4	duobus	duo	M	Ma	NUMBp|GENDo|CASEb	5	atr	_	_
 5	generibus	genus	N	Nb	NUMBp|GENDn|CASEb	2	obl	_	_
 6	alterum	alter	A	A-	NUMBs|GENDn|CASEn|DEGRp	7	sub	_	_
-7	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+7	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred(11)pred	_	_
 8	druidum	druis	N	Nb	NUMBp|GENDm|CASEg	7	xobj	_	_
-
-1	alterum	alter	A	A-	NUMBs|GENDn|CASEn|DEGRp	0	sub(3)pred	_	_
-2	equitum	eques	N	Nb	NUMBp|GENDm|CASEg	0	xobj(3)pred	_	_
+9	alterum	alter	A	A-	NUMBs|GENDn|CASEn|DEGRp	0	sub(12)pred(11)pred	_	_
+10	equitum	eques	N	Nb	NUMBp|GENDm|CASEg	0	xobj(12)pred(11)pred	_	_
 
 1	Illi	ille	P	Pd	NUMBp|GENDm|CASEn	4	sub	_	_
 2	rebus	res	N	Nb	NUMBp|GENDf|CASEd	4	obl	_	_
 3	divinis	divinus	A	A-	NUMBp|GENDq|CASEd|DEGRp	2	atr	_	_
-4	intersunt	intersum	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
-
-1	sacrificia	sacrificium	N	Nb	NUMBp|GENDn|CASEa	5	obj	_	_
-2	publica	publicus	A	A-	NUMBp|GENDn|CASEa|DEGRp	3	atr	_	_
-3	ac	atque	C	C-	INFLn	1	atr	_	_
-4	privata	privatus	A	A-	NUMBp|GENDn|CASEa|DEGRp	3	atr	_	_
-5	procurant	procuro	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
-
-1	religiones	religio	N	Nb	NUMBp|GENDf|CASEa	2	obj	_	_
-2	interpretantur	interpretor	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICp	0	pred	_	_
+4	intersunt	intersum	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred(12)pred	_	_
+5	sacrificia	sacrificium	N	Nb	NUMBp|GENDn|CASEa	9	obj	_	_
+6	publica	publicus	A	A-	NUMBp|GENDn|CASEa|DEGRp	7	atr	_	_
+7	ac	atque	C	C-	INFLn	5	atr	_	_
+8	privata	privatus	A	A-	NUMBp|GENDn|CASEa|DEGRp	7	atr	_	_
+9	procurant	procuro	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred(12)pred	_	_
+10	religiones	religio	N	Nb	NUMBp|GENDf|CASEa	11	obj	_	_
+11	interpretantur	interpretor	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICp	0	pred(12)pred	_	_
 
 1	ad	ad	R	R-	INFLn	8	obl	_	_
 2	hos	hic	P	Pd	NUMBp|GENDm|CASEa	1	obl	_	_
@@ -24568,10 +24564,10 @@
 5	aut	aut	C	C-	INFLn	2	apos	_	_
 6	populus	populus	N	Nb	NUMBs|GENDm|CASEn	5	apos	_	_
 7	eorum	is	P	Pp	PERS3|NUMBp|GENDm|CASEg	5	atr	_	_
-8	decreto	decretum	N	Nb	NUMBs|GENDn|CASEb	10	obl	_	_
+8	decreto	decretum	N	Nb	NUMBs|GENDn|CASEb	10	adv	_	_
 9	non	non	D	Df	INFLn	10	aux	_	_
 10	stetit	sto	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	1	pred	_	_
-11	sacrificiis	sacrificium	N	Nb	NUMBp|GENDn|CASEb	12	obl	_	_
+11	sacrificiis	sacrificium	N	Nb	NUMBp|GENDn|CASEb	12	adv	_	_
 12	interdicunt	interdico	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 
 1	Haec	hic	P	Pd	NUMBs|GENDf|CASEn	5	sub	_	_
@@ -25946,7 +25942,7 @@
 11	que	que	C	C-	INFLn	0	pred	_	_
 12	habet	habeo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	11	pred	_	_
 13	iustitiae	iustitia	N	Nb	NUMBs|GENDf|CASEg	14	narg	_	_
-14	et	et	C	C-	INFLn	17	atr	_	_
+14	et	et	C	C-	INFLn	17	narg	_	_
 15	bellicae	bellicus	A	A-	NUMBs|GENDf|CASEg|DEGRp	16	atr	_	_
 16	laudis	laus	N	Nb	NUMBs|GENDf|CASEg	14	narg	_	_
 17	opinionem	opinio	N	Nb	NUMBs|GENDf|CASEa	12	obj	_	_
@@ -26081,26 +26077,26 @@
 18	iter	iter	N	Nb	NUMBs|GENDn|CASEa	20	adv	_	_
 19	sexaginta	sexaginta	M	Ma	INFLn	17	atr	_	_
 20	processerit	procedo	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	16	pred	_	_
-21	aut	aut	C	C-	INFLn	3	apos	_	_
+21	aut	aut	C	C-	INFLn	3	atr	_	_
 22	quo	quis	P	Pi	NUMBs|GENDo|CASEb	24	atr	_	_
 23	ex	ex	R	R-	INFLn	25	obl	_	_
 24	loco	locus	N	Nb	NUMBs|GENDm|CASEb	23	obl	_	_
 25	oriatur	orior	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICp	26	comp	_	_
 26	acceperit	accipio	V	V-	PERS3|NUMBs|TENSt|MOODi|VOICa	21	atr	_	_
 
-1	Multa	multus	A	A-	NUMBp|GENDn|CASEa|DEGRp	7	sub	_	_
+1	Multa	multus	A	A-	NUMBp|GENDn|CASEa|DEGRp	5	atr	_	_
 2	que	que	C	C-	INFLn	8	aux	_	_
-3	in	in	R	R-	INFLn	1	atr	_	_
-4	ea	is	P	Pp	PERS3|NUMBp|GENDn|CASEa	5	atr	_	_
-5	genera	genus	N	Nb	NUMBp|GENDn|CASEa	3	obl	_	_
-6	ferarum	fera	N	Nb	NUMBp|GENDf|CASEg	1	part	_	_
+3	in	in	R	R-	INFLn	7	adv	_	_
+4	ea	is	P	Pp	PERS3|NUMBs|GENDf|CASEb	3	obl	_	_
+5	genera	genus	N	Nb	NUMBp|GENDn|CASEa	7	sub	_	_
+6	ferarum	fera	N	Nb	NUMBp|GENDf|CASEg	5	part	_	_
 7	nasci	nascor	V	V-	TENSp|MOODn|VOICp	8	comp	_	_
 8	constat	consto	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
-9	quae	qui	P	Pr	NUMBp|GENDf|CASEn	13	sub	_	_
+9	quae	qui	P	Pr	NUMBp|GENDn|CASEn	13	sub	_	_
 10	reliquis	reliquus	A	A-	NUMBp|GENDq|CASEb|DEGRp	12	atr	_	_
 11	in	in	R	R-	INFLn	13	adv	_	_
 12	locis	locus	N	Nb	NUMBp|GENDm|CASEb	11	obl	_	_
-13	visa	video	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEn	5	atr	_	_
+13	visa	video	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDn|CASEn	5	apos	_	_
 14	non	non	D	Df	INFLn	13	aux	_	_
 15	sint	sum	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	13	aux	_	_
 
@@ -26559,11 +26555,11 @@
 
 1	Multum	multum	D	Df	DEGRp	10	adv	_	_
 2	cum	cum	D	Df	INFLn	3	aux	_	_
-3	in	in	R	R-	INFLn	10	atr(12)obl	_	_
+3	in	in	R	R-	INFLn	10	atr(12)atr	_	_
 4	omnibus	omnis	P	Px	NUMBp|GENDq|CASEb	5	atr	_	_
 5	rebus	res	N	Nb	NUMBp|GENDf|CASEb	3	obl	_	_
 6	tum	tum	D	Df	INFLn	7	aux	_	_
-7	in	in	R	R-	INFLn	10	atr(12)obl	_	_
+7	in	in	R	R-	INFLn	10	atr(12)atr	_	_
 8	re	res	N	Nb	NUMBs|GENDf|CASEb	7	obl	_	_
 9	militari	militaris	A	A-	NUMBs|GENDq|CASEb|DEGRp	8	atr	_	_
 10	potest	possum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
@@ -26716,16 +26712,15 @@
 10	iussit	iubeo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 
 1	Quorum	qui	P	Pr	NUMBp|GENDm|CASEg	2	part	_	_
-2	pars	pars	N	Nb	NUMBs|GENDf|CASEn	0	sub(7)pred(6)pred	_	_
-3	in	in	R	R-	INFLn	0	obl(7)pred(6)pred	_	_
+2	pars	pars	N	Nb	NUMBs|GENDf|CASEn	0	sub(12)pred(11)pred	_	_
+3	in	in	R	R-	INFLn	0	obl(12)pred(11)pred	_	_
 4	Arduennam	Arduenna	N	Ne	NUMBs|GENDf|CASEa	3	obl	_	_
 5	silvam	silva	N	Nb	NUMBs|GENDf|CASEa	4	apos	_	_
-
-1	pars	pars	N	Nb	NUMBs|GENDf|CASEn	5	sub	_	_
-2	in	in	R	R-	INFLn	5	obl	_	_
-3	continentes	continens	A	A-	NUMBp|GENDp|CASEa|DEGRp	4	atr	_	_
-4	paludes	palus	N	Nb	NUMBp|GENDf|CASEa	2	obl	_	_
-5	profugit	profugio	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+6	pars	pars	N	Nb	NUMBs|GENDf|CASEn	10	sub	_	_
+7	in	in	R	R-	INFLn	10	obl	_	_
+8	continentes	continens	A	A-	NUMBp|GENDp|CASEa|DEGRp	9	atr	_	_
+9	paludes	palus	N	Nb	NUMBp|GENDf|CASEa	7	obl	_	_
+10	profugit	profugio	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred(11)pred	_	_
 
 1	qui	qui	P	Pr	NUMBp|GENDm|CASEn	4	sub	_	_
 2	proximi	proximus	A	A-	NUMBp|GENDm|CASEn|DEGRp	4	xobj	_	_
@@ -26959,7 +26954,7 @@
 8	ad	ad	R	R-	INFLn	17	obl	_	_
 9	Oceanum	Oceanus	N	Ne	NUMBs|GENDm|CASEa	8	obl	_	_
 10	versus	versus	D	Df	INFLn	8	adv	_	_
-11	in	in	R	R-	INFLn	8	obl	_	_
+11	in	in	R	R-	INFLn	8	apos	_	_
 12	eas	is	P	Pp	PERS3|NUMBp|GENDf|CASEa	13	atr	_	_
 13	partes	pars	N	Nb	NUMBp|GENDf|CASEa	11	obl	_	_
 14	quae	qui	P	Pr	NUMBp|GENDf|CASEn	16	sub	_	_
@@ -27292,7 +27287,7 @@
 14	Caesar	Caesar	N	Ne	NUMBs|GENDm|CASEn	20	sub	_	_
 15	ad	ad	R	R-	INFLn	19	obl	_	_
 16	impedimenta	impedimentum	N	Nb	NUMBp|GENDn|CASEa	18	obl	_	_
-17	legionem	legio	N	Nb	NUMBs|GENDf|CASEa	15	obl	_	_
+17	legionem	legio	N	Nb	NUMBs|GENDf|CASEa	18	obl	_	_
 18	que	que	C	C-	INFLn	15	obl	_	_
 19	reverti	revertor	V	V-	TENSp|MOODn|VOICp	20	xobj	_	_
 20	constituerat	constituo	V	V-	PERS3|NUMBs|TENSl|MOODi|VOICa	7	apos	_	_

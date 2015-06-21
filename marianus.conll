@@ -16777,7 +16777,7 @@
 7	тъ	тъ	P	Pd	NUMBs|GENDm|CASEn	8	sub	_	_
 8	кръститъ	крьстити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
 9	вꙑ	вꙑ	P	Pp	PERS2|NUMBp|GENDp|CASEa	8	obj	_	_
-10	д҃хомъ	доухъ	N	Nb	NUMBs|GENDm|CASEi	8	aux	_	_
+10	д҃хомъ	доухъ	N	Nb	NUMBs|GENDm|CASEi	8	adv	_	_
 11	с҃тꙑмъ	свѧтъ	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREw	10	atr	_	_
 
 1	Ꙇ	и	C	C-	INFLn	2	aux	_	_
@@ -20134,7 +20134,7 @@
 10	изгонѣахѫ	изгонити	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	7	pred	_	_
 11	ꙇ	и	C	C-	INFLn	7	aux	_	_
 12	мазаахѫ	мазати	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	7	pred	_	_
-13	олеемъ	олѣи	N	Nb	NUMBs|GENDm|CASEi	12	aux	_	_
+13	олеемъ	олѣи	N	Nb	NUMBs|GENDm|CASEi	12	adv	_	_
 14	мъногꙑ	мъногъ	A	A-	NUMBp|GENDp|CASEa|DEGRp|STREs	15	atr	_	_
 15	недѫжънꙑ	нeдѫжьнъ	A	A-	NUMBp|GENDm|CASEa|DEGRp|STREs	12	obj	_	_
 16	и	и	C	C-	INFLn	7	aux	_	_

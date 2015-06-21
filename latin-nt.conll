@@ -24077,7 +24077,7 @@
 
 1	et	et	C	C-	INFLn	2	aux	_	_
 2	interrogabant	interrogo	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	0	pred	_	_
-3	eum	is	P	Pp	PERS3|NUMBs|GENDm|CASEa	2	aux	_	_
+3	eum	is	P	Pp	PERS3|NUMBs|GENDm|CASEa	2	obj	_	_
 4	dicentes	dico	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn	2	xadv	_	_
 
 1	quid	quis	P	Pi	NUMBs|GENDn|CASEa	3	adv	_	_
@@ -31610,12 +31610,12 @@
 23	lege	lex	N	Nb	NUMBs|GENDf|CASEb	22	obl	_	_
 24	Domini	dominus	N	Nb	NUMBs|GENDm|CASEg	23	atr	_	_
 25	quia	quia	G	G-	INFLn	19	apos	_	_
-26	omne	omnis	P	Px	NUMBs|GENDn|CASEn	27	aux	_	_
+26	omne	omnis	P	Px	NUMBs|GENDn|CASEn	27	atr	_	_
 27	masculinum	masculinus	A	A-	NUMBs|GENDn|CASEn|DEGRp	32	sub	_	_
 28	adaperiens	adaperio	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDf|CASEn	27	atr	_	_
 29	vulvam	vulva	N	Nb	NUMBs|GENDf|CASEa	28	obj	_	_
 30	sanctum	sanctus	A	A-	NUMBs|GENDn|CASEn|DEGRp	32	xobj	_	_
-31	Domino	dominus	N	Nb	NUMBs|GENDm|CASEd	30	aux	_	_
+31	Domino	dominus	N	Nb	NUMBs|GENDm|CASEd	30	atr	_	_
 32	vocabitur	voco	V	V-	PERS3|NUMBs|TENSf|MOODi|VOICp	25	apos	_	_
 33	et	et	C	C-	INFLn	11	adv	_	_
 34	ut	ut	G	G-	INFLn	33	adv	_	_
@@ -33304,7 +33304,7 @@
 8	inmundum	immundus	A	A-	NUMBs|GENDm|CASEa|DEGRp	7	atr	_	_
 9	et	et	C	C-	INFLn	0	pred	_	_
 10	exclamavit	exclamo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	9	pred	_	_
-11	voce	vox	N	Nb	NUMBs|GENDf|CASEb	10	aux	_	_
+11	voce	vox	N	Nb	NUMBs|GENDf|CASEb	10	adv	_	_
 12	magna	magnus	A	A-	NUMBs|GENDf|CASEb|DEGRp	11	atr	_	_
 13	dicens	dico	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn	10	xadv	_	_
 
@@ -37267,9 +37267,9 @@
 4	eius	is	P	Pp	PERS3|NUMBs|GENDf|CASEg	3	atr	_	_
 5	quibus	qui	P	Pr	NUMBp|GENDm|CASEd	6	obl	_	_
 6	praecepit	praecipio	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	3	apos	_	_
-7	ne	ne	G	G-	INFLn	9	aux	_	_
+7	ne	ne	G	G-	INFLn	6	comp	_	_
 8	alicui	aliquis	P	Px	NUMBs|GENDm|CASEd	9	obl	_	_
-9	dicerent	dico	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	6	comp	_	_
+9	dicerent	dico	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	7	pred	_	_
 10	quod	qui	P	Pr	NUMBs|GENDn|CASEn	11	sub	_	_
 11	factum	facio	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn	9	obj	_	_
 12	erat	sum	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	11	aux	_	_
@@ -46327,7 +46327,7 @@
 2	nobis	nos	P	Pp	PERS1|NUMBp|GENDp|CASEd	1	obl	_	_
 3	dare	do	V	V-	TENSp|MOODn|VOICa	1	xobj	_	_
 4	tributum	tributum	N	Nb	NUMBs|GENDn|CASEa	3	obj	_	_
-5	Caesari	Caesar	N	Ne	NUMBs|GENDm|CASEd	4	aux	_	_
+5	Caesari	Caesar	N	Ne	NUMBs|GENDm|CASEd	3	obl	_	_
 6	an	an	C	C-	INFLn	0	pred	_	_
 7	non	non	D	Df	INFLn	6	aux(8)pred	_	_
 
@@ -49277,7 +49277,7 @@
 1	et	et	C	C-	INFLn	3	aux	_	_
 2	depositum	depono	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEa	3	xadv	_	_
 3	involvit	involvo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	5	pred	_	_
-4	sindone	sindon	N	Nb	NUMBs|GENDf|CASEb	3	aux	_	_
+4	sindone	sindon	N	Nb	NUMBs|GENDf|CASEb	3	adv	_	_
 5	et	et	C	C-	INFLn	0	pred	_	_
 6	posuit	pono	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	5	pred	_	_
 7	eum	is	P	Pp	PERS3|NUMBs|GENDm|CASEa	6	obj	_	_
@@ -58546,7 +58546,7 @@
 4	quae	qui	P	Pr	NUMBs|GENDf|CASEn	5	sub	_	_
 5	unxit	ung(u)o	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	8	xobj	_	_
 6	Dominum	dominus	N	Nb	NUMBs|GENDm|CASEa	5	obj	_	_
-7	unguento	unguentum	N	Nb	NUMBs|GENDn|CASEb	5	aux	_	_
+7	unguento	unguentum	N	Nb	NUMBs|GENDn|CASEb	5	adv	_	_
 8	et	et	C	C-	INFLn	3	xobj	_	_
 9	extersit	extergeo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	8	xobj	_	_
 10	pedes	pes	N	Nb	NUMBp|GENDm|CASEa	9	obj	_	_
@@ -66801,7 +66801,7 @@
 20	et	et	C	C-	INFLn	8	aux	_	_
 21	seniores	senex	A	A-	NUMBp|GENDm|CASEn|DEGRc	24	sub	_	_
 22	vestri	vester	P	Ps	PERS2|NUMBp|GENDm|CASEn	21	atr	_	_
-23	somnia	somnium	N	Nb	NUMBp|GENDn|CASEa	24	aux	_	_
+23	somnia	somnium	N	Nb	NUMBp|GENDn|CASEa	24	obj	_	_
 24	somniabunt	somnio	V	V-	PERS3|NUMBp|TENSf|MOODi|VOICa	8	pred	_	_
 
 1	et	et	D	Df	INFLn	6	aux	_	_
@@ -66940,7 +66940,7 @@
 6	quoniam	quoniam	G	G-	INFLn	1	adv	_	_
 7	a	ab	R	R-	INFLn	10	xobj	_	_
 8	dextris	dexter	A	A-	NUMBp|GENDn|CASEb|DEGRp	7	obl	_	_
-9	meis	meus	P	Ps	PERS1|NUMBp|GENDq|CASEb	8	aux	_	_
+9	meis	meus	P	Ps	PERS1|NUMBp|GENDq|CASEb	8	atr	_	_
 10	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
 11	ne	ne	G	G-	INFLn	10	adv	_	_
 12	commovear	commoveo	V	V-	PERS1|NUMBs|TENSp|MOODs|VOICp	11	pred	_	_
@@ -70507,7 +70507,7 @@
 15	stantem	sto	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDp|CASEa	13	xobj(19)pred	_	_
 16	a	ab	R	R-	INFLn	15	obl	_	_
 17	dextris	dexter	A	A-	NUMBp|GENDn|CASEb|DEGRp	16	obl	_	_
-18	Dei	deus	N	Nb	NUMBs|GENDm|CASEg	17	aux	_	_
+18	Dei	deus	N	Nb	NUMBs|GENDm|CASEg	17	atr	_	_
 
 1	et	et	C	C-	INFLn	2	aux	_	_
 2	ait	aio	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
