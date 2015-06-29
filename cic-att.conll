@@ -9152,7 +9152,7 @@
 20	Panhormi	Panhormus	N	Ne	NUMBs|GENDm|CASEg	25	adv	_	_
 21	Lucullus	Lucullus	N	Ne	NUMBs|GENDm|CASEn	25	sub	_	_
 22	de	de	R	R-	INFLn	25	adv	_	_
-23	suis	suus	P	Pt	PERS3|NUMBp|GENDq|CASEb	24	aux	_	_
+23	suis	suus	P	Pt	PERS3|NUMBp|GENDq|CASEb	24	atr	_	_
 24	historiis	historia	M	Ma	NUMBp|GENDf|CASEb	22	obl	_	_
 25	dixerat	dico	V	V-	PERS3|NUMBs|TENSl|MOODi|VOICa	15	obj	_	_
 26	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	39	sub	_	_
@@ -9840,7 +9840,7 @@
 1	puto	puto	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 2	te	tu	P	Pp	PERS2|NUMBs|GENDm|CASEa	1	sub(11)comp	_	_
 3	Latinis	Latinus	A	A-	NUMBp|GENDm|CASEb|DEGRp	5	adv	_	_
-4	meis	meus	P	Ps	PERS1|NUMBp|GENDq|CASEb	3	aux	_	_
+4	meis	meus	P	Ps	PERS1|NUMBp|GENDq|CASEb	3	atr	_	_
 5	delectari	delecto	V	V-	TENSp|MOODn|VOICp	1	comp(11)comp	_	_
 6	huic	hic	P	Pd	NUMBs|GENDq|CASEd	10	obl	_	_
 7	autem	autem	D	Df	INFLn	10	aux	_	_
@@ -23209,7 +23209,7 @@
 2	illud	ille	P	Pd	NUMBs|GENDn|CASEa	3	obj	_	_
 3	scripseras	scribo	V	V-	PERS2|NUMBs|TENSl|MOODi|VOICa	0	pred	_	_
 4	eundem	idem	P	Pd	NUMBs|GENDm|CASEa	7	sub	_	_
-5	secundum	secundum	R	R-	INFLn	7	obj	_	_
+5	secundum	secundum	R	R-	INFLn	7	adv	_	_
 6	comitia	comitium	N	Nb	NUMBp|GENDn|CASEa	5	obl	_	_
 7	dixisse	dico	V	V-	TENSr|MOODn|VOICa	2	apos	_	_
 
@@ -35081,7 +35081,7 @@
 10	facio	facio	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	11	pred	_	_
 11	et	et	C	C-	INFLn	7	pred	_	_
 12	mehercule	mehercule	I	I-	INFLn	0	voc	_	_
-13	in	in	R	R-	INFLn	15	aux	_	_
+13	in	in	R	R-	INFLn	15	adv	_	_
 14	primis	primus	M	Mo	NUMBp|GENDn|CASEb	13	obl	_	_
 15	quod	quod	G	G-	INFLn	11	adv(24)pred	_	_
 16	te	tu	P	Pp	PERS2|NUMBs|GENDm|CASEa	17	obj	_	_

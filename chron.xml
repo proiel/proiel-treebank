@@ -7426,7 +7426,7 @@
         <token id="1247532" form="τῆς" citation-part="24.7" lemma="ὁ" part-of-speech="S-" morphology="-s---fg--i" head-id="1247533" relation="aux" presentation-after=" "/>
         <token id="1247533" form="Μιτυλήνης" citation-part="24.7" lemma="Μιτυλήνη" part-of-speech="Ne" morphology="-s---fg--i" head-id="1247534" relation="atr" presentation-after=" "/>
         <token id="1247534" form="καὶ" citation-part="24.7" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1247531" relation="atr" presentation-after=" "/>
-        <token id="1247535" form="τῶν" citation-part="24.7" lemma="ὁ" part-of-speech="S-" morphology="-p---ng--i" head-id="1247536" relation="obl" presentation-after=" "/>
+        <token id="1247535" form="τῶν" citation-part="24.7" lemma="ὁ" part-of-speech="S-" morphology="-p---ng--i" head-id="1247536" relation="aux" presentation-after=" "/>
         <token id="1247536" form="ἑξῆς" citation-part="24.7" lemma="ἑξῆς" part-of-speech="Df" morphology="---------n" head-id="1247534" relation="atr" presentation-after=" "/>
         <token id="1247537" form="κυροῦ" citation-part="24.7" lemma="κύρης" part-of-speech="Nb" morphology="-s---mg--i" head-id="1247538" relation="atr" presentation-after=" "/>
         <token id="1247538" form="Ντωρῆ" citation-part="24.7" lemma="Ντωρής" part-of-speech="Ne" morphology="-s---mg--i" head-id="1247525" relation="atr" presentation-after=" "/>

@@ -9997,7 +9997,7 @@
 2	allis	allis	D	Df	INFLn	7	aux	_	_
 3	wili	wiljan	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	sub	_	_
 4	saiwala	saiwala	N	Nb	NUMBs|GENDf|CASEa	6	obj	_	_
-5	seina	*seins	P	Pt	PERS3|NUMBp|GENDn|CASEa	4	aux	_	_
+5	seina	*seins	P	Pt	PERS3|NUMBp|GENDn|CASEa	4	atr	_	_
 6	ganasjan	ga-nasjan	V	V-	TENSp|MOODn|VOICa	3	xobj	_	_
 7	fraqisteiþ	fra-qistjan	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 8	izai	is	P	Pp	PERS3|NUMBs|GENDf|CASEd	7	obl	_	_
@@ -52710,7 +52710,7 @@
 91	in	in	R	R-	INFLn	87	adv	_	_
 92	himinam	himins	N	Nb	NUMBp|GENDm|CASEd	91	obl	_	_
 93	ufaro	ufaro	R	R-	INFLn	87	adv	_	_
-94	allaize	alls	P	Px	NUMBp|GENDo|CASEg	95	aux	_	_
+94	allaize	alls	P	Px	NUMBp|GENDo|CASEg	95	atr	_	_
 95	reikje	reiki	N	Nb	NUMBp|GENDn|CASEg	96	obl	_	_
 96	jah	jah	C	C-	INFLn	93	obl	_	_
 97	waldufnje	waldufni	N	Nb	NUMBp|GENDn|CASEg	96	obl	_	_
@@ -57283,7 +57283,7 @@
 38	allaim	alls	P	Px	NUMBp|GENDq|CASEd	40	atr	_	_
 39	þaim	sa	P	Pd	NUMBp|GENDq|CASEd	40	aux	_	_
 40	weiham	weihs	A	A-	NUMBp|GENDm|CASEd|DEGRp|STREw	37	obl	_	_
-41	seinaim	*seins	P	Pt	PERS3|NUMBp|GENDq|CASEd	40	aux	_	_
+41	seinaim	*seins	P	Pt	PERS3|NUMBp|GENDq|CASEd	40	atr	_	_
 
 1	þannu	þannu	D	Df	INFLn	4	aux	_	_
 2	nu	nu	D	Df	INFLn	4	aux	_	_

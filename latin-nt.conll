@@ -17446,7 +17446,7 @@
 2	autem	autem	D	Df	INFLn	13	aux	_	_
 3	Pilatus	Pilatus	N	Ne	NUMBs|GENDm|CASEn	13	sub	_	_
 4	quia	quia	G	G-	INFLn	1	comp	_	_
-5	nihil	nihil	P	Px	NUMBs|GENDn|CASEa	6	aux	_	_
+5	nihil	nihil	P	Px	NUMBs|GENDn|CASEa	6	adv	_	_
 6	proficeret	proficio	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	7	pred	_	_
 7	sed	sed	C	C-	INFLn	4	pred	_	_
 8	magis	magis	D	Df	DEGRc	10	adv	_	_
@@ -32450,7 +32450,7 @@
 12	sui	se	P	Pk	PERS3|NUMBs|GENDm|CASEg	11	atr	_	_
 13	et	et	C	C-	INFLn	5	adv	_	_
 14	de	de	R	R-	INFLn	13	adv	_	_
-15	omnibus	omnis	P	Px	NUMBp|GENDn|CASEb	16	aux	_	_
+15	omnibus	omnis	P	Px	NUMBp|GENDn|CASEb	16	atr	_	_
 16	malis	malus	A	A-	NUMBp|GENDn|CASEb|DEGRp	14	obl	_	_
 17	quae	qui	P	Pr	NUMBp|GENDn|CASEa	18	obj	_	_
 18	fecit	facio	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	16	atr	_	_
@@ -45812,8 +45812,8 @@
 9	dicens	dico	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn	6	xadv	_	_
 10	quia	quia	G	G-	INFLn	9	comp	_	_
 
-1	si	si	G	G-	INFLn	2	aux	_	_
-2	cognovisses	cognosco	V	V-	PERS2|NUMBs|TENSl|MOODs|VOICa	0	pred	_	_
+1	si	si	G	G-	INFLn	0	adv(16)pred	_	_
+2	cognovisses	cognosco	V	V-	PERS2|NUMBs|TENSl|MOODs|VOICa	1	pred	_	_
 3	et	et	D	Df	INFLn	4	aux	_	_
 4	tu	tu	P	Pp	PERS2|NUMBs|GENDm|CASEn	2	sub	_	_
 5	et	et	D	Df	INFLn	7	aux	_	_
@@ -85254,7 +85254,7 @@
 14	et	et	C	C-	INFLn	6	comp	_	_
 15	ut	ut	G	G-	INFLn	14	comp	_	_
 16	invicem	invicem	D	Df	INFLn	18	adv	_	_
-17	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEb	18	obj	_	_
+17	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	18	obj	_	_
 18	interficiant	interficio	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	15	pred	_	_
 19	et	et	C	C-	INFLn	0	pred	_	_
 20	datus	do	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	19	pred	_	_
@@ -85517,7 +85517,7 @@
 15	et	et	C	C-	INFLn	4	sub	_	_
 16	liber	liber	N	Nb	NUMBs|GENDm|CASEn	15	sub	_	_
 17	absconderunt	abscondo	V	V-	PERS3|NUMBp|TENSr|MOODi|VOICa	0	pred	_	_
-18	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEb	17	obj	_	_
+18	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	17	obj	_	_
 19	in	in	R	R-	INFLn	17	adv	_	_
 20	speluncis	spelunca	N	Nb	NUMBp|GENDf|CASEb	21	obl	_	_
 21	et	et	C	C-	INFLn	19	obl	_	_
