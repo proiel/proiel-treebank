@@ -28314,7 +28314,7 @@
 4	me	ego	P	Pp	PERS1|NUMBs|GENDm|CASEa	6	sub	_	_
 5	simul	simul	D	Df	INFLn	6	adv	_	_
 6	conmori	commorior	V	V-	TENSp|MOODn|VOICp	3	comp	_	_
-7	tibi	tu	P	Pp	PERS2|NUMBs|GENDm|CASEd	5	narg	_	_
+7	tibi	tu	P	Pp	PERS2|NUMBs|GENDm|CASEd	5	obl	_	_
 8	non	non	D	Df	INFLn	10	aux	_	_
 9	te	tu	P	Pp	PERS2|NUMBs|GENDm|CASEa	10	obj	_	_
 10	negabo	nego	V	V-	PERS1|NUMBs|TENSf|MOODi|VOICa	0	pred	_	_

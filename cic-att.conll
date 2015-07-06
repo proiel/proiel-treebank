@@ -2443,11 +2443,11 @@
 20	non	non	D	Df	INFLn	21	aux	_	_
 21	modo	modo	D	Df	INFLn	23	aux	_	_
 22	non	non	D	Df	INFLn	23	aux	_	_
-23	arcessi	arcesso	V	V-	TENSp|MOODn|VOICp	26	comp	_	_
+23	arcessi	arcesso	V	V-	TENSp|MOODn|VOICp	26	apos	_	_
 24	a	ab	R	R-	INFLn	26	ag	_	_
 25	me	ego	P	Pp	PERS1|NUMBs|GENDm|CASEb	24	obl	_	_
 26	sed	sed	C	C-	INFLn	12	apos	_	_
-27	prohiberi	prohibeo	V	V-	TENSp|MOODn|VOICp	26	comp	_	_
+27	prohiberi	prohibeo	V	V-	TENSp|MOODn|VOICp	26	apos	_	_
 28	quod	quod	G	G-	INFLn	26	adv	_	_
 29	intellegam	intellego	V	V-	PERS1|NUMBs|TENSp|MOODs|VOICa	28	pred	_	_
 30	multo	multo	D	Df	INFLn	31	adv	_	_
