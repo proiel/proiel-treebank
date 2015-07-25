@@ -26735,10 +26735,10 @@
 10	potest	possum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 11	fortuna	fortuna	N	Nb	NUMBs|GENDf|CASEn	10	sub	_	_
 
-1	Nam	nam	D	Df	INFLn	4	aux	_	_
-2	ut	ut#2	D	Df	INFLn	4	adv	_	_
+1	Nam	nam	D	Df	INFLn	28	aux	_	_
+2	ut	ut	D	Dq	INFLn	4	adv	_	_
 3	magno	magnus	A	A-	NUMBs|GENDo|CASEb|DEGRp	5	atr	_	_
-4	accidit	accido	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+4	accidit	accido	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	26	apos	_	_
 5	casu	casus	N	Nb	NUMBs|GENDm|CASEb	4	adv	_	_
 6	ut	ut	G	G-	INFLn	4	comp	_	_
 7	in	in	R	R-	INFLn	13	obl	_	_
@@ -26762,7 +26762,7 @@
 25	adferretur	affero	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICp	21	pred	_	_
 26	sic	sic	D	Df	INFLn	28	adv	_	_
 27	magnae	magnus	A	A-	NUMBs|GENDf|CASEg|DEGRp	29	atr	_	_
-28	fuit	sum	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	2	apos	_	_
+28	fuit	sum	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 29	fortunae	fortuna	N	Nb	NUMBs|GENDf|CASEg	28	xobj	_	_
 30	omni	omnis	P	Px	NUMBs|GENDq|CASEb	32	atr	_	_
 31	militari	militaris	A	A-	NUMBs|GENDq|CASEb|DEGRp	32	atr	_	_
