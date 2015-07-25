@@ -6050,7 +6050,7 @@
 17	diligi	diligo	V	V-	TENSp|MOODn|VOICp	18	comp	_	_
 18	putat	puto	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	3	pred	_	_
 19	et	et	C	C-	INFLn	0	pred	_	_
-20	hercule	hercule	I	I-	INFLn	0	voc	_	_
+20	hercule	hercle	I	I-	INFLn	0	voc	_	_
 21	multa	multus	A	A-	NUMBs|GENDf|CASEb|DEGRp	22	atr	_	_
 22	et	et	C	C-	INFLn	24	atr	_	_
 23	iucunda	iucundus	A	A-	NUMBs|GENDf|CASEb|DEGRp	22	atr	_	_
@@ -11346,7 +11346,7 @@
 3	manibus	manus	N	Nb	NUMBp|GENDf|CASEb	2	obl	_	_
 5	tenebam	teneo	V	V-	PERS1|NUMBs|TENSi|MOODi|VOICa	6	pred	_	_
 6	et	et	C	C-	INFLn	0	pred	_	_
-7	hercule	hercule	I	I-	INFLn	0	voc	_	_
+7	hercule	hercle	I	I-	INFLn	0	voc	_	_
 8	magnum	magnus	A	A-	NUMBs|GENDo|CASEa|DEGRp	9	atr	_	_
 9	acervum	acervus	N	Nb	NUMBs|GENDm|CASEa	15	obj	_	_
 10	Dicaearchi	Dicaearchus	N	Ne	NUMBs|GENDm|CASEg	9	part	_	_
@@ -12220,7 +12220,7 @@
 10	deliberabimus	delibero	V	V-	PERS1|NUMBp|TENSf|MOODi|VOICa	8	pred	_	_
 
 1	etiam	etiam	D	Df	INFLn	3	aux	_	_
-2	hercule	hercule	I	I-	INFLn	0	voc	_	_
+2	hercule	hercle	I	I-	INFLn	0	voc	_	_
 3	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 4	in	in	R	R-	INFLn	3	xobj	_	_
 5	non	non	D	Df	INFLn	6	aux	_	_
@@ -12501,7 +12501,7 @@
 5	accesserit	accedo	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	3	pred	_	_
 
 1	et	et	C	C-	INFLn	11	aux	_	_
-2	hercule	hercule	I	I-	INFLn	0	voc	_	_
+2	hercule	hercle	I	I-	INFLn	0	voc	_	_
 3	sunt	sum	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	11	pred	_	_
 4	res	res	N	Nb	NUMBp|GENDf|CASEn	3	sub	_	_
 5	difficiles	difficilis	A	A-	NUMBp|GENDp|CASEn|DEGRp	8	xobj	_	_
@@ -14251,7 +14251,7 @@
 6	putabam	puto	V	V-	PERS1|NUMBs|TENSi|MOODi|VOICa	0	pred	_	_
 
 1	at	at	D	Df	INFLn	6	aux	_	_
-2	hercule	hercule	I	I-	INFLn	0	voc	_	_
+2	hercule	hercle	I	I-	INFLn	0	voc	_	_
 3	in	in	R	R-	INFLn	6	adv	_	_
 4	agris	ager	N	Nb	NUMBp|GENDm|CASEb	3	obl	_	_
 5	non	non	D	Df	INFLn	6	aux	_	_
@@ -18925,7 +18925,7 @@
 8	κρατούντων	greekexpression	F	F-	INFLn	6	atr	_	_
 
 1	at	at	D	Df	INFLn	18	aux	_	_
-2	hercule	hercule	I	I-	INFLn	0	voc	_	_
+2	hercule	hercle	I	I-	INFLn	0	voc	_	_
 3	alter	alter	A	A-	NUMBs|GENDm|CASEn|DEGRp	5	atr	_	_
 4	tuus	tuus	P	Ps	PERS2|NUMBs|GENDm|CASEn	5	atr	_	_
 5	familiaris	familiaris	N	Nb	NUMBs|GENDm|CASEn	18	sub	_	_
@@ -27200,7 +27200,7 @@
 6	adiuvante	adiuvo	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEb	5	adv	_	_
 7	Appio	Appius	N	Ne	NUMBs|GENDm|CASEb	6	sub	_	_
 8	etiam	etiam	D	Df	INFLn	10	aux	_	_
-9	hercule	hercule	I	I-	INFLn	0	voc	_	_
+9	hercule	hercle	I	I-	INFLn	0	voc	_	_
 10	familiari	familiaris	N	Nb	NUMBs|GENDm|CASEb	7	apos	_	_
 11	tuo	tuus	P	Ps	PERS2|NUMBs|GENDo|CASEb	10	atr	_	_
 12	de	de	R	R-	INFLn	18	atr	_	_
@@ -29178,7 +29178,7 @@
 2	nos	nos	P	Pp	PERS1|NUMBp|GENDm|CASEa	1	obl	_	_
 3	vero	vero	D	Df	INFLn	7	aux	_	_
 4	suavissime	suaviter	D	Df	DEGRs	7	adv	_	_
-5	hercule	hercule	I	I-	INFLn	0	voc	_	_
+5	hercule	hercle	I	I-	INFLn	0	voc	_	_
 6	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	aux	_	_
 7	effusus	effundo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	0	pred	_	_
 
@@ -32617,7 +32617,7 @@
 6	et	et	C	C-	INFLn	0	pred	_	_
 7	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	8	aux	_	_
 8	latum	fero	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn	6	pred	_	_
-9	hercule	hercule	I	I-	INFLn	0	voc	_	_
+9	hercule	hercle	I	I-	INFLn	0	voc	_	_
 10	insulse	insulse	D	Df	DEGRp	8	adv	_	_
 
 1	sed	sed	C	C-	INFLn	2	aux	_	_
@@ -35359,7 +35359,7 @@
 16	quidem	quidem	D	Df	INFLn	15	aux	_	_
 
 1	nec	neque	D	Df	INFLn	9	aux	_	_
-2	hercule	hercule	I	I-	INFLn	0	voc	_	_
+2	hercule	hercle	I	I-	INFLn	0	voc	_	_
 3	umquam	umquam	D	Df	INFLn	9	adv	_	_
 4	tam	tam	D	Df	INFLn	5	adv	_	_
 5	diu	diu	D	Df	DEGRp	9	adv	_	_
@@ -35807,7 +35807,7 @@
 9	gratia	gratia	N	Nb	NUMBs|GENDf|CASEb	7	obl	_	_
 10	posui	pono	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	11	pred	_	_
 11	et	et	C	C-	INFLn	0	pred	_	_
-12	hercule	hercule	I	I-	INFLn	0	voc	_	_
+12	hercule	hercle	I	I-	INFLn	0	voc	_	_
 13	merito	meritum	N	Nb	NUMBs|GENDn|CASEb	15	adv	_	_
 14	tuo	tuus	P	Ps	PERS2|NUMBs|GENDn|CASEb	13	atr	_	_
 15	feci	facio	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	11	pred	_	_
