@@ -80189,6 +80189,26 @@
 14	veni	venio	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 15	Damascum	Damascus	N	Ne	NUMBs|GENDf|CASEa	14	obl	_	_
 
+1	Ananias	Ananias	N	Ne	NUMBs|GENDm|CASEn	18	sub	_	_
+2	autem	autem	D	Df	INFLn	18	aux	_	_
+3	quidam	quidam	P	Px	NUMBp|GENDm|CASEn	4	atr	_	_
+4	vir	vir	N	Nb	NUMBs|GENDm|CASEn	1	apos	_	_
+5	secundum	secundum	R	R-	INFLn	8	adv	_	_
+6	legem	lex	N	Nb	NUMBs|GENDf|CASEa	5	obl	_	_
+7	testimonium	testimonium	N	Nb	NUMBs|GENDn|CASEa	8	obj	_	_
+8	habens	habeo	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn	1	apos	_	_
+9	ab	ab	R	R-	INFLn	7	narg	_	_
+10	omnibus	omnis	P	Px	NUMBp|GENDq|CASEb	12	atr	_	_
+11	habitantibus	habito	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEb	12	atr	_	_
+12	Iudaeis	Iudaei	N	Nb	NUMBp|GENDm|CASEb	9	obl	_	_
+13	veniens	venio	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn	16	xadv	_	_
+14	ad	ad	R	R-	INFLn	13	obl	_	_
+15	me	ego	P	Pp	PERS1|NUMBs|GENDm|CASEa	14	obl	_	_
+16	et	et	C	C-	INFLn	18	xadv	_	_
+17	adstans	asto	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDn|CASEn	16	xadv	_	_
+18	dixit	dico	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+19	mihi	ego	P	Pp	PERS1|NUMBs|GENDm|CASEd	18	obl	_	_
+
 1	Saule	Saulus	N	Ne	NUMBs|GENDm|CASEv	0	voc	_	_
 2	frater	frater	N	Nb	NUMBs|GENDm|CASEv	1	apos	_	_
 3	respice	respicio	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
