@@ -8372,10 +8372,10 @@
 15	daupjands	daupjands	N	Nb	NUMBs|GENDm|CASEn	13	apos	_	_
 16	us	us	R	R-	INFLn	18	obl	_	_
 17	dauþaim	dauþs	A	A-	NUMBp|GENDm|CASEd|DEGRp|STREs	16	obl	_	_
-18	urrais	ur-reisan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	12	pred	_	_
-19	jah	jah	C	C-	INFLn	21	aux	_	_
+18	urrais	ur-reisan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	19	pred	_	_
+19	jah	jah	C	C-	INFLn	12	pred	_	_
 20	duþþe	duþe	D	Df	INFLn	21	adv	_	_
-21	waurkjand	waurkjan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	12	pred	_	_
+21	waurkjand	waurkjan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	19	pred	_	_
 22	þos	sa	P	Pd	NUMBp|GENDf|CASEn	23	atr	_	_
 23	mahteis	mahts	N	Nb	NUMBp|GENDf|CASEn	21	sub	_	_
 24	in	in	R	R-	INFLn	21	adv	_	_
@@ -21170,17 +21170,17 @@
 7	gahausideduts	ga-hausjan	V	V-	PERS2|NUMBd|TENSu|MOODi|VOICa	6	obj	_	_
 8	þatei	þatei	G	G-	INFLn	4	apos	_	_
 9	blindai	blinds	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREs	10	sub	_	_
-10	ussaiƕand	us-saiƕan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	8	pred	_	_
+10	ussaiƕand	us-saiƕan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	8	pred(21)pred	_	_
 11	haltai	halts	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREs	12	sub	_	_
-12	gaggand	gaggan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	8	pred	_	_
+12	gaggand	gaggan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	8	pred(21)pred	_	_
 13	þrutsfillai	þrutsfills	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREs	14	sub	_	_
-14	gahrainjanda	ga-hrainjan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICp	8	pred	_	_
+14	gahrainjanda	ga-hrainjan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICp	8	pred(21)pred	_	_
 15	baudai	bauþs	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREs	16	sub	_	_
-16	gahausjand	ga-hausjan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	8	pred	_	_
+16	gahausjand	ga-hausjan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	8	pred(21)pred	_	_
 17	naweis	naus	N	Nb	NUMBp|GENDm|CASEn	18	sub	_	_
-18	urreisand	ur-reisan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	8	pred	_	_
+18	urreisand	ur-reisan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	8	pred(21)pred	_	_
 19	unledai	unleþs	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREs	20	sub	_	_
-20	wailamerjanda	wailamerjan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICp	8	pred	_	_
+20	wailamerjanda	wailamerjan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICp	8	pred(21)pred	_	_
 
 1	jah	jah	C	C-	INFLn	3	aux	_	_
 2	audags	audags	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	3	xobj	_	_
@@ -25310,7 +25310,7 @@
 2	miþ	miþ	R	R-	INFLn	1	adv	_	_
 3	mis	ik	P	Pp	PERS1|NUMBs|GENDm|CASEd	2	obl	_	_
 4	þammei	þatei	G	G-	INFLn	1	adv	_	_
-5	bigat	bi-gitan	V	V-	PERS1|NUMBs|TENSu|MOODi|VOICa	4	atr	_	_
+5	bigat	bi-gitan	V	V-	PERS1|NUMBs|TENSu|MOODi|VOICa	4	pred	_	_
 6	lamb	lamb	N	Nb	NUMBs|GENDn|CASEa	5	obj	_	_
 7	mein	meins	P	Ps	PERS1|NUMBs|GENDn|CASEa	6	atr	_	_
 8	þata	sa	P	Pd	NUMBs|GENDn|CASEa	9	aux	_	_
@@ -42604,7 +42604,7 @@
 4	handugein	handugei	N	Nb	NUMBs|GENDf|CASEd	3	obl	_	_
 5	gudis	guþ	N	Nb	NUMBs|GENDm|CASEg	4	atr	_	_
 6	ni	ni	D	Df	INFLn	7	aux	_	_
-7	ufkunnaida	uf-kunnan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	1	adv	_	_
+7	ufkunnaida	uf-kunnan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	1	pred	_	_
 8	sa	sa	P	Pd	NUMBs|GENDm|CASEn	9	aux	_	_
 9	fairƕus	fairƕus	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
 10	þairh	þairh	R	R-	INFLn	7	adv	_	_
@@ -59527,7 +59527,7 @@
 7	sijais	wisan#1	V	V-	PERS2|NUMBs|TENSp|MOODo|VOICa	5	pred	_	_
 8	ei	ei	G	G-	INFLn	7	adv	_	_
 9	þatei	þatei	G	G-	INFLn	13	comp	_	_
-10	þeihais	þeihan	V	V-	PERS2|NUMBs|TENSp|MOODo|VOICa	9	aux	_	_
+10	þeihais	þeihan	V	V-	PERS2|NUMBs|TENSp|MOODo|VOICa	9	pred	_	_
 11	þu	þu	P	Pp	PERS2|NUMBs|GENDm|CASEn	10	sub	_	_
 12	swikunþ	swikunþs	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	13	xobj	_	_
 13	sijai	wisan#1	V	V-	PERS3|NUMBs|TENSp|MOODo|VOICa	8	pred	_	_
@@ -61669,7 +61669,7 @@
 28	jah	jah	C	C-	INFLn	31	aux	_	_
 29	in	in	R	R-	INFLn	31	adv	_	_
 30	leika	leik	N	Nb	NUMBs|GENDn|CASEd	29	obl	_	_
-31	jah	jah	C	C-	INFLn	27	atr	_	_
+31	jah	jah	C	C-	INFLn	27	adv	_	_
 32	in	in	R	R-	INFLn	31	adv	_	_
 33	fraujin	frauja	N	Nb	NUMBs|GENDm|CASEd	32	obl	_	_
 

@@ -78,7 +78,7 @@
 35	trans	trans	R	R-	INFLn	37	obl	_	_
 36	Rhenum	Rhenus	N	Ne	NUMBs|GENDm|CASEa	35	obl	_	_
 37	incolunt	incolo	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	33	apos	_	_
-38	quibus	qui	P	Pr	NUMBp|GENDm|CASEd	39	obl	_	_
+38	quibus	qui	P	Pr	NUMBp|GENDm|CASEb	39	obl	_	_
 39	cum	cum	R	R-	INFLn	42	obl	_	_
 40	continenter	continenter	D	Df	INFLn	42	adv	_	_
 41	bellum	bellum	N	Nb	NUMBs|GENDn|CASEa	42	obj	_	_
@@ -2647,8 +2647,8 @@
 8	equestre	equester	A	A-	NUMBs|GENDn|CASEn|DEGRp	7	atr	_	_
 9	adversum	adversus	A	A-	NUMBs|GENDn|CASEn|DEGRp	7	atr	_	_
 10	paucis	paucus	A	A-	NUMBp|GENDq|CASEb|DEGRp	12	atr	_	_
-11	ante	ante	R	R-	INFLn	14	adv	_	_
-12	diebus	dies	N	Nb	NUMBp|GENDm|CASEb	11	obl	_	_
+11	ante	ante	D	Df	INFLn	14	adv	_	_
+12	diebus	dies	N	Nb	NUMBp|GENDm|CASEb	11	adv	_	_
 13	esset	sum	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	14	aux	_	_
 14	factum	facio	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn	6	pred	_	_
 15	initium	initium	N	Nb	NUMBs|GENDn|CASEa	18	sub	_	_
@@ -3149,7 +3149,7 @@
 4	summus	summus	A	A-	NUMBs|GENDm|CASEn|DEGRp	5	atr	_	_
 5	mons	mons	N	Nb	NUMBs|GENDm|CASEn	8	sub	_	_
 6	a	ab	R	R-	INFLn	8	ag	_	_
-7	Labieno	Labienus	N	Ne	NUMBs|GENDm|CASEn	6	obl	_	_
+7	Labieno	Labienus	N	Ne	NUMBs|GENDm|CASEb	6	obl	_	_
 8	teneretur	teneo	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICp	3	pred(41)pred	_	_
 9	ipse	ipse	P	Pd	NUMBs|GENDm|CASEn	19	sub	_	_
 10	ab	ab	R	R-	INFLn	19	obl	_	_
@@ -5912,7 +5912,7 @@
 13	habebant	habeo	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	7	atr	_	_
 14	milites	miles	N	Nb	NUMBp|GENDm|CASEn	16	apos	_	_
 15	centuriones	centurio	N	Nb	NUMBp|GENDm|CASEn	16	apos	_	_
-16	que	que	C	C-	INFLn	13	apos	_	_
+16	que	que	C	C-	INFLn	7	apos	_	_
 17	qui	qui	P	Pr	NUMBp|GENDm|CASEn	20	sub	_	_
 18	que	que	C	C-	INFLn	16	aux	_	_
 19	equitatui	equitatus	N	Nb	NUMBs|GENDm|CASEd	20	obl	_	_
@@ -6541,7 +6541,7 @@
 6	postulasset	postulo	V	V-	PERS3|NUMBs|TENSl|MOODs|VOICa	7	apos	_	_
 7	id	is	P	Pp	PERS3|NUMBs|GENDn|CASEa	10	sub	_	_
 8	per	per	R	R-	INFLn	11	adv	_	_
-9	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEb	8	obl	_	_
+9	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	8	obl	_	_
 10	fieri	fio	V	V-	TENSp|MOODn|VOICp	11	comp	_	_
 11	licere	licet	V	V-	TENSp|MOODn|VOICa	0	comp(25)pred	_	_
 12	quoniam	quoniam	G	G-	INFLn	11	adv	_	_
@@ -11416,7 +11416,7 @@
 5	cohortandi	cohortor	V	V-	MOODd|CASEg	6	atr	_	_
 6	causa	causa	N	Nb	NUMBs|GENDf|CASEb	7	adv	_	_
 7	profectus	proficiscor	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	9	xadv	_	_
-8	pugnantibus	pugno	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEb	9	xadv	_	_
+8	pugnantibus	pugno	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEd	9	xadv	_	_
 9	occurrit	occurro	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 
 1	Temporis	tempus	N	Nb	NUMBs|GENDn|CASEg	4	part	_	_
@@ -13371,7 +13371,7 @@
 2	quod	quod	G	G-	INFLn	1	comp	_	_
 3	suos	suus	P	Pt	PERS3|NUMBp|GENDm|CASEa	6	atr	_	_
 4	ab	ab	R	R-	INFLn	7	obl	_	_
-5	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	4	obl	_	_
+5	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEb	4	obl	_	_
 6	liberos	liberi	N	Nb	NUMBp|GENDm|CASEa	7	sub	_	_
 7	abstractos	abstraho	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEa	10	comp	_	_
 8	obsidum	obses	N	Nb	NUMBp|GENDm|CASEg	9	atr	_	_
@@ -14326,7 +14326,7 @@
 4	quae	qui	P	Pr	NUMBs|GENDf|CASEn	8	sub	_	_
 5	contra	contra	R	R-	INFLn	8	obl	_	_
 6	eas	is	P	Pd	NUMBp|GENDf|CASEa	7	atr	_	_
-7	regiones	regio	N	Nb	NUMBp|GENDf|CASEn	5	obl	_	_
+7	regiones	regio	N	Nb	NUMBp|GENDf|CASEa	5	obl	_	_
 8	posita	pono	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEn	3	apos	_	_
 9	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	8	aux	_	_
 10	arcessunt	arcesso	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
@@ -17662,7 +17662,7 @@
 2	quae	qui	P	Pr	NUMBp|GENDn|CASEa	3	obj	_	_
 3	postulassent	postulo	V	V-	PERS3|NUMBp|TENSl|MOODs|VOICa	1	atr	_	_
 4	ab	ab	R	R-	INFLn	3	obl	_	_
-5	se	se	P	Pk	PERS3|NUMBp|GENDm|CASEa	4	obl	_	_
+5	se	se	P	Pk	PERS3|NUMBp|GENDm|CASEb	4	obl	_	_
 6	fore	sum	V	V-	TENSp|MOODn|VOICa	0	comp(8)pred	_	_
 7	parata	paratus	A	A-	NUMBp|GENDn|CASEa|DEGRp	6	xobj	_	_
 
@@ -22333,7 +22333,7 @@
 15	merito	meritum	N	Nb	NUMBs|GENDn|CASEb	19	adv	_	_
 16	eius	is	P	Pp	PERS3|NUMBs|GENDm|CASEg	15	narg	_	_
 17	a	ab	R	R-	INFLn	19	ag	_	_
-18	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	17	obl	_	_
+18	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEb	17	obl	_	_
 19	fieri	fio	V	V-	TENSp|MOODn|VOICp	20	comp	_	_
 20	intellegebat	intellego	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	13	pred(39)pred	_	_
 21	tum	tum	D	Df	INFLn	24	aux	_	_
@@ -22466,7 +22466,7 @@
 1	Erat	sum	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	0	pred	_	_
 2	una	una	D	Df	INFLn	3	adv	_	_
 3	cum	cum	R	R-	INFLn	1	adv	_	_
-4	ceteris	ceterus	A	A-	NUMBp|GENDm|CASEd|DEGRp	3	obl	_	_
+4	ceteris	ceterus	A	A-	NUMBp|GENDm|CASEb|DEGRp	3	obl	_	_
 5	Dumnorix	Dumnorix	N	Ne	NUMBs|GENDm|CASEn	1	sub	_	_
 6	Aeduus	Aeduus	A	A-	NUMBs|GENDm|CASEn|DEGRp	5	apos	_	_
 7	de	de	R	R-	INFLn	12	obl	_	_
@@ -28481,7 +28481,7 @@
 36	vallo	vallum	N	Nb	NUMBs|GENDn|CASEb	38	obl	_	_
 37	portis	porta	N	Nb	NUMBp|GENDf|CASEb	38	obl	_	_
 38	que	que	C	C-	INFLn	34	obl	_	_
-39	castrorum	castra	N	Nb	NUMBp|GENDn|CASEg	38	obl	_	_
+39	castrorum	castra	N	Nb	NUMBp|GENDn|CASEg	38	atr	_	_
 40	barbaros	barbarus	A	A-	NUMBp|GENDm|CASEa|DEGRp	41	obj	_	_
 41	avertisset	averto	V	V-	PERS3|NUMBs|TENSl|MOODs|VOICa	32	pred	_	_
 
