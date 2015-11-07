@@ -23,7 +23,7 @@ The following texts are included in this release of the treebank:
   ----                                                | --------            | --------    | ----
   The Greek New Testament (ed. Tischendorf 1869)      | Ancient Greek       | greek-nt    | 137011 tokens
   The Armenian New Testament (ed. Künzle 1984)        | Classical Armenian  | armenian-nt | 23513 tokens
-  The Gothic Bible (ed. Streitberg 1919)              | Gothic              | gothic-nt   | 57210 tokens
+  The Gothic Bible (ed. Streitberg 1919)              | Gothic              | gothic-nt   | 57211 tokens
   Codex Marianus (ed. Jagić 1883)                     | Old Church Slavonic | marianus    | 58266 tokens
   Jerome's Vulgate                                    | Latin               | latin-nt    | 81440 tokens
   Caesar, Commentarii belli Gallici (ed. Holmes 1914) | Latin               | caes-gal    | 28608 tokens
