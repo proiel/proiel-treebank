@@ -171,7 +171,7 @@
 6	ew	ew	C	C-	INFLn	0	pred	_	_
 7	ankaw	ankanim	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	6	pred	_	_
 8	ah	ah	N	Nb	NUMBs|CASEn	7	sub	_	_
-9	ı̈veray	iveray	R	R-	INFLn	7	obl	_	_
+9	ı̈.veray	i.veray	R	R-	INFLn	7	obl	_	_
 10	nora	na	P	Pd	NUMBs|CASEg	9	obl	_	_
 
 1	Asē	asem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
@@ -567,7 +567,7 @@
 18	nora	na	P	Pd	NUMBs|CASEg	17	atr	_	_
 19	ew	ew	C	C-	INFLn	4	aux	_	_
 20	tʻagaworescʻē	tʻagaworem	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICa	4	pred	_	_
-21	ı̈veray	iveray	R	R-	INFLn	20	obl	_	_
+21	ı̈.veray	i.veray	R	R-	INFLn	20	obl	_	_
 22	tan	town	N	Nb	NUMBs|CASEg	21	obl	_	_
 23	n	n	D	Df	INFLn	22	aux	_	_
 24	Yakovbay	Yakovb	N	Ne	NUMBs|CASEg	22	atr	_	_
@@ -616,7 +616,7 @@
 8	barjreloy	barjreal	A	A-	NUMBs|CASEg	7	atr	_	_
 9	hovani	hovani	N	Nb	NUMBs|CASEa	10	obj	_	_
 10	licʻi	linim	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICp	6	pred	_	_
-11	ı̈veray	iveray	R	R-	INFLn	10	per	_	_
+11	ı̈.veray	i.veray	R	R-	INFLn	10	per	_	_
 12	kʻo	dow	P	Pp	PERS2|NUMBs|CASEg	11	obl	_	_
 
 1	kʻanzi	kʻanzi	C	C-	INFLn	12	adv	_	_
@@ -659,7 +659,7 @@
 1	zi	zi	C	C-	INFLn	3	adv	_	_
 2	óčʻ	očʻ	D	Df	INFLn	3	aux	_	_
 3	tkarascʻi	tkaranam	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICp	0	pred	_	_
-4	ar̄y	ar̄i	R	R-	INFLn	3	per	_	_
+4	ar̄.y	ar̄.i	R	R-	INFLn	3	per	_	_
 5	Astowacoy	Astowac	N	Ne	NUMBs|CASEb	4	obl	_	_
 6	amenayn	amenayn	P	Py	NUMBs|CASEn	7	atr	_	_
 7	ban	ban	N	Nb	NUMBs|CASEn	3	sub	_	_
@@ -930,7 +930,7 @@
 1	Ew	ew	C	C-	INFLn	2	aux	_	_
 2	lowan	lsem	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICp	19	pred	_	_
 3	or	or	P	Pr	NUMBs|CASEn	6	sub	_	_
-4	šowrǰz	šowrǰz-	R	R-	INFLn	6	xobj	_	_
+4	šowrǰ.z	šowrǰ.z-	R	R-	INFLn	6	xobj	_	_
 5	n_ov_aw	na	P	Pd	NUMBs|CASEi	4	obl	_	_
 6	ein	em	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	7	sub	_	_
 7	ew	ew	C	C-	INFLn	2	sub	_	_
@@ -1046,7 +1046,7 @@
 1	Ew	ew	C	C-	INFLn	2	aux	_	_
 2	ełew	linim	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	18	pred	_	_
 3	áh	ah	N	Nb	NUMBs|CASEn	2	sub	_	_
-4	ı̈veray	iveray	R	R-	INFLn	2	obl	_	_
+4	ı̈.veray	i.veray	R	R-	INFLn	2	obl	_	_
 5	amenecʻown	amenekʻean	P	Py	NUMBp|CASEg	4	obl	_	_
 6	or	or	P	Pr	NUMBs|CASEn	7	sub	_	_
 7	lsein	lsem	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	10	atr	_	_
@@ -1513,7 +1513,7 @@
 
 1	ekaykʻ	gam	V	V-	PERS2|NUMBp|TENSa|MOODm|VOICa	0	pred(19)pred	_	_
 2	ertʻicʻówkʻ	ertʻam	V	V-	PERS1|NUMBp|TENSa|MOODs|VOICa	5	pred	_	_
-3	minčʻewcʻ	minčʻewcʻ	R	R-	INFLn	2	obl	_	_
+3	minčʻew.cʻ	minčʻew.cʻ	R	R-	INFLn	2	obl	_	_
 4	Betʻłeem	Bētʻłeem	N	Ne	NUMBs|CASEa	3	obl	_	_
 5	ew	ew	C	C-	INFLn	0	pred(19)pred	_	_
 6	tescʻowkʻ	tesanem	V	V-	PERS1|NUMBp|TENSa|MOODs|VOICa	5	pred	_	_
@@ -1766,7 +1766,7 @@
 13	sovorowtʻean	sovorowtʻiwn	N	Nb	NUMBs|CASEd	12	obl	_	_
 14	awrinacʻ	awrēnkʻ	N	Nb	NUMBp|CASEg	13	atr	_	_
 15	n	n	D	Df	INFLn	14	aux	_	_
-16	ı̈veray	iveray	R	R-	INFLn	10	per	_	_
+16	ı̈.veray	i.veray	R	R-	INFLn	10	per	_	_
 17	nora	na	P	Pd	NUMBs|CASEg	16	obl	_	_
 18	ew	ew	D	Df	INFLn	19	aux	_	_
 19	na	na	P	Pd	NUMBs|CASEn	20	sub	_	_
@@ -1827,7 +1827,7 @@
 6	mayr	mayr	N	Nb	NUMBs|CASEn	5	sub	_	_
 7	nora	na	P	Pd	NUMBs|CASEg	5	aux	_	_
 8	zarmacʻeál	zarmanam	V	V-	NUMBs|MOODp|CASEn	0	pred	_	_
-9	ı̈veray	iveray	R	R-	INFLn	8	obl	_	_
+9	ı̈.veray	i.veray	R	R-	INFLn	8	obl	_	_
 10	banicʻ	ban	N	Nb	NUMBp|CASEg	9	obl	_	_
 11	n	n	D	Df	INFLn	10	aux	_	_
 12	or	or	P	Pr	NUMBs|CASEn	13	sub	_	_
@@ -1985,14 +1985,14 @@
 10	šnorhkʻ	šnorh	N	Nb	NUMBp|CASEn	12	sub	_	_
 11	Astowacoy	Astowac	N	Ne	NUMBs|CASEg	10	atr	_	_
 12	ein	em	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	9	pred	_	_
-13	iveray	iveray	R	R-	INFLn	12	xobj	_	_
+13	i.veray	i.veray	R	R-	INFLn	12	xobj	_	_
 14	nora	na	P	Pd	NUMBs|CASEg	13	obl	_	_
 
 1	Ew	ew	C	C-	INFLn	2	aux	_	_
 2	ertʻayín	ertʻam	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	0	pred	_	_
 3	cnawłkʻ	cnawłkʻ	N	Nb	NUMBp|CASEn	2	sub	_	_
 4	nora	na	P	Pd	NUMBs|CASEg	3	atr	_	_
-5	amiami	am	N	Nb	NUMBs|CASEl	2	adv	_	_
+5	ami.ami	am	N	Nb	NUMBs|CASEl	2	adv	_	_
 6	y	i	R	R-	INFLn	2	obl	_	_
 7	Erowsałém	Erowsałem	N	Ne	NUMBs|CASEa	6	obl	_	_
 8	ı̈	i	R	R-	INFLn	2	obl	_	_
@@ -2255,7 +2255,7 @@
 38	ełew	linim	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	0	pred	_	_
 39	ban	ban	N	Nb	NUMBs|CASEn	38	sub	_	_
 40	Astowacoy	Astowac	N	Ne	NUMBs|CASEg	39	atr	_	_
-41	ı̈veray	iveray	R	R-	INFLn	38	obl	_	_
+41	ı̈.veray	i.veray	R	R-	INFLn	38	obl	_	_
 42	Yovhannów	yovhannēs	N	Ne	NUMBs|CASEg	41	obl	_	_
 43	ordwoy	ordi	N	Nb	NUMBs|CASEg	42	apos	_	_
 44	Zakʻariay	Zakʻaria	N	Ne	NUMBs|CASEg	43	atr	_	_
@@ -2474,7 +2474,7 @@
 1	mí	mi	D	Df	INFLn	8	aux	_	_
 2	inčʻ	inčʻ	N	Nb	NUMBs|CASEa	8	obj	_	_
 3	aweli	aweli	A	A-	NUMBs|CASEa	2	atr	_	_
-4	kʻanz	kʻanz-	D	Df	INFLn	3	obl	_	_
+4	kʻan.z	kʻan.z-	D	Df	INFLn	3	obl	_	_
 5	hramayeal	hramayem	V	V-	NUMBp|MOODp|CASEa	4	obl	_	_
 6	n	n	D	Df	INFLn	5	aux	_	_
 7	jez	dowkʻ	P	Pp	PERS2|NUMBp|CASEd	5	obl	_	_
@@ -2547,7 +2547,7 @@
 6	baycʻ	baycʻ	C	C-	INFLn	0	pred	_	_
 7	gay	gam	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
 8	zawragoyn	zawragoyn	A	A-	NUMBs|CASEn	7	sub	_	_
-9	kʻanz	kʻanz	D	Df	INFLn	8	atr	_	_
+9	kʻan.z	kʻan.z	D	Df	INFLn	8	atr	_	_
 10	is	es	P	Pp	PERS1|NUMBs|CASEa	9	obl	_	_
 11	z	z-	R	R-	INFLn	18	atr	_	_
 12	oroy	or	P	Pr	NUMBs|CASEg	11	obl	_	_
@@ -2627,7 +2627,7 @@
 23	z	z	R	R-	INFLn	24	aux	_	_
 24	ayn	ayn	P	Pd	NUMBs|CASEa	21	obj	_	_
 25	ews	ews	D	Df	INFLn	26	aux	_	_
-26	ı̈veray	iveray	R	R-	INFLn	21	obl	_	_
+26	ı̈.veray	i.veray	R	R-	INFLn	21	obl	_	_
 27	amenayni	amenayn	P	Py	NUMBs|CASEg	26	obl	_	_
 28	ew	ew	C	C-	INFLn	0	pred	_	_
 29	ed	dnem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	28	pred	_	_
@@ -2661,9 +2661,9 @@
 23	srboy	sowrb	A	A-	NUMBs|CASEg	21	atr	_	_
 24	marmnawor	marmnawor	A	A-	INFLn	25	atr	_	_
 25	tesleamb	tesil	N	Nb	NUMBs|CASEi	20	adv	_	_
-26	ibrewz	ibrewz-	D	Df	INFLn	20	adv	_	_
+26	ibrew.z	ibrew.z-	D	Df	INFLn	20	adv	_	_
 27	aławni	aławni	N	Nb	NUMBs|CASEa	26	sub	_	_
-28	ı̈veray	iveray	R	R-	INFLn	20	obl	_	_
+28	ı̈.veray	i.veray	R	R-	INFLn	20	obl	_	_
 29	nora	na	P	Pd	NUMBs|CASEg	28	obl	_	_
 30	Ew	ew	C	C-	INFLn	19	aux	_	_
 31	gal	gam	V	V-	MOODn	19	comp	_	_
@@ -2846,7 +2846,7 @@
 6	Erowsałém	Erowsałem	N	Ne	NUMBs|CASEa	5	obl	_	_
 7	ew	ew	C	C-	INFLn	0	pred	_	_
 8	kacʻoycʻ	kacʻowcʻanem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	7	pred	_	_
-9	ı̈veray	iveray	R	R-	INFLn	8	obl	_	_
+9	ı̈.veray	i.veray	R	R-	INFLn	8	obl	_	_
 10	aštaraki	aštarak	N	Nb	NUMBs|CASEg	9	obl	_	_
 11	tačari	tačar	N	Nb	NUMBs|CASEg	10	atr	_	_
 12	n	n	D	Df	INFLn	11	aux	_	_
@@ -2915,7 +2915,7 @@
 5	pʻorjowtʻiwn	pʻorjowtʻiwn	N	Nb	NUMBs|CASEa	2	obj	_	_
 6	n	n	D	Df	INFLn	5	aux	_	_
 7	satanayi	satanay	N	Ne	NUMBs|CASEg	2	sub	_	_
-8	ı̈bacʻ	ibacʻ	D	Df	INFLn	9	adv	_	_
+8	ı̈.bacʻ	i.bacʻ	D	Df	INFLn	9	adv	_	_
 9	ekacʻ	kam	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
 10	i	i	R	R-	INFLn	9	obl	_	_
 11	nmanē	na	P	Pd	NUMBs|CASEb	10	obl	_	_
@@ -3002,7 +3002,7 @@
 
 1	hogi	hogi	N	Nb	NUMBs|CASEn	0	sub(14)pred	_	_
 2	Tear̄n	Tēr	N	Nb	NUMBs|CASEg	1	atr	_	_
-3	ı̈veray	iveray	R	R-	INFLn	0	xobj(14)pred	_	_
+3	ı̈.veray	i.veray	R	R-	INFLn	0	xobj(14)pred	_	_
 4	im	es	P	Pp	PERS1|NUMBs|CASEg	3	obl	_	_
 5	vasn	vasn	R	R-	INFLn	0	adv(14)pred	_	_
 6	oroy	or	P	Pr	NUMBs|CASEg	5	obl	_	_
@@ -3240,7 +3240,7 @@
 21	acin	ačem	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	12	pred	_	_
 22	z	z	R	R-	INFLn	23	aux	_	_
 23	na	na	P	Pd	NUMBs|CASEa	21	obj	_	_
-24	minčʻewy	minčʻewi	R	R-	INFLn	21	obl	_	_
+24	minčʻew.y	minčʻew.i	R	R-	INFLn	21	obl	_	_
 25	artewan	artewan	N	Nb	NUMBs|CASEa	24	obl	_	_
 26	n	n	D	Df	INFLn	25	aux	_	_
 27	lerin	lear̄n	N	Nb	NUMBs|CASEg	25	atr	_	_
@@ -3373,7 +3373,7 @@
 1	Ew	ew	C	C-	INFLn	2	aux	_	_
 2	ełen	linim	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICp	0	pred	_	_
 3	zarmanalíkʻ	zarmanalikʻ	N	Nb	NUMBp|CASEn	2	sub	_	_
-4	ı̈veray	iveray	R	R-	INFLn	2	obl	_	_
+4	ı̈.veray	i.veray	R	R-	INFLn	2	obl	_	_
 5	amenecʻown	amenekʻean	P	Py	NUMBp|CASEg	4	obl	_	_
 
 1	xawsein	xawsim	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	4	pred	_	_
@@ -3405,7 +3405,7 @@
 6	y	i	R	R-	INFLn	2	obl	_	_
 7	amenáyn	amenayn	P	Py	NUMBs|CASEa	8	atr	_	_
 8	tełis	tełi	N	Nb	NUMBp|CASEa	6	obl	_	_
-9	šowrǰz	šowrǰz-	R	R-	INFLn	8	atr	_	_
+9	šowrǰ.z	šowrǰ.z-	R	R-	INFLn	8	atr	_	_
 10	gawar̄aw	gawar̄	N	Nb	NUMBs|CASEi	9	obl	_	_
 11	n	n	D	Df	INFLn	10	aux	_	_
 
@@ -3531,7 +3531,7 @@
 15	na	na	P	Pd	NUMBs|CASEa	13	obj	_	_
 
 1	ekin	gam	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	4	pred	_	_
-2	minčʻewar̄	minčʻewar̄	R	R-	INFLn	1	obl	_	_
+2	minčʻew.ar̄	minčʻew.ar̄	R	R-	INFLn	1	obl	_	_
 3	na	na	P	Pd	NUMBs|CASEa	2	obl	_	_
 4	ew	ew	C	C-	INFLn	0	pred	_	_
 5	argelowin	arelowm	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	4	pred	_	_
@@ -3629,7 +3629,7 @@
 14	sakawik	sakawik	P	Py	NUMBs|CASEa	16	adv	_	_
 15	mi	mi	M	Ma	NUMBs|CASEa	14	atr	_	_
 16	tanél	tanim	V	V-	MOODn	11	xobj	_	_
-17	ı̈nerkʻs	inerkʻs	D	Df	INFLn	16	per	_	_
+17	ı̈.nerkʻs	i.nerkʻs	D	Df	INFLn	16	per	_	_
 18	ı̈	i	R	R-	INFLn	16	obl	_	_
 19	cʻamakʻē	cʻamakʻ	N	Nb	NUMBs|CASEb	18	obl	_	_
 20	n	n	D	Df	INFLn	19	aux	_	_
@@ -3700,7 +3700,7 @@
 3	ibrew	ibrew	G	G-	INFLn	5	adv	_	_
 4	ararin	ar̄nem	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	3	pred	_	_
 5	pʻakecʻin	pʻakem	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	0	pred	_	_
-6	inerkʻs	iner	D	Df	INFLn	5	adv	_	_
+6	i.nerkʻs	i.ner	D	Df	INFLn	5	adv	_	_
 7	bazmowtʻiwn	bazmowtʻiwn	N	Nb	NUMBs|CASEa	5	obj	_	_
 8	jkancʻ	jowkn	N	Nb	NUMBp|CASEg	7	part	_	_
 9	yoyž	yoyž	D	Df	INFLn	7	adnom	_	_
@@ -3728,7 +3728,7 @@
 17	nawkʻ	naw	N	Nb	NUMBp|CASEn	15	sub	_	_
 18	n	n	D	Df	INFLn	17	aux	_	_
 19	minčʻew	minčʻew	R	R-	INFLn	15	adv	_	_
-20	merjy	merji	R	R-	INFLn	19	obl	_	_
+20	merj.y	merj.i	R	R-	INFLn	19	obl	_	_
 21	nkłmel	ənkłmem	V	V-	MOODn	20	obl	_	_
 22	nocʻa	na	P	Pd	NUMBp|CASEg	21	sub	_	_
 
@@ -3744,7 +3744,7 @@
 10	ew	ew	C	C-	INFLn	0	pred	_	_
 11	asē	asem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	10	pred	_	_
 
-1	ı̈bácʻ	ibacʻ	R	R-	INFLn	2	per	_	_
+1	ı̈.bácʻ	i.bacʻ	R	R-	INFLn	2	per	_	_
 2	gna	gnam	V	V-	PERS2|NUMBs|TENSa|MOODm|VOICa	0	pred	_	_
 3	y	i	R	R-	INFLn	2	obl	_	_
 4	inēn	es	P	Pp	PERS1|NUMBs|CASEb	3	obl	_	_
@@ -3844,7 +3844,7 @@
 2	etes	tesanem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	1	pred	_	_
 3	Yisows	Yisows	N	Ne	NUMBs|CASEa	2	obj	_	_
 4	ankeal	ankanim	V	V-	NUMBs|MOODp|CASEn	7	xadv	_	_
-5	ı̈veray	iveray	R	R-	INFLn	4	obl	_	_
+5	ı̈.veray	i.veray	R	R-	INFLn	4	obl	_	_
 6	eresacʻ	ereskʻ	N	Nb	NUMBp|CASEg	5	obl	_	_
 7	ałačʻeacʻ	ałačʻem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	10	pred	_	_
 8	z	z	R	R-	INFLn	9	aux	_	_
@@ -3999,7 +3999,7 @@
 14	z	z	R	R-	INFLn	15	aux	_	_
 15	na	na	P	Pd	NUMBs|CASEa	16	obj	_	_
 16	mowcanel	mowcanem	V	V-	MOODn	18	xobj	_	_
-17	ı̈nerkʻs	inerkʻs	D	Df	INFLn	16	obl	_	_
+17	ı̈.nerkʻs	i.nerkʻs	D	Df	INFLn	16	obl	_	_
 18	ew	ew	C	C-	INFLn	13	xobj	_	_
 19	dnél	dnem	V	V-	MOODn	18	xobj	_	_
 20	ar̄aǰi	ar̄aǰi#2	D	Df	INFLn	19	obl	_	_
@@ -4015,7 +4015,7 @@
 8	mowcanicʻen	mowcanem	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	5	pred	_	_
 9	z	z	R	R-	INFLn	10	aux	_	_
 10	na	na	P	Pd	NUMBs|CASEa	8	obj	_	_
-11	ı̈nerkʻs	inerkʻs	D	Df	INFLn	8	adv	_	_
+11	ı̈.nerkʻs	i.nerkʻs	D	Df	INFLn	8	adv	_	_
 12	vasn	vasn	R	R-	INFLn	8	adv	_	_
 13	amboxi	ambox	N	Nb	NUMBs|CASEg	12	obl	_	_
 14	n	n	D	Df	INFLn	13	aux	_	_
@@ -4388,7 +4388,7 @@
 4	i	i	R	R-	INFLn	3	obl	_	_
 5	nor	nor	A	A-	INFLn	6	atr	_	_
 6	handerjē	handerj#2	N	Nb	NUMBs|CASEb	4	obl	_	_
-7	ı̈veray	iveray	R	R-	INFLn	3	obl	_	_
+7	ı̈.veray	i.veray	R	R-	INFLn	3	obl	_	_
 8	hnacʻeal	hnanam	V	V-	NUMBs|MOODp|CASEn	9	atr	_	_
 9	jorjoy	jorj	N	Nb	NUMBs|CASEg	7	obl	_	_
 
@@ -4688,7 +4688,7 @@
 
 1	Ew	ew	C	C-	INFLn	6	aux	_	_
 2	hayecʻeal	hayim	V	V-	NUMBs|MOODp|CASEn	6	xadv	_	_
-3	šowrǰz	šowrǰz-	R	R-	INFLn	2	obl	_	_
+3	šowrǰ.z	šowrǰ.z-	R	R-	INFLn	2	obl	_	_
 4	amenekʻowmbkʻ	amenekʻin	P	Py	NUMBp|CASEi	3	obl	_	_
 5	zayragin	zayragin	A	A-	NUMBs|CASEa	6	adv	_	_
 6	asē	asem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
@@ -4707,7 +4707,7 @@
 5	hastatecʻáw	hastatem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	4	pred	_	_
 6	jer̄n	jer̄n	N	Nb	NUMBs|CASEn	5	sub	_	_
 7	nora	na	P	Pd	NUMBs|CASEg	6	atr	_	_
-8	ibrewz	ibrewz-	D	Df	INFLn	5	adv	_	_
+8	ibrew.z	ibrew.z-	D	Df	INFLn	5	adv	_	_
 9	miws	miws	A	A-	NUMBs|CASEn	8	sub	_	_
 10	n	n	D	Df	INFLn	9	aux	_	_
 
@@ -5061,7 +5061,7 @@
 
 1	ałáwtʻs	aławtʻkʻ	N	Nb	NUMBp|CASEa	2	obj	_	_
 2	ararēkʻ	ar̄nem	V	V-	PERS2|NUMBp|TENSa|MOODm|VOICa	0	pred	_	_
-3	ı̈veray	iveray	R	R-	INFLn	2	per	_	_
+3	ı̈.veray	i.veray	R	R-	INFLn	2	per	_	_
 4	nełčʻacʻ	nełičʻ	N	Nb	NUMBp|CASEg	3	obl	_	_
 5	jerocʻ	jer	P	Ps	PERS2|NUMBp|CASEg	4	atr	_	_
 
@@ -5221,7 +5221,7 @@
 19	na	na	P	Pd	NUMBs|CASEn	21	sub	_	_
 20	kʻáłcʻr	kʻałcʻr	A	A-	NUMBs|CASEn	21	xobj	_	_
 21	ē	em	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	18	pred	_	_
-22	ı̈veray	iveray	R	R-	INFLn	21	per	_	_
+22	ı̈.veray	i.veray	R	R-	INFLn	21	per	_	_
 23	čʻaracʻ	čʻar	A	A-	NUMBp|CASEg	24	obl	_	_
 24	ew	ew	C	C-	INFLn	22	obl	_	_
 25	apašnorhacʻ	apašnorh	A	A-	NUMBp|CASEg	24	obl	_	_
@@ -5299,7 +5299,7 @@
 2	ē	em	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 3	ašakert	ašakert	N	Nb	NUMBs|CASEn	2	sub	_	_
 4	law	law	A	A-	NUMBs|CASEn	2	xobj	_	_
-5	kʻanz	kʻanz-	D	Df	INFLn	4	obl	_	_
+5	kʻan.z	kʻan.z-	D	Df	INFLn	4	obl	_	_
 6	vardapet	vardapet	N	Nb	NUMBs|CASEn	5	sub	_	_
 7	iwr	iwr#2	P	Pk	PERS3|NUMBs|CASEg	6	atr	_	_
 
@@ -5307,7 +5307,7 @@
 2	katareal	katarem	V	V-	NUMBs|MOODp|CASEn	4	sub	_	_
 3	n	n	D	Df	INFLn	2	aux	_	_
 4	ełicʻi	linim	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICp	0	pred	_	_
-5	ibrewz	ibrewz-	D	Df	INFLn	4	xobj	_	_
+5	ibrew.z	ibrew.z-	D	Df	INFLn	4	xobj	_	_
 6	vardapét	vardapet	N	Nb	NUMBs|CASEn	5	sub	_	_
 7	iwr	iwr#2	P	Pk	PERS3|NUMBs|CASEg	6	atr	_	_
 
@@ -5494,7 +5494,7 @@
 11	ew	ew	C	C-	INFLn	3	atr	_	_
 12	ed	dnem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	11	atr	_	_
 13	himn	himn	N	Nb	NUMBs|CASEa	12	obj	_	_
-14	ı̈veray	iveray	R	R-	INFLn	12	obl	_	_
+14	ı̈.veray	i.veray	R	R-	INFLn	12	obl	_	_
 15	vimi	vēm	N	Nb	NUMBs|CASEg	14	obl	_	_
 
 1	ı̈	i	R	R-	INFLn	4	adv	_	_
@@ -5516,7 +5516,7 @@
 17	ēr	em	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	15	pred	_	_
 18	himn	himn	N	Nb	NUMBs|CASEn	17	sub	_	_
 19	n	n	D	Df	INFLn	18	aux	_	_
-20	ı̈veray	iveray	R	R-	INFLn	17	adv	_	_
+20	ı̈.veray	i.veray	R	R-	INFLn	17	adv	_	_
 21	vimi	vēm	N	Nb	NUMBs|CASEg	20	obl	_	_
 
 1	Isk	isk	C	C-	INFLn	11	aux	_	_
@@ -5534,7 +5534,7 @@
 13	or	or	P	Pr	NUMBs|CASEn	14	sub	_	_
 14	šinicʻē	šinem	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	12	atr	_	_
 15	town	town	N	Nb	NUMBs|CASEa	14	obj	_	_
-16	ı̈veray	iveray	R	R-	INFLn	14	adv	_	_
+16	ı̈.veray	i.veray	R	R-	INFLn	14	adv	_	_
 17	hołoy	hoł	N	Nb	NUMBs|CASEg	16	obl	_	_
 18	ar̄ancʻ	ar̄ancʻ	R	R-	INFLn	15	atr	_	_
 19	himan	himn	N	Nb	NUMBs|CASEg	18	obl	_	_
@@ -6132,7 +6132,7 @@
 
 1	ar̄awél	ar̄awel	D	Df	INFLn	2	aux	_	_
 2	ews	ews	D	Df	INFLn	0	adv(5)pred	_	_
-3	kʻanz	kʻanz-	D	Df	INFLn	2	adv	_	_
+3	kʻan.z	kʻan.z-	D	Df	INFLn	2	adv	_	_
 4	margarē	margarē	N	Nb	NUMBs|CASEn	3	sub	_	_
 
 1	zi	zi	G	G-	INFLn	3	adv	_	_
@@ -6169,7 +6169,7 @@
 3	cnownds	cnownd	N	Nb	NUMBp|CASEl	2	obl	_	_
 4	kanancʻ	kin	N	Nb	NUMBp|CASEg	3	atr	_	_
 5	margarē	margarē	N	Nb	NUMBs|CASEn	10	xobj	_	_
-6	kʻanz	kʻanz-	D	Df	INFLn	1	adv	_	_
+6	kʻan.z	kʻan.z-	D	Df	INFLn	1	adv	_	_
 7	Yovhannēs	yovhannēs	N	Ne	NUMBs|CASEa	6	obl	_	_
 8	óčʻ	očʻ	D	Df	INFLn	10	aux	_	_
 9	okʻ	okʻ	P	Px	NUMBs|CASEn	10	sub	_	_
@@ -6183,7 +6183,7 @@
 6	Astowacoy	Astowac	N	Ne	NUMBs|CASEg	5	atr	_	_
 7	méc	mec	A	A-	NUMBs|CASEn	8	xobj	_	_
 8	ē	em	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
-9	kʻanz	kʻanz-	D	Df	INFLn	7	adv	_	_
+9	kʻan.z	kʻan.z-	D	Df	INFLn	7	adv	_	_
 10	na	na	P	Pd	NUMBs|CASEa	9	sub	_	_
 
 1	Ew	ew	C	C-	INFLn	10	aux	_	_
@@ -6448,7 +6448,7 @@
 1	mi	mi	M	Ma	NUMBs|CASEn	3	sub	_	_
 2	n	n	D	Df	INFLn	1	aux	_	_
 3	partēr	partim	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	6	pred	_	_
-4	hínghariwr	hinghariwr	N	Nb	NUMBs|CASEa	5	atr	_	_
+4	híng.hariwr	hing.hariwr	N	Nb	NUMBs|CASEa	5	atr	_	_
 5	darhekan	dahekan	N	Nb	NUMBs|CASEa	3	obj	_	_
 6	ew	ew	C	C-	INFLn	0	pred	_	_
 7	miws	miws	A	A-	NUMBs|CASEn	6	sub(10)pred	_	_
@@ -6542,7 +6542,7 @@
 
 1	sa	sa	P	Pd	NUMBs|CASEn	7	sub	_	_
 2	awasik	awasik	I	I-	INFLn	0	voc	_	_
-3	yormēhetē	yormēhetē	G	G-	INFLn	7	adv	_	_
+3	yormē.hetē	yormē.hetē	G	G-	INFLn	7	adv	_	_
 4	mteal	mtanem	V	V-	NUMBs|MOODp|CASEn	5	xobj	_	_
 5	em	em	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	3	pred	_	_
 6	očʻ	očʻ	D	Df	INFLn	7	aux	_	_
@@ -6713,7 +6713,7 @@
 5	žołovrdocʻ	žołovowrd	N	Nb	NUMBp|CASEg	3	sub	_	_
 6	ew	ew	C	C-	INFLn	13	adv	_	_
 7	əst	əst	R	R-	INFLn	9	obl	_	_
-8	kʻałakʻacʻkʻałakʻacʻ	kʻałakʻ	N	Nb	NUMBp|CASEb	7	obl	_	_
+8	kʻałakʻacʻ.kʻałakʻacʻ	kʻałakʻ	N	Nb	NUMBp|CASEb	7	obl	_	_
 9	ekelocʻ	gam	V	V-	NUMBp|MOODp|CASEg	6	adv	_	_
 10	n	n	D	Df	INFLn	9	aux	_	_
 11	ar̄	ar̄#2	R	R-	INFLn	9	obl	_	_
@@ -6758,7 +6758,7 @@
 8	ənd	ənd	R	R-	INFLn	10	adv	_	_
 9	bowsanel	bowsanim	V	V-	MOODn	8	obl	_	_
 10	čʻoracʻáw	čʻoranam	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	7	pred	_	_
-11	ar̄i	ar̄i	R	R-	INFLn	10	adv	_	_
+11	ar̄.i	ar̄.i	R	R-	INFLn	10	adv	_	_
 12	čʻgoyē	čʻgoy	N	Nb	NUMBs|CASEb	11	obl	_	_
 13	hiwtʻoy	hiwtʻ	N	Nb	NUMBs|CASEg	12	atr	_	_
 
@@ -6977,7 +6977,7 @@
 11	ənd	ənd	R	R-	INFLn	10	obl	_	_
 12	marhčawkʻ	mahičkʻ	N	Nb	NUMBp|CASEi	11	obl	_	_
 13	aył	ayl#2	C	C-	INFLn	0	pred	_	_
-14	ı̈veray	iveray	R	R-	INFLn	16	obl	_	_
+14	ı̈.veray	i.veray	R	R-	INFLn	16	obl	_	_
 15	aštanakí	aštanak	N	Nb	NUMBs|CASEg	14	obl	_	_
 16	dnē	dnem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	13	pred	_	_
 17	zi	zi	G	G-	INFLn	16	adv	_	_
@@ -7478,7 +7478,7 @@
 5	amenayn	amenayn	P	Py	NUMBs|CASEn	6	atr	_	_
 6	bazmowtʻiwn	bazmowtʻiwn	N	Nb	NUMBs|CASEn	2	sub	_	_
 7	n	n	D	Df	INFLn	6	aux	_	_
-8	šowrǰz	šowrǰz-	R	R-	INFLn	6	atr	_	_
+8	šowrǰ.z	šowrǰ.z-	R	R-	INFLn	6	atr	_	_
 9	kołmambkʻ	kołmn	N	Nb	NUMBp|CASEi	8	obl	_	_
 10	n	n	D	Df	INFLn	9	aux	_	_
 11	Gergesacʻwocʻ	Gergesacʻi	N	Ne	NUMBp|CASEg	9	atr	_	_
@@ -7602,7 +7602,7 @@
 8	erkotasanicʻ	erkotasan	M	Ma	NUMBp|CASEg	6	atr	_	_
 9	ew	ew	C	C-	INFLn	0	pred	_	_
 10	ēr	em	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	9	pred	_	_
-11	mérjı̈	merji	R	R-	INFLn	10	xobj	_	_
+11	mérj.ı̈	merj.i	R	R-	INFLn	10	xobj	_	_
 12	mah	mah	N	Nb	NUMBs|CASEa	11	obl	_	_
 
 1	Ew	ew	C	C-	INFLn	8	aux	_	_
@@ -7916,7 +7916,7 @@
 8	zawrowtʻíwn	zawrowtʻiwn	N	Nb	NUMBs|CASEa	9	obj	_	_
 9	ew	ew	C	C-	INFLn	6	obj	_	_
 10	išxanowtʻiwn	išxanowtʻiwn	N	Nb	NUMBs|CASEa	9	obj	_	_
-11	iveray	iveray	R	R-	INFLn	14	narg	_	_
+11	i.veray	i.veray	R	R-	INFLn	14	narg	_	_
 12	amenayn	amenayn	P	Py	INFLn	13	atr	_	_
 13	diwacʻ	dew	N	Nb	NUMBp|CASEg	11	obl	_	_
 14	ew	ew	C	C-	INFLn	9	narg	_	_
@@ -8180,7 +8180,7 @@
 2	goy	gom	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 3	mer	mekʻ	P	Pp	PERS1|NUMBp|CASEg	2	xobj	_	_
 4	aweli	aweli	A	A-	NUMBs|CASEn	2	sub	_	_
-5	kʻanz	kʻanz-	R	R-	INFLn	8	obl	_	_
+5	kʻan.z	kʻan.z-	R	R-	INFLn	8	obl	_	_
 6	hing	hing	M	Ma	NUMBp|CASEa	7	atr	_	_
 7	nkanak	nkanak	N	Nb	NUMBs|CASEa	5	obl	_	_
 8	ew	ew	C	C-	INFLn	4	obl	_	_
@@ -8201,7 +8201,7 @@
 2	ein	em	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	0	pred	_	_
 3	arkʻ	ayr	N	Nb	NUMBp|CASEn	2	sub	_	_
 4	ibrew	ibrew	D	Df	INFLn	5	aux	_	_
-5	hínghazar	hinghazar	M	Ma	INFLn	3	atr	_	_
+5	híng.hazar	hing.hazar	M	Ma	INFLn	3	atr	_	_
 
 1	Asē	asem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 2	cʻ	cʻ	R	R-	INFLn	1	obl	_	_
@@ -8211,8 +8211,8 @@
 1	bazmecʻowcʻḗkʻ	bazmecʻowcʻanem	V	V-	PERS2|NUMBp|TENSa|MOODm|VOICa	0	pred	_	_
 2	z	z	R	R-	INFLn	3	aux	_	_
 3	dosa	da	P	Pd	NUMBp|CASEa	1	obj	_	_
-4	dassdass	das	N	Nb	NUMBp|CASEa	1	xobj	_	_
-5	yisownyisown	yisown	M	Ma	NUMBp|CASEa	4	atr	_	_
+4	dass.dass	das	N	Nb	NUMBp|CASEa	1	xobj	_	_
+5	yisown.yisown	yisown	M	Ma	NUMBp|CASEa	4	atr	_	_
 
 1	Ew	ew	C	C-	INFLn	2	aux	_	_
 2	ararin	ar̄nem	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	4	pred	_	_
@@ -8645,7 +8645,7 @@
 8	ew	ew	C	C-	INFLn	0	pred	_	_
 9	hovani	hovani	N	Nb	NUMBs|CASEn	10	xobj	_	_
 10	ełew	linim	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	8	pred	_	_
-11	ı̈veray	iveray	R	R-	INFLn	10	obl	_	_
+11	ı̈.veray	i.veray	R	R-	INFLn	10	obl	_	_
 12	nocʻa	na	P	Pd	NUMBp|CASEg	11	obl	_	_
 
 1	ew	ew	C	C-	INFLn	2	aux	_	_
@@ -8715,7 +8715,7 @@
 9	i	i	R	R-	INFLn	7	obl	_	_
 10	ler̄nē	lear̄n	N	Nb	NUMBs|CASEb	9	obl	_	_
 11	anti	anti	D	Df	INFLn	10	aux	_	_
-12	əndar̄aǰ	əndar̄aǰ	R	R-	INFLn	13	obl	_	_
+12	ənd.ar̄aǰ	ənd.ar̄aǰ	R	R-	INFLn	13	obl	_	_
 13	ełew	linim	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	2	comp	_	_
 14	nma	na	P	Pd	NUMBs|CASEd	12	obl	_	_
 15	žołovowrd	žołovowrd	N	Nb	NUMBs|CASEn	13	sub	_	_
@@ -8796,7 +8796,7 @@
 3	anhawat	anhawat	A	A-	NUMBs|CASEn	4	atr	_	_
 4	ew	ew	C	C-	INFLn	2	atr	_	_
 5	tʻewr	tʻiwr	A	A-	NUMBs|CASEn	4	atr	_	_
-6	minčʻewy	minčʻewi	R	R-	INFLn	8	adv	_	_
+6	minčʻew.y	minčʻew.i	R	R-	INFLn	8	adv	_	_
 7	érb	erb	D	Df	INFLn	6	adv	_	_
 8	ełēcʻ	linim	V	V-	PERS1|NUMBs|TENSa|MOODs|VOICp	11	pred	_	_
 9	ənd	ənd	R	R-	INFLn	8	xobj	_	_
@@ -8843,7 +8843,7 @@
 1	Ew	ew	C	C-	INFLn	2	aux	_	_
 2	zarmanayín	zarmanam	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	0	pred	_	_
 3	amenekʻean	amenekʻean	P	Py	NUMBp|CASEn	2	sub	_	_
-4	ı̈veray	iveray	R	R-	INFLn	2	per	_	_
+4	ı̈.veray	i.veray	R	R-	INFLn	2	per	_	_
 5	mecamecacʻ	mecamec	A	A-	NUMBp|CASEg	4	obl	_	_
 6	n	n	D	Df	INFLn	5	aux	_	_
 7	Astowacoy	Astowac	N	Ne	NUMBs|CASEg	5	atr	_	_
@@ -8853,7 +8853,7 @@
 3	zarmanal	zarmanam	V	V-	MOODn	2	obl	_	_
 4	n	n	D	Df	INFLn	3	aux	_	_
 5	amenecʻown	amenekʻean	P	Py	NUMBp|CASEg	3	atr	_	_
-6	ı̈veray	iveray	R	R-	INFLn	3	per	_	_
+6	ı̈.veray	i.veray	R	R-	INFLn	3	per	_	_
 7	amenayni	amenayn	P	Py	NUMBs|CASEg	6	obl	_	_
 8	z	z	R	R-	INFLn	9	aux	_	_
 9	or	or	P	Pr	NUMBs|CASEa	10	obj	_	_
@@ -9312,7 +9312,7 @@
 2	ar̄akʻém	ar̄akʻem	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 3	z	z	R	R-	INFLn	4	aux	_	_
 4	jez	dowkʻ	P	Pp	PERS2|NUMBp|CASEa	2	obj	_	_
-5	ibrewz	ibrewz-	D	Df	INFLn	2	adv	_	_
+5	ibrew.z	ibrew.z-	D	Df	INFLn	2	adv	_	_
 6	gar̄ins	gar̄n	N	Nb	NUMBp|CASEa	5	obj	_	_
 7	ı̈	i	R	R-	INFLn	5	obl	_	_
 8	mēǰ	mēǰ	N	Nb	NUMBs|CASEa	7	obl	_	_
@@ -9354,7 +9354,7 @@
 5	ordi	ordi	N	Nb	NUMBs|CASEn	3	sub	_	_
 6	ołjowni	ołǰoyn	N	Nb	NUMBs|CASEg	5	atr	_	_
 7	hangicʻḗ	hangčʻim	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICa	0	pred	_	_
-8	ı̈veray	iveray	R	R-	INFLn	7	adv	_	_
+8	ı̈.veray	i.veray	R	R-	INFLn	7	adv	_	_
 9	nora	na	P	Pd	NUMBs|CASEg	8	obl	_	_
 10	ołǰoyn	ołǰoyn	N	Nb	NUMBs|CASEn	7	sub	_	_
 11	jer	dowkʻ	P	Pp	PERS2|NUMBp|CASEg	10	atr	_	_
@@ -9418,7 +9418,7 @@
 
 1	merjeál	merjim	V	V-	NUMBs|MOODp|CASEn	0	pred	_	_
 2	ē	em	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	aux	_	_
-3	ı̈veray	iveray	R	R-	INFLn	1	obl	_	_
+3	ı̈.veray	i.veray	R	R-	INFLn	1	obl	_	_
 4	jer	dowkʻ	P	Pp	PERS2|NUMBp|CASEg	3	obl	_	_
 5	arkʻayowtʻiwn	arkʻayowtʻiwn	N	Nb	NUMBs|CASEn	1	sub	_	_
 6	Astowacoy	Astowac	N	Ne	NUMBs|CASEg	5	atr	_	_
@@ -9531,12 +9531,12 @@
 2	dow	dow	P	Pp	PERS2|NUMBs|CASEn	12	sub	_	_
 3	Kapʻar̄naowm	kapʻar̄naowm	N	Ne	NUMBs|CASEv	0	voc	_	_
 4	or	or	P	Pr	NUMBs|CASEn	8	sub	_	_
-5	minčʻewy	minčʻewi	R	R-	INFLn	8	obl	_	_
+5	minčʻew.y	minčʻew.i	R	R-	INFLn	8	obl	_	_
 6	erkins	erkin	N	Nb	NUMBp|CASEa	5	obl	_	_
 7	d	d	D	Df	INFLn	6	aux	_	_
 8	barjracʻeal	barjranam	V	V-	NUMBs|MOODp|CASEn	2	atr	_	_
 9	es	em	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	8	aux	_	_
-10	minčʻewı̈	minčʻewi	R	R-	INFLn	12	obl	_	_
+10	minčʻew.ı̈	minčʻew.i	R	R-	INFLn	12	obl	_	_
 11	džóxs	džoxkʻ	N	Nb	NUMBp|CASEa	10	obl	_	_
 12	iǰcʻes	iǰanem	V	V-	PERS2|NUMBs|TENSa|MOODs|VOICa	0	pred	_	_
 
@@ -9605,7 +9605,7 @@
 4	ankeal	ankanim	V	V-	NUMBs|MOODp|CASEn	1	xobj	_	_
 5	y	i	R	R-	INFLn	4	obl	_	_
 6	erknicʻ	erkin	N	Nb	NUMBp|CASEb	5	obl	_	_
-7	ibrewz	ibrewz-	D	Df	INFLn	4	adv	_	_
+7	ibrew.z	ibrew.z-	D	Df	INFLn	4	adv	_	_
 8	pʻaylakn	pʻaylakn	N	Nb	NUMBs|CASEa	7	sub	_	_
 
 1	Aha	aha	I	I-	INFLn	0	voc	_	_
@@ -9839,7 +9839,7 @@
 26	z	z	R	R-	INFLn	27	aux	_	_
 27	nker	ənker	N	Nb	NUMBs|CASEa	25	obj(32)pred	_	_
 28	kʻo	dow	P	Pp	PERS2|NUMBs|CASEg	27	atr	_	_
-29	ibrewz	ibrewz-	D	Df	INFLn	25	adv(32)pred	_	_
+29	ibrew.z	ibrew.z-	D	Df	INFLn	25	adv(32)pred	_	_
 30	anjn	anjn	N	Nb	NUMBs|CASEa	29	obj	_	_
 31	kʻo	dow	P	Pp	PERS2|NUMBs|CASEg	30	atr	_	_
 
@@ -9900,7 +9900,7 @@
 8	na	na	P	Pd	NUMBs|CASEa	6	obj	_	_
 9	ew	ew	C	C-	INFLn	4	apos	_	_
 10	vērs	vēr#2	N	Nb	NUMBp|CASEa	12	obj	_	_
-11	ı̈veray	iveray	R	R-	INFLn	12	adv	_	_
+11	ı̈.veray	i.veray	R	R-	INFLn	12	adv	_	_
 12	edin	dnem	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	9	apos	_	_
 13	tʻołin	tʻołowm	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	9	adv	_	_
 14	kisamah	kisamah	A	A-	NUMBs|CASEa	13	xobj	_	_
@@ -9955,13 +9955,13 @@
 18	vērs	vēr#2	N	Nb	NUMBp|CASEa	16	obj	_	_
 19	nora	na	P	Pd	NUMBs|CASEg	18	atr	_	_
 20	arkeal	arkanem	V	V-	NUMBs|MOODp|CASEn	16	xadv(40)xadv	_	_
-21	ı̈veray	iveray	R	R-	INFLn	20	obl	_	_
+21	ı̈.veray	i.veray	R	R-	INFLn	20	obl	_	_
 22	jētʻ	jētʻ	N	Nb	NUMBs|CASEa	23	obj	_	_
 23	ew	ew	C	C-	INFLn	20	obj	_	_
 24	gini	gini	N	Nb	NUMBs|CASEa	23	obj	_	_
 25	ew	ew	C	C-	INFLn	9	aux	_	_
 26	edeal	dnem	V	V-	NUMBs|MOODp|CASEn	30	xadv	_	_
-27	ı̈veray	iveray	R	R-	INFLn	26	obl	_	_
+27	ı̈.veray	i.veray	R	R-	INFLn	26	obl	_	_
 28	grastow	grast	N	Nb	NUMBs|CASEg	27	obl	_	_
 29	iwroy	iwr	P	Ps	PERS3|NUMBs|CASEg	28	atr	_	_
 30	ác	ačem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	9	pred	_	_
@@ -10035,7 +10035,7 @@
 3	z	z	R	R-	INFLn	4	aux	_	_
 4	ołormowtʻiwn	ołormowtʻiwn	N	Nb	NUMBs|CASEa	2	obj	_	_
 5	n	n	D	Df	INFLn	4	aux	_	_
-6	ı̈veray	iveray	R	R-	INFLn	2	obl	_	_
+6	ı̈.veray	i.veray	R	R-	INFLn	2	obl	_	_
 7	nora	na	P	Pd	NUMBs|CASEg	6	obl	_	_
 
 1	Asē	asem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
@@ -10308,7 +10308,7 @@
 
 1	ew	ew	C	C-	INFLn	4	aux	_	_
 2	na	na	P	Pd	NUMBs|CASEn	4	sub	_	_
-3	ı̈nerkʻowst	ı̈nerkʻowst	D	Df	INFLn	4	adv	_	_
+3	ı̈.nerkʻowst	ı̈.nerkʻowst	D	Df	INFLn	4	adv	_	_
 4	taycʻē	tam	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	6	pred	_	_
 5	patasxani	patasxani	N	Nb	NUMBs|CASEa	4	obj	_	_
 6	ew	ew	C	C-	INFLn	0	pred	_	_
@@ -10582,7 +10582,7 @@
 8	apa	apa	D	Df	INFLn	9	aux	_	_
 9	haseál	hasanem	V	V-	NUMBs|MOODp|CASEn	0	pred	_	_
 10	ē	em	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	9	aux	_	_
-11	ı̈veray	iveray	R	R-	INFLn	9	obl	_	_
+11	ı̈.veray	i.veray	R	R-	INFLn	9	obl	_	_
 12	jer	dowkʻ	P	Pp	PERS2|NUMBp|CASEg	11	obl	_	_
 13	arkʻayowtʻiwn	arkʻayowtʻiwn	N	Nb	NUMBs|CASEn	9	sub	_	_
 14	Astowacoy	Astowac	N	Ne	NUMBs|CASEg	13	atr	_	_
@@ -10603,9 +10603,9 @@
 1	baycʻ	baycʻ	C	C-	INFLn	14	aux	_	_
 2	etʻe	etʻē	G	G-	INFLn	14	adv	_	_
 3	hzawragoyn	hzawragoyn	A	A-	NUMBs|CASEn	8	sub	_	_
-4	kʻanz	kʻanz-	D	Df	INFLn	3	atr	_	_
+4	kʻan.z	kʻan.z-	D	Df	INFLn	3	atr	_	_
 5	na	na	P	Pd	NUMBs|CASEa	4	obl	_	_
-6	ı̈veray	iveray	R	R-	INFLn	7	per	_	_
+6	ı̈.veray	i.veray	R	R-	INFLn	7	per	_	_
 7	ekeal	gam	V	V-	NUMBs|MOODp|CASEn	8	xadv	_	_
 8	yałtʻescʻē	yałtʻem	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICa	2	pred	_	_
 9	nma	na	P	Pd	NUMBs|CASEd	8	obl	_	_
@@ -10685,7 +10685,7 @@
 7	ays	ays#2	N	Nb	NUMBs|CASEa	4	obj	_	_
 8	čʻar	čʻar	A	A-	NUMBs|CASEn	7	apos	_	_
 9	ews	ews	D	Df	INFLn	8	aux	_	_
-10	kʻanz	kʻanz-	D	Df	INFLn	8	atr	_	_
+10	kʻan.z	kʻan.z-	D	Df	INFLn	8	atr	_	_
 11	inkʻn	inkʻn	P	Pd	NUMBs|CASEa	10	obj	_	_
 12	ew	ew	C	C-	INFLn	3	aux	_	_
 13	mtanē	mtanem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	3	pred(27)pred	_	_
@@ -10699,7 +10699,7 @@
 21	n	n	D	Df	INFLn	20	aux	_	_
 22	aynorik	ayn	P	Pd	NUMBs|CASEg	20	atr	_	_
 23	čʻár	čʻar	A	A-	NUMBs|CASEn	17	xobj	_	_
-24	kʻanz	kʻanz-	D	Df	INFLn	23	obl	_	_
+24	kʻan.z	kʻan.z-	D	Df	INFLn	23	obl	_	_
 25	ar̄aǰin	ar̄aǰin	N	Nb	NUMBs|CASEa	24	obl	_	_
 26	n	n	D	Df	INFLn	25	aux	_	_
 
@@ -10755,7 +10755,7 @@
 1	Ew	ew	C	C-	INFLn	8	aux	_	_
 2	ı̈	i	R	R-	INFLn	8	adv	_	_
 3	dizanel	dizanem	V	V-	MOODn	2	obl	_	_
-4	ı̈veray	iveray	R	R-	INFLn	3	obl	_	_
+4	ı̈.veray	i.veray	R	R-	INFLn	3	obl	_	_
 5	nocʻa	na	P	Pd	NUMBp|CASEg	4	obl	_	_
 6	žołovrdocʻ	žołovowrd	N	Nb	NUMBp|CASEg	3	sub	_	_
 7	n	n	D	Df	INFLn	6	aux	_	_
@@ -10827,7 +10827,7 @@
 11	Ew	ew	C	C-	INFLn	0	pred	_	_
 12	aha	aha	I	I-	INFLn	0	voc	_	_
 13	ar̄awél	ar̄awel	A	A-	NUMBs|CASEn	16	sub	_	_
-14	kʻanz	kʻanz	D	Df	INFLn	13	atr	_	_
+14	kʻan.z	kʻan.z	D	Df	INFLn	13	atr	_	_
 15	Sałovmovn	Sałomovn	N	Ne	NUMBs|CASEa	14	obl	_	_
 16	ē	em	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	11	pred	_	_
 17	ast	ast	D	Df	INFLn	16	adv	_	_
@@ -10856,7 +10856,7 @@
 7	Ew	ew	C	C-	INFLn	0	pred	_	_
 8	aha	aha	I	I-	INFLn	0	voc	_	_
 9	ar̄awél	ar̄awel	A	A-	NUMBs|CASEn	12	sub	_	_
-10	kʻanz	kʻanz	D	Df	INFLn	9	atr	_	_
+10	kʻan.z	kʻan.z	D	Df	INFLn	9	atr	_	_
 11	Yovnan	Yovnan	N	Ne	NUMBs|CASEa	10	obl	_	_
 12	ē	em	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	pred	_	_
 13	ast	ast	D	Df	INFLn	12	adv	_	_
@@ -10869,7 +10869,7 @@
 6	ı̈	i	R	R-	INFLn	8	obl	_	_
 7	tʻakʻstean	tʻakʻowst	N	Nb	NUMBs|CASEl	6	obl	_	_
 8	aył	ayl#2	C	C-	INFLn	5	obl	_	_
-9	ı̈veray	iveray	R	R-	INFLn	8	obl	_	_
+9	ı̈.veray	i.veray	R	R-	INFLn	8	obl	_	_
 10	aštanakí	aštanak	N	Nb	NUMBs|CASEg	9	obl	_	_
 11	zi	zi#2	G	G-	INFLn	5	adv	_	_
 12	or	or	P	Pr	NUMBs|CASEn	13	sub	_	_
@@ -10974,7 +10974,7 @@
 8	očʻ	očʻ	D	Df	INFLn	9	aux	_	_
 9	mkrtecʻaw	mkrtem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	6	pred	_	_
 10	yar̄aǰ	yar̄aǰ	D	Df	INFLn	9	adv	_	_
-11	kʻanz	kʻanz	D	Df	INFLn	10	obl	_	_
+11	kʻan.z	kʻan.z	D	Df	INFLn	10	obl	_	_
 12	čaš	čaš	N	Nb	NUMBs|CASEa	11	obl	_	_
 13	n	n	D	Df	INFLn	12	aux	_	_
 
@@ -11091,13 +11091,13 @@
 3	zi	zi	G	G-	INFLn	1	adv	_	_
 4	ēkʻ	em	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	9	pred	_	_
 5	dowkʻ	dowkʻ	P	Pp	PERS2|NUMBp|CASEn	4	sub	_	_
-6	ibrewz	ibrewz-	D	Df	INFLn	4	xobj	_	_
+6	ibrew.z	ibrew.z-	D	Df	INFLn	4	xobj	_	_
 7	gerezmans	gerezman	N	Nb	NUMBp|CASEa	6	obl	_	_
 8	anyayts	anyayt	A	A-	NUMBp|CASEa	7	atr	_	_
 9	ew	ew	C	C-	INFLn	3	pred	_	_
 10	mardik	mardik	N	Nb	NUMBs|CASEn	11	sub	_	_
 11	gnan	gnam	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	13	pred	_	_
-12	ı̈veray	iveray	R	R-	INFLn	11	per	_	_
+12	ı̈.veray	i.veray	R	R-	INFLn	11	per	_	_
 13	ew	ew	C	C-	INFLn	9	pred	_	_
 14	očʻ	očʻ	D	Df	INFLn	15	aux	_	_
 15	giten	gitem	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	13	pred	_	_
@@ -11221,7 +11221,7 @@
 27	arenē	ariwn	N	Nb	NUMBs|CASEb	26	obl	_	_
 28	n	n	D	Df	INFLn	27	aux	_	_
 29	Abełi	Abeł	N	Ne	NUMBs|CASEg	27	atr	_	_
-30	minčʻewy	minčʻewi	R	R-	INFLn	15	apos	_	_
+30	minčʻew.y	minčʻew.i	R	R-	INFLn	15	apos	_	_
 31	ariwn	ariwn	N	Nb	NUMBs|CASEa	30	obl	_	_
 32	n	n	D	Df	INFLn	31	aux	_	_
 33	Zakʻariay	Zakʻaria	N	Ne	NUMBs|CASEg	31	atr	_	_
@@ -11349,7 +11349,7 @@
 12	očʻ	očʻ	D	Df	INFLn	13	aux	_	_
 13	canicʻi	čanačʻem	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICp	9	sub(14)pred	_	_
 
-1	Vasnzi	vasnzi	C	C-	INFLn	9	adv	_	_
+1	Vasn.zi	vasn.zi	C	C-	INFLn	9	adv	_	_
 2	z	z	R	R-	INFLn	3	aux	_	_
 3	or	or	P	Pr	NUMBs|CASEa	5	obj	_	_
 4	inčʻ	inčʻ	P	Px	NUMBs|CASEa	3	atr	_	_
@@ -11370,7 +11370,7 @@
 19	ı̈	i	R	R-	INFLn	18	adv	_	_
 20	štemarans	štemarankʻ	N	Nb	NUMBp|CASEl	19	obl	_	_
 21	kʻarozescʻí	kʻarozem	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICp	12	pred	_	_
-22	ı̈veray	iveray	R	R-	INFLn	21	per	_	_
+22	ı̈.veray	i.veray	R	R-	INFLn	21	per	_	_
 23	taneacʻ	tanikʻ	N	Nb	NUMBp|CASEg	22	obl	_	_
 
 1	Baycʻ	baycʻ	C	C-	INFLn	3	aux	_	_
@@ -11453,7 +11453,7 @@
 1	mí	mi	D	Df	INFLn	2	aux	_	_
 2	erknčʻikʻ	erknčʻim	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 3	zi	zi#2	G	G-	INFLn	2	adv	_	_
-4	kʻanz	kʻanz	D	Df	INFLn	7	obl	_	_
+4	kʻan.z	kʻan.z	D	Df	INFLn	7	obl	_	_
 5	bazowm	bazowm	P	Py	NUMBs|CASEa	6	atr	_	_
 6	jags	jag	N	Nb	NUMBp|CASEa	4	obl	_	_
 7	law	law	A	A-	NUMBs|CASEn	8	xobj	_	_
@@ -11588,7 +11588,7 @@
 7	datawor	datawor	N	Nb	NUMBs|CASEa	8	xobj	_	_
 8	kam	kam#3	C	C-	INFLn	4	xobj	_	_
 9	bažanarar	bažanarar	N	Nb	NUMBs|CASEa	8	xobj	_	_
-10	ı̈veray	iveray	R	R-	INFLn	8	narg	_	_
+10	ı̈.veray	i.veray	R	R-	INFLn	8	narg	_	_
 11	jer	dowkʻ	P	Pp	PERS2|NUMBp|CASEg	10	obl	_	_
 
 1	Ew	ew	C	C-	INFLn	2	aux	_	_
@@ -11711,7 +11711,7 @@
 7	d	d	D	Df	INFLn	6	aux	_	_
 8	ı̈	i	R	R-	INFLn	11	obl	_	_
 9	kʻēn	dow	P	Pp	PERS2|NUMBs|CASEb	8	obl	_	_
-10	ibacʻ	ibacʻ	D	Df	INFLn	11	per	_	_
+10	i.bacʻ	i.bacʻ	D	Df	INFLn	11	per	_	_
 11	pahanǰicʻen	pahanǰem	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	0	pred	_	_
 
 1	isk	isk	C	C-	INFLn	7	aux	_	_
@@ -11763,11 +11763,11 @@
 2	ogi	ogi	N	Nb	NUMBs|CASEn	4	sub	_	_
 3	ar̄awél	ar̄awel	A	A-	NUMBs|CASEn	4	xobj	_	_
 4	ē̈	em	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	pred	_	_
-5	kʻanz	kʻanz	D	Df	INFLn	3	obl	_	_
+5	kʻan.z	kʻan.z	D	Df	INFLn	3	obl	_	_
 6	kerakowr	kerakowr	N	Nb	NUMBs|CASEa	5	sub	_	_
 7	ew	ew	C	C-	INFLn	0	pred	_	_
 8	marmin	marmin	N	Nb	NUMBs|CASEn	7	sub(11)pred	_	_
-9	kʻanz	kʻanz	D	Df	INFLn	7	xobj(11)pred	_	_
+9	kʻan.z	kʻan.z	D	Df	INFLn	7	xobj(11)pred	_	_
 10	handerj	handerj#2	N	Nb	NUMBs|CASEa	9	sub	_	_
 
 1	Hayecʻarówkʻ	hayim	V	V-	PERS2|NUMBp|TENSa|MOODm|VOICa	17	pred	_	_
@@ -11800,7 +11800,7 @@
 6	or	or	P	Pr	NUMBs|CASEn	8	sub	_	_
 7	law	law	A	A-	NUMBs|CASEn	8	xobj	_	_
 8	ēkʻ	em	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	5	rel	_	_
-9	kʻanz	kʻanz	D	Df	INFLn	7	obl	_	_
+9	kʻan.z	kʻan.z	D	Df	INFLn	7	obl	_	_
 10	tʻr̄čʻowns	tʻr̄čʻown	N	Nb	NUMBp|CASEa	9	sub	_	_
 
 1	_OV_	ov	P	Pi	NUMBs|CASEn	6	sub	_	_
@@ -11855,7 +11855,7 @@
 7	pʻar̄s	pʻar̄kʻ	N	Nb	NUMBp|CASEl	6	obl	_	_
 8	iwr	iwr#1	P	Pk	PERS3|NUMBs|CASEg	7	atr	_	_
 9	zgecʻaw	zgenowm	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	0	pred	_	_
-10	ibrewz	ibrewz-	D	Df	INFLn	9	adv	_	_
+10	ibrew.z	ibrew.z-	D	Df	INFLn	9	adv	_	_
 11	mi	mi	M	Ma	NUMBs|CASEn	10	sub	_	_
 12	ı̈	i	R	R-	INFLn	11	part	_	_
 13	nocʻanē	na	P	Pd	NUMBp|CASEb	12	obl	_	_
@@ -12128,7 +12128,7 @@
 9	kacʻowscʻē	kacʻowcʻanem	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICa	4	apos	_	_
 10	Tēr	Tēr	N	Nb	NUMBs|CASEn	9	sub	_	_
 11	iwr	iwr#1	P	Pk	PERS3|NUMBs|CASEg	10	atr	_	_
-12	ı̈veray	iveray	R	R-	INFLn	9	obl	_	_
+12	ı̈.veray	i.veray	R	R-	INFLn	9	obl	_	_
 13	gerdastani	gerdastan	N	Nb	NUMBs|CASEg	12	obl	_	_
 14	iwroy	iwr#2	P	Ps	PERS3|NUMBs|CASEg	13	atr	_	_
 15	tal	tam	V	V-	MOODn	9	xadv	_	_
@@ -12155,7 +12155,7 @@
 2	asém	asem	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 3	jez	dowkʻ	P	Pp	PERS2|NUMBp|CASEd	2	obl	_	_
 4	zi	zi#2	C	C-	INFLn	2	comp	_	_
-5	ı̈veray	iveray	R	R-	INFLn	9	obl	_	_
+5	ı̈.veray	i.veray	R	R-	INFLn	9	obl	_	_
 6	amenayn	amenayn	P	Py	INFLn	7	atr	_	_
 7	ənčʻicʻ	inčʻ	N	Nb	NUMBp|CASEg	5	obl	_	_
 8	iwrocʻ	iwr#2	P	Ps	PERS3|NUMBp|CASEg	7	atr	_	_
@@ -12497,7 +12497,7 @@
 4	Gałiłeacʻikʻ	Gałiłeacʻi	N	Nb	NUMBp|CASEn	5	sub	_	_
 5	ełen	linim	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICp	2	pred	_	_
 6	meławorkʻ	meławor	A	A-	NUMBp|CASEn	5	xobj	_	_
-7	kʻanz	kʻanz	D	Df	INFLn	6	obl	_	_
+7	kʻan.z	kʻan.z	D	Df	INFLn	6	obl	_	_
 8	amenayn	amenayn	P	Py	NUMBs|CASEa	9	atr	_	_
 9	Gałiłeacʻis	Gałiłeacʻi	N	Nb	NUMBp|CASEa	7	sub	_	_
 10	zi	zi#2	G	G-	INFLn	5	adv	_	_
@@ -12538,7 +12538,7 @@
 19	nokʻa	na	P	Pd	NUMBp|CASEn	21	sub	_	_
 20	parta_pa_nkʻ	partapan	A	A-	NUMBp|CASEn	21	xobj	_	_
 21	ełen	linim	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICp	18	pred	_	_
-22	kʻanz	kʻanz	D	Df	INFLn	20	obl	_	_
+22	kʻan.z	kʻan.z	D	Df	INFLn	20	obl	_	_
 23	amenayn	amenayn	P	Py	NUMBs|CASEa	24	atr	_	_
 24	mardik	mardik	N	Nb	NUMBs|CASEa	22	obl	_	_
 25	or	or	P	Pr	NUMBs|CASEn	26	sub	_	_
@@ -12632,7 +12632,7 @@
 6	am	am	N	Nb	NUMBs|CASEa	2	adv	_	_
 7	ews	ews	D	Df	INFLn	6	aux	_	_
 8	minčʻ	minčʻ	G	G-	INFLn	2	adv	_	_
-9	šowrǰz	šowrǰz-	R	R-	INFLn	11	per	_	_
+9	šowrǰ.z	šowrǰ.z-	R	R-	INFLn	11	per	_	_
 10	d_ov_aw	da	P	Pd	NUMBs|CASEi	9	obl	_	_
 11	brecʻicʻ	brem	V	V-	PERS1|NUMBs|TENSa|MOODs|VOICa	12	pred	_	_
 12	ew	ew	C	C-	INFLn	8	pred	_	_
@@ -12680,7 +12680,7 @@
 16	óčʻ	očʻ	D	Df	INFLn	17	aux	_	_
 17	karēr	karem	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	12	pred	_	_
 18	amenewin	amenewin	D	Df	INFLn	17	adv	_	_
-19	ı̈ver	iver	D	Df	INFLn	20	per	_	_
+19	ı̈.ver	i.ver	D	Df	INFLn	20	per	_	_
 20	hayel	hayim	V	V-	MOODn	17	xobj	_	_
 
 1	Ew	ew	C	C-	INFLn	6	aux	_	_
@@ -12706,7 +12706,7 @@
 
 1	ew	ew	C	C-	INFLn	2	aux	_	_
 2	ed	dnem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
-3	ı̈veray	iveray	R	R-	INFLn	2	obl	_	_
+3	ı̈.veray	i.veray	R	R-	INFLn	2	obl	_	_
 4	nora	na	P	Pd	NUMBs|CASEg	3	obl	_	_
 5	jer̄n	jer̄n	N	Nb	NUMBs|CASEa	2	obj	_	_
 
@@ -12827,7 +12827,7 @@
 18	n	n	D	Df	INFLn	17	aux	_	_
 19	owráx	owrax	A	A-	NUMBs|CASEn	20	xobj	_	_
 20	linēr	linim	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	15	pred	_	_
-21	ı̈veray	iveray	R	R-	INFLn	20	adv	_	_
+21	ı̈.veray	i.veray	R	R-	INFLn	20	adv	_	_
 22	amenayn	amenayn	P	Py	INFLn	23	atr	_	_
 23	pʻar̄aworowtʻeancʻ	pʻar̄aworowtʻiwn	N	Nb	NUMBp|CASEg	21	obl	_	_
 24	n	n	D	Df	INFLn	23	aux	_	_
@@ -13017,7 +13017,7 @@
 7	owsti	owsti	D	Dq	INFLn	8	obl	_	_
 8	ēkʻ	em	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	4	comp	_	_
 
-1	ı̈bácʻ	ibacʻ	R	R-	INFLn	2	per	_	_
+1	ı̈.bácʻ	i.bacʻ	R	R-	INFLn	2	per	_	_
 2	kacʻēkʻ	kam	V	V-	PERS2|NUMBp|TENSa|MOODm|VOICa	0	pred	_	_
 3	y	i	R	R-	INFLn	2	obl	_	_
 4	inēn	es	P	Pp	PERS1|NUMBs|CASEb	3	obl	_	_
@@ -13154,7 +13154,7 @@
 16	margarēi	margarē	N	Nb	NUMBs|CASEd	15	obl	_	_
 17	kornčʻel	kornčʻim	V	V-	MOODn	14	comp	_	_
 18	artakʻoy	artakʻoy#2	D	Df	INFLn	17	obl	_	_
-19	kʻanz	kʻanz-	R	R-	INFLn	18	apos	_	_
+19	kʻan.z	kʻan.z-	R	R-	INFLn	18	apos	_	_
 20	Erowsałém	Erowsałem	N	Ne	NUMBs|CASEa	19	obl	_	_
 
 1	Erowsałém	Erowsałem	N	Ne	NUMBs|CASEv	0	voc	_	_
@@ -13350,7 +13350,7 @@
 17	gowcʻē	gowcʻē	G	G-	INFLn	12	adv	_	_
 18	patowakanagoyn	patowakanagoyn	A	A-	NUMBs|CASEn	23	sub	_	_
 19	ews	ews	D	Df	INFLn	18	aux	_	_
-20	kʻanz	kʻanz	D	Df	INFLn	18	obl	_	_
+20	kʻan.z	kʻan.z	D	Df	INFLn	18	obl	_	_
 21	kʻez	dow	P	Pp	PERS2|NUMBs|CASEa	20	obl	_	_
 22	icʻē	em	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	23	aux	_	_
 23	kočʻecʻeal	kočʻem	V	V-	NUMBs|MOODp|CASEn	27	pred	_	_
@@ -13405,7 +13405,7 @@
 18	kʻez	dow	P	Pp	PERS2|NUMBs|CASEa	17	obl	_	_
 
 1	barekam	barekam	N	Nb	NUMBs|CASEv	0	voc	_	_
-2	ı̈vér	iver	D	Df	INFLn	3	per	_	_
+2	ı̈.vér	i.ver	D	Df	INFLn	3	per	_	_
 3	matir	matčʻim	V	V-	PERS2|NUMBs|TENSa|MOODm|VOICp	0	pred	_	_
 
 1	yaynžam	yaynžam	D	Df	INFLn	2	adv	_	_
@@ -13869,7 +13869,7 @@
 15	etʻe	etʻē	G	G-	INFLn	14	comp	_	_
 16	karoł	karoł	A	A-	NUMBs|CASEn	17	xobj	_	_
 17	icʻē	em	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	15	pred	_	_
-18	tasnhazaraw	tasnhazar	M	Ma	NUMBs|CASEi	21	adv	_	_
+18	tasn.hazaraw	tasn.hazar	M	Ma	NUMBs|CASEi	21	adv	_	_
 19	z	z	R	R-	INFLn	21	obl	_	_
 20	dēm	dēm	N	Nb	NUMBs|CASEa	19	obl	_	_
 21	ownel	ownim	V	V-	MOODn	16	comp	_	_
@@ -13877,9 +13877,9 @@
 23	aynorik	ayn	P	Pd	NUMBs|CASEg	20	atr	_	_
 24	or	or	P	Pr	NUMBs|CASEn	25	sub	_	_
 25	gaycʻē	gam	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	23	atr	_	_
-26	ı̈veray	iveray	R	R-	INFLn	25	obl	_	_
+26	ı̈.veray	i.veray	R	R-	INFLn	25	obl	_	_
 27	nora	na	P	Pd	NUMBs|CASEg	26	obl	_	_
-28	kʻsanhazaraw	kʻsanhazar	M	Ma	NUMBs|CASEi	25	adv	_	_
+28	kʻsan.hazaraw	kʻsan.hazar	M	Ma	NUMBs|CASEi	25	adv	_	_
 
 1	apa	apa	D	Df	INFLn	9	adv	_	_
 2	tʻe	tʻē	G	G-	INFLn	9	adv	_	_
@@ -14024,7 +14024,7 @@
 4	dnē	dnem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	11	pred	_	_
 5	z	z	R	R-	INFLn	6	aux	_	_
 6	na	na	P	Pd	NUMBs|CASEa	4	obj	_	_
-7	ı̈veray	iveray	R	R-	INFLn	4	obl	_	_
+7	ı̈.veray	i.veray	R	R-	INFLn	4	obl	_	_
 8	owsocʻ	ows	N	Nb	NUMBp|CASEg	7	obl	_	_
 9	iwrocʻ	iwr#2	P	Ps	PERS3|NUMBp|CASEg	8	atr	_	_
 10	xndalov	xndam	V	V-	MOODd|CASEi	4	xadv	_	_
@@ -14142,7 +14142,7 @@
 6	ar̄aǰi	ar̄aǰi	R	R-	INFLn	5	adv	_	_
 7	hreštakacʻ	hreštak	N	Nb	NUMBp|CASEg	6	obl	_	_
 8	Astowacoy	Astowac	N	Ne	NUMBs|CASEg	7	atr	_	_
-9	ı̈veray	iveray	R	R-	INFLn	4	narg	_	_
+9	ı̈.veray	i.veray	R	R-	INFLn	4	narg	_	_
 10	mioy	mi	M	Ma	NUMBs|CASEg	11	atr	_	_
 11	meławori	meławor	A	A-	NUMBs|CASEg	9	obl	_	_
 12	or	or	P	Pr	NUMBs|CASEn	13	sub	_	_
@@ -14318,7 +14318,7 @@
 1	ará	ar̄nem	V	V-	PERS2|NUMBs|TENSa|MOODm|VOICa	0	pred	_	_
 2	z	z	R	R-	INFLn	3	aux	_	_
 3	is	es	P	Pp	PERS1|NUMBs|CASEa	1	obj	_	_
-4	ibrewz	ibrewz-	D	Df	INFLn	1	xobj	_	_
+4	ibrew.z	ibrew.z-	D	Df	INFLn	1	xobj	_	_
 5	mi	mi	M	Ma	NUMBs|CASEa	4	sub	_	_
 6	ı̈	i	R	R-	INFLn	5	part	_	_
 7	varjkanacʻ	varjkan	A	A-	NUMBp|CASEb	6	obl	_	_
@@ -14346,7 +14346,7 @@
 1	yareaw	yar̄nem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	2	pred	_	_
 2	ew	ew	C	C-	INFLn	0	pred	_	_
 3	əntʻacʻaẃ	əntʻanam	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	2	pred	_	_
-4	əndar̄aǰ	əndar̄aǰ	D	Df	INFLn	3	per	_	_
+4	ənd.ar̄aǰ	ənd.ar̄aǰ	D	Df	INFLn	3	per	_	_
 
 1	ankaw	ankanim	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	6	pred	_	_
 2	z	z#2	R	R-	INFLn	1	obl	_	_
@@ -14701,7 +14701,7 @@
 3	araricʻ	ar̄nem	V	V-	PERS1|NUMBs|TENSa|MOODs|VOICa	1	comp	_	_
 4	zi	zi#2	G	G-	INFLn	3	adv	_	_
 5	yoržam	yoržam	G	G-	INFLn	11	adv	_	_
-6	ı̈bacʻ	ibacʻ	D	Df	INFLn	7	per	_	_
+6	ı̈.bacʻ	i.bacʻ	D	Df	INFLn	7	per	_	_
 7	linicʻim	linim	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	5	pred	_	_
 8	ı̈	i	R	R-	INFLn	6	apos	_	_
 9	tntesowtʻenē	tntesowtʻiwn	N	Nb	NUMBs|CASEb	8	obl	_	_
@@ -14809,7 +14809,7 @@
 5	aysorik	ays	P	Pd	NUMBs|CASEg	3	atr	_	_
 6	imastnagóynkʻ	imastnagoyn	A	A-	NUMBp|CASEn	7	xobj	_	_
 7	en	em	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
-8	kʻanz	kʻanz	D	Df	INFLn	6	obl	_	_
+8	kʻan.z	kʻan.z	D	Df	INFLn	6	obl	_	_
 9	ordis	ordi	N	Nb	NUMBp|CASEa	8	obl	_	_
 10	lowsoy	loys	N	Nb	NUMBs|CASEg	9	atr	_	_
 11	y	i	R	R-	INFLn	7	adv	_	_
@@ -14981,7 +14981,7 @@
 2	n	n	D	Df	INFLn	3	aux	_	_
 3	ew	ew	C	C-	INFLn	0	sub(7)pred	_	_
 4	margarēkʻ	margarē	N	Nb	NUMBp|CASEn	3	sub	_	_
-5	minčʻewcʻ	minčʻewcʻ	R	R-	INFLn	0	adv(7)pred	_	_
+5	minčʻew.cʻ	minčʻew.cʻ	R	R-	INFLn	0	adv(7)pred	_	_
 6	Yovhannēs	yovhannēs	N	Ne	NUMBs|CASEa	5	obl	_	_
 
 1	y	i	R	R-	INFLn	6	adv	_	_
@@ -15191,7 +15191,7 @@
 8	papakís	papakim	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICp	5	pred	_	_
 
 1	ew	ew	C	C-	INFLn	7	aux	_	_
-2	ı̈veray	iveray	R	R-	INFLn	7	adv	_	_
+2	ı̈.veray	i.veray	R	R-	INFLn	7	adv	_	_
 3	aysr	ays	P	Pd	NUMBs|CASEg	4	atr	_	_
 4	amenayni	amenayn	P	Py	NUMBs|CASEg	2	obl	_	_
 5	víh	vih	N	Nb	NUMBs|CASEn	7	sub	_	_
@@ -15406,7 +15406,7 @@
 1	etʻe	etʻē	G	G-	INFLn	8	adv	_	_
 2	ownicʻikʻ	ownim	V	V-	PERS2|NUMBp|TENSp|MOODs|VOICa	1	pred	_	_
 3	hawats	hawatkʻ	N	Nb	NUMBp|CASEa	2	obj	_	_
-4	kʻanz	kʻanz	D	Df	INFLn	2	xobj	_	_
+4	kʻan.z	kʻan.z	D	Df	INFLn	2	xobj	_	_
 5	hat	hat	N	Nb	NUMBs|CASEa	4	obj	_	_
 6	mananxoy	mananix	N	Nb	NUMBs|CASEg	5	atr	_	_
 7	ew	ew	C	C-	INFLn	8	aux	_	_
@@ -15600,7 +15600,7 @@
 16	z	z	R	R-	INFLn	17	aux	_	_
 17	Astowác	Astowac	N	Ne	NUMBs|CASEa	15	obj	_	_
 18	ankáw	ankanim	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	25	pred	_	_
-19	ı̈veray	iveray	R	R-	INFLn	18	obl	_	_
+19	ı̈.veray	i.veray	R	R-	INFLn	18	obl	_	_
 20	eresacʻ	ereskʻ	N	Nb	NUMBp|CASEg	19	obl	_	_
 21	iwrocʻ	iwr#2	P	Ps	PERS3|NUMBp|CASEg	20	atr	_	_
 22	ar̄	ar̄#2	R	R-	INFLn	18	obl	_	_
@@ -15698,7 +15698,7 @@
 2	aha	aha	I	I-	INFLn	0	voc	_	_
 3	arkʻayowtʻiwn	arkʻayowtʻiwn	N	Nb	NUMBs|CASEn	8	sub	_	_
 4	Astowacoy	Astowac	N	Ne	NUMBs|CASEg	3	atr	_	_
-5	ı̈nerkʻs	inerkʻs	D	Df	INFLn	8	xobj	_	_
+5	ı̈.nerkʻs	i.nerkʻs	D	Df	INFLn	8	xobj	_	_
 6	ı̈	i	R	R-	INFLn	5	obl	_	_
 7	jéz	dowkʻ	P	Pp	PERS2|NUMBp|CASEl	6	obl	_	_
 8	ē	em	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
@@ -15742,7 +15742,7 @@
 2	orpēs	orpēs	D	Dq	INFLn	9	adv	_	_
 3	pʻaylakn	pʻaylakn	N	Nb	NUMBs|CASEn	9	sub	_	_
 4	pʻaylatakeal	pʻaylatakem	V	V-	NUMBs|MOODp|CASEn	9	xadv	_	_
-5	ı̈nerkʻoy	inerkʻoy	R	R-	INFLn	4	obl	_	_
+5	ı̈.nerkʻoy	i.nerkʻoy	R	R-	INFLn	4	obl	_	_
 6	erknicʻ	erkin	N	Nb	NUMBp|CASEg	5	obl	_	_
 7	ənd	ənd	R	R-	INFLn	4	obl	_	_
 8	erkniwkʻ	erkin	N	Nb	NUMBp|CASEi	7	obl	_	_
@@ -15792,7 +15792,7 @@
 4	ar̄nein	ar̄nem	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	0	pred(25)pred	_	_
 5	arancʻ	ayr	N	Nb	NUMBp|CASEd	6	obl	_	_
 6	linein	linim	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	0	pred(25)pred	_	_
-7	minčʻewy	minčʻewi	R	R-	INFLn	6	adv	_	_
+7	minčʻew.y	minčʻew.i	R	R-	INFLn	6	adv	_	_
 8	awr	awr	N	Nb	NUMBs|CASEa	7	obl	_	_
 9	n	n	D	Df	INFLn	8	aux	_	_
 10	y	i	R	R-	INFLn	12	adv	_	_
@@ -15940,7 +15940,7 @@
 3	ełicʻin	linim	V	V-	PERS3|NUMBp|TENSa|MOODs|VOICp	2	pred	_	_
 4	erkow	erkow	M	Ma	NUMBs|CASEn	3	sub	_	_
 5	ałal	ałam	V	V-	MOODn	3	xadv	_	_
-6	ı̈miasin	imiasin	D	Df	INFLn	5	adv	_	_
+6	ı̈.miasin	i.miasin	D	Df	INFLn	5	adv	_	_
 
 1	mí	mi	M	Ma	NUMBs|CASEn	3	sub	_	_
 2	n	n	D	Df	INFLn	1	aux	_	_
@@ -16206,7 +16206,7 @@
 6	zi	zi#2	G	G-	INFLn	3	adv	_	_
 7	očʻ	očʻ	D	Df	INFLn	8	aux	_	_
 8	em	em	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
-9	ibrewz	ibrewz-	D	Df	INFLn	21	xobj	_	_
+9	ibrew.z	ibrew.z-	D	Df	INFLn	21	xobj	_	_
 10	ayls	ayl	A	A-	NUMBp|CASEa	9	sub	_	_
 11	ı̈	i	R	R-	INFLn	10	part	_	_
 12	mardkanē	mardik	N	Nb	NUMBs|CASEb	11	obl	_	_
@@ -16219,7 +16219,7 @@
 19	z	z	R	R-	INFLn	20	aux	_	_
 20	šowns	šown	N	Nb	NUMBp|CASEa	15	apos	_	_
 21	kam	kam#2	C	C-	INFLn	8	xobj	_	_
-22	ibrewz	ibrewz-	D	Df	INFLn	21	xobj	_	_
+22	ibrew.z	ibrew.z-	D	Df	INFLn	21	xobj	_	_
 23	ays	ays	P	Pd	NUMBs|CASEa	24	atr	_	_
 24	makʻsawor	makʻsawor	A	A-	NUMBs|CASEa	22	sub	_	_
 
@@ -16276,7 +16276,7 @@
 4	i	i	R	R-	INFLn	1	obl	_	_
 5	town	town	N	Nb	NUMBs|CASEa	4	obl	_	_
 6	iwr	iwr#1	P	Pk	PERS3|NUMBs|CASEg	5	atr	_	_
-7	kʻanz	kʻanz	D	Df	INFLn	2	atr	_	_
+7	kʻan.z	kʻan.z	D	Df	INFLn	2	atr	_	_
 8	na	na	P	Pd	NUMBs|CASEa	7	sub	_	_
 
 1	Zi	zi#2	C	C-	INFLn	8	adv	_	_
@@ -16350,7 +16350,7 @@
 4	z	z	R	R-	INFLn	5	aux	_	_
 5	arkʻayowtʻiwn	arkʻayowtʻiwn	N	Nb	NUMBs|CASEa	3	obj	_	_
 6	Astowacoy	Astowac	N	Ne	NUMBs|CASEg	5	atr	_	_
-7	ibrewz	ibrewz-	D	Df	INFLn	3	adv	_	_
+7	ibrew.z	ibrew.z-	D	Df	INFLn	3	adv	_	_
 8	manowk	manowk	N	Nb	NUMBs|CASEa	7	sub	_	_
 9	óčʻ	očʻ	D	Df	INFLn	10	aux	_	_
 10	mtcʻē	mtanem	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICa	0	pred	_	_
@@ -16526,7 +16526,7 @@
 
 1	anhnarinkʻ	anhnarin	A	A-	NUMBp|CASEn	6	sub	_	_
 2	n	n	D	Df	INFLn	1	aux	_	_
-3	ar̄i	ar̄i	R	R-	INFLn	1	atr	_	_
+3	ar̄.i	ar̄.i	R	R-	INFLn	1	atr	_	_
 4	mardkanē	mardik	N	Nb	NUMBs|CASEb	3	obl	_	_
 5	hnarawórkʻ	hnarawor	A	A-	NUMBs|CASEn	6	xobj	_	_
 6	en	em	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
@@ -16873,7 +16873,7 @@
 4	tełi	tełi	N	Nb	NUMBs|CASEa	3	obl	_	_
 5	n	n	D	Df	INFLn	4	aux	_	_
 6	hayecʻaw	hayim	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	9	pred	_	_
-7	ı̈ver	iver	D	Df	INFLn	6	adv	_	_
+7	ı̈.ver	i.ver	D	Df	INFLn	6	adv	_	_
 8	Yisows	Yisows	N	Ne	NUMBs|CASEn	6	sub	_	_
 9	ew	ew	C	C-	INFLn	0	pred	_	_
 10	asē	asem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	9	pred	_	_
@@ -17050,7 +17050,7 @@
 2	kamimkʻ	kamim	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICp	0	pred	_	_
 3	tʻagaworel	tʻagaworem	V	V-	MOODn	2	comp	_	_
 4	dma	da	P	Pd	NUMBs|CASEd	3	sub	_	_
-5	ı̈veray	iveray	R	R-	INFLn	3	obl	_	_
+5	ı̈.veray	i.veray	R	R-	INFLn	3	obl	_	_
 6	mer	mekʻ	P	Pp	PERS1|NUMBp|CASEg	5	obl	_	_
 
 1	Ew	ew	C	C-	INFLn	2	aux	_	_
@@ -17111,7 +17111,7 @@
 11	liǰir	linim	V	V-	PERS2|NUMBs|TENSa|MOODs|VOICp	0	pred	_	_
 12	išxanowtʻiwn	išxanowtʻiwn	N	Nb	NUMBs|CASEa	13	obj	_	_
 13	ownel	ownim	V	V-	MOODn	11	xobj	_	_
-14	ı̈veray	iveray	R	R-	INFLn	12	atr	_	_
+14	ı̈.veray	i.veray	R	R-	INFLn	12	atr	_	_
 15	tasn	tasn	M	Ma	INFLn	16	atr	_	_
 16	kʻałakʻi	kʻałakʻ	N	Nb	NUMBs|CASEg	14	obl	_	_
 
@@ -17136,7 +17136,7 @@
 1	ew	ew	C	C-	INFLn	3	aux	_	_
 2	dów	dow	P	Pp	PERS2|NUMBs|CASEn	3	sub	_	_
 3	liǰir	linim	V	V-	PERS2|NUMBs|TENSa|MOODs|VOICp	0	pred	_	_
-4	ı̈veray	iveray	R	R-	INFLn	3	xobj	_	_
+4	ı̈.veray	i.veray	R	R-	INFLn	3	xobj	_	_
 5	hing	hing	M	Ma	INFLn	6	atr	_	_
 6	kʻałakʻacʻ	kʻałakʻ	N	Nb	NUMBp|CASEg	4	obl	_	_
 
@@ -17295,7 +17295,7 @@
 12	z	z	R	R-	INFLn	13	aux	_	_
 13	is	es	P	Pp	PERS1|NUMBs|CASEa	14	sub	_	_
 14	tʻagaworel	tʻagaworem	V	V-	MOODn	11	comp	_	_
-15	ı̈veray	iveray	R	R-	INFLn	14	adv	_	_
+15	ı̈.veray	i.veray	R	R-	INFLn	14	adv	_	_
 16	nocʻa	na	P	Pd	NUMBp|CASEg	15	obl	_	_
 17	acēkʻ	ačem	V	V-	PERS2|NUMBp|TENSa|MOODm|VOICa	19	pred	_	_
 18	aysr	aysr	D	Df	INFLn	17	obl	_	_
@@ -17324,7 +17324,7 @@
 7	ew	ew	C	C-	INFLn	4	obl	_	_
 8	ı̈	i	R	R-	INFLn	7	obl	_	_
 9	Bētʻania	Bētʻania	N	Ne	NUMBs|CASEa	8	obl	_	_
-10	mawtı̈	mawti	R	R-	INFLn	7	apos	_	_
+10	mawt.ı̈	mawt.i	R	R-	INFLn	7	apos	_	_
 11	lear̄n	lear̄n	N	Nb	NUMBs|CASEa	10	obl	_	_
 12	n	n	D	Df	INFLn	11	aux	_	_
 13	or	or	P	Pr	NUMBs|CASEn	14	sub	_	_
@@ -17554,7 +17554,7 @@
 6	kʻałakʻ	kʻałakʻ	N	Nb	NUMBs|CASEa	4	obj	_	_
 7	n	n	D	Df	INFLn	6	aux	_	_
 8	elácʻ	lam	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	11	pred	_	_
-9	ı̈veray	iveray	R	R-	INFLn	8	adv	_	_
+9	ı̈.veray	i.veray	R	R-	INFLn	8	adv	_	_
 10	nora	na	P	Pd	NUMBs|CASEg	9	obl	_	_
 11	ew	ew	C	C-	INFLn	0	pred	_	_
 12	asē	asem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	11	pred	_	_
@@ -17582,7 +17582,7 @@
 1	Zi	zi#2	C	C-	INFLn	2	adv	_	_
 2	ekescʻen	gam	V	V-	PERS3|NUMBp|TENSa|MOODs|VOICa	6	pred	_	_
 3	awowrkʻ	awr	N	Nb	NUMBp|CASEn	2	sub	_	_
-4	ı̈veray	iveray	R	R-	INFLn	2	obl	_	_
+4	ı̈.veray	i.veray	R	R-	INFLn	2	obl	_	_
 5	kʻo	dow	P	Pp	PERS2|NUMBs|CASEg	4	obl	_	_
 6	ew	ew	C	C-	INFLn	0	pred	_	_
 7	patescʻén	patem	V	V-	PERS3|NUMBp|TENSa|MOODs|VOICa	6	pred	_	_
@@ -17735,7 +17735,7 @@
 17	ew	ew	C	C-	INFLn	9	aux	_	_
 18	awetaranēr	awetaranem	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	17	aux	_	_
 19	hasin	hasanem	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	28	comp	_	_
-20	ı̈veray	iveray	R	R-	INFLn	19	per	_	_
+20	ı̈.veray	i.veray	R	R-	INFLn	19	per	_	_
 21	kʻahanayapetkʻ	kʻahanayapet	N	Nb	NUMBp|CASEn	23	sub	_	_
 22	n	n	D	Df	INFLn	21	aux	_	_
 23	ew	ew	C	C-	INFLn	19	sub	_	_
@@ -18002,7 +18002,7 @@
 3	z	z	R	R-	INFLn	4	aux	_	_
 4	na	na	P	Pd	NUMBs|CASEa	2	obj	_	_
 5	artakʻs	artakʻs	D	Df	INFLn	2	obl	_	_
-6	kʻanz	kʻanz-	R	R-	INFLn	5	apos	_	_
+6	kʻan.z	kʻan.z-	R	R-	INFLn	5	apos	_	_
 7	aygi	aygi	N	Nb	NUMBs|CASEa	6	obl	_	_
 8	n	n	D	Df	INFLn	7	aux	_	_
 9	ew	ew	C	C-	INFLn	0	pred	_	_
@@ -18136,7 +18136,7 @@
 15	z	z	R	R-	INFLn	16	aux	_	_
 16	na	na	P	Pd	NUMBs|CASEa	14	obj	_	_
 17	baniwkʻ	ban	N	Nb	NUMBp|CASEi	14	adv	_	_
-18	ar̄i	ar̄i	R	R-	INFLn	14	adv	_	_
+18	ar̄.i	ar̄.i	R	R-	INFLn	14	adv	_	_
 19	matnel	matnem	V	V-	MOODn	18	obl	_	_
 20	z	z	R	R-	INFLn	21	aux	_	_
 21	na	na	P	Pd	NUMBs|CASEa	19	obj	_	_
@@ -18625,7 +18625,7 @@
 8	ałkʻat	ałkʻat	A	A-	NUMBs|CASEn	5	atr	_	_
 9	aweli	aweli	A	A-	NUMBs|CASEa	10	obj	_	_
 10	ark	arkanem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	4	pred	_	_
-11	kʻanz	kʻanz	D	Df	INFLn	9	obl	_	_
+11	kʻan.z	kʻan.z	D	Df	INFLn	9	obl	_	_
 12	amenesin	amenekʻin	P	Py	NUMBp|CASEa	11	sub	_	_
 
 1	amenekʻin	amenekʻin	P	Py	NUMBp|CASEn	2	atr	_	_
@@ -18797,7 +18797,7 @@
 17	erknicʻ	erkin	N	Nb	NUMBp|CASEb	16	obl	_	_
 
 1	Baycʻ	baycʻ	C	C-	INFLn	5	aux	_	_
-2	yar̄aǰkʻanz	yar̄aǰkʻanz	R	R-	INFLn	5	adv	_	_
+2	yar̄aǰ.kʻan.z	yar̄aǰ.kʻan.z	R	R-	INFLn	5	adv	_	_
 3	ays	ays	P	Pd	NUMBs|CASEa	4	atr	_	_
 4	amenayn	amenayn	P	Py	NUMBs|CASEa	2	obl	_	_
 5	mxescʻén	mxem	V	V-	PERS3|NUMBp|TENSa|MOODs|VOICa	11	pred	_	_
@@ -18951,7 +18951,7 @@
 28	vrēžxndrowtʻeán	vrēžxndrowtʻiwn	N	Nb	NUMBs|CASEg	27	atr	_	_
 29	en	em	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	26	pred	_	_
 30	aynokʻik	ayn	P	Pd	NUMBp|CASEn	29	sub	_	_
-31	ar̄i	ar̄i	R	R-	INFLn	27	narg	_	_
+31	ar̄.i	ar̄.i	R	R-	INFLn	27	narg	_	_
 32	katareloy	katarem	V	V-	MOODd|CASEa	31	obl	_	_
 33	amenayn	amenayn	P	Py	NUMBs|CASEn	32	sub	_	_
 34	grelocʻ	grem	V	V-	NUMBp|MOODp|CASEg	33	atr	_	_
@@ -18972,7 +18972,7 @@
 2	ełicʻi	linim	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICp	7	pred	_	_
 3	tagnap	tagnap	N	Nb	NUMBs|CASEn	2	sub	_	_
 4	méc	mec	A	A-	NUMBs|CASEn	3	atr	_	_
-5	iveray	iveray	R	R-	INFLn	2	xobj	_	_
+5	i.veray	i.veray	R	R-	INFLn	2	xobj	_	_
 6	erkri	erkir	N	Nb	NUMBs|CASEg	5	obl	_	_
 7	ew	ew	C	C-	INFLn	0	pred	_	_
 8	barkowtʻiwn	barkowtʻiwn	N	Nb	NUMBs|CASEn	7	sub(12)pred	_	_
@@ -19034,7 +19034,7 @@
 32	ı̈	i	R	R-	INFLn	31	adv	_	_
 33	karceacʻ	karcikʻ	N	Nb	NUMBp|CASEb	32	obl	_	_
 34	ekelocʻ	gam	V	V-	NUMBp|MOODp|CASEg	33	narg	_	_
-35	ı̈veray	iveray	R	R-	INFLn	34	obl	_	_
+35	ı̈.veray	i.veray	R	R-	INFLn	34	obl	_	_
 36	tiezeracʻ	tiezerkʻ	N	Nb	NUMBp|CASEg	35	obl	_	_
 37	zi	zi#2	G	G-	INFLn	12	adv(41)pred	_	_
 38	zawrowtʻiwnkʻ	zawrowtʻiwn	N	Nb	NUMBp|CASEn	40	sub	_	_
@@ -19158,17 +19158,17 @@
 14	ew	ew	C	C-	INFLn	4	pred	_	_
 15	yankarcaki	yankarcaki	D	Df	INFLn	16	adv	_	_
 16	hasanicʻē	hasanem	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	14	pred	_	_
-17	ı̈veray	iveray	R	R-	INFLn	16	obl	_	_
+17	ı̈.veray	i.veray	R	R-	INFLn	16	obl	_	_
 18	jer	dowkʻ	P	Pp	PERS2|NUMBp|CASEg	17	obl	_	_
 19	awr	awr	N	Nb	NUMBs|CASEn	16	sub	_	_
 20	n	n	D	Df	INFLn	19	aux	_	_
 21	ayn	ayn	P	Pd	NUMBs|CASEn	19	atr	_	_
 
 1	zi	zi#2	G	G-	INFLn	4	adv	_	_
-2	ibrewz	ibrewz-	D	Df	INFLn	4	adv	_	_
+2	ibrew.z	ibrew.z-	D	Df	INFLn	4	adv	_	_
 3	orogáytʻ	orogaytʻ	N	Nb	NUMBs|CASEa	2	sub	_	_
 4	hasanicʻē	hasanem	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	0	pred	_	_
-5	ı̈veray	iveray	R	R-	INFLn	4	obl	_	_
+5	ı̈.veray	i.veray	R	R-	INFLn	4	obl	_	_
 6	amenecʻown	amenekʻean	P	Py	NUMBp|CASEg	5	obl	_	_
 7	or	or	P	Pr	NUMBs|CASEn	8	sub	_	_
 8	bnakeal	bnakem	V	V-	NUMBs|MOODp|CASEn	6	atr	_	_
@@ -19319,7 +19319,7 @@
 9	z	z	R	R-	INFLn	10	aux	_	_
 10	na	na	P	Pd	NUMBs|CASEa	8	obj	_	_
 11	nocʻa	na	P	Pd	NUMBp|CASEd	8	obl	_	_
-12	mekowsíy	mekowsii	R	R-	INFLn	8	adv	_	_
+12	mekowsí.y	mekowsi.i	R	R-	INFLn	8	adv	_	_
 13	amboxē	ambox	N	Nb	NUMBs|CASEb	12	obl	_	_
 14	n	n	D	Df	INFLn	13	aux	_	_
 
@@ -19657,13 +19657,13 @@
 10	ı̈	i	R	R-	INFLn	9	adv	_	_
 11	jez	dowkʻ	P	Pp	PERS2|NUMBp|CASEl	10	obl	_	_
 12	ełicʻi	linim	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICp	16	pred	_	_
-13	ibrewz	ibrewz-	D	Df	INFLn	12	xobj	_	_
+13	ibrew.z	ibrew.z-	D	Df	INFLn	12	xobj	_	_
 14	krtsér	krtser	A	A-	NUMBs|CASEa	13	sub	_	_
 15	n	n	D	Df	INFLn	14	aux	_	_
 16	ew	ew	C	C-	INFLn	5	pred	_	_
 17	ar̄aǰnord	ar̄aǰnord	N	Nb	NUMBs|CASEn	16	sub(23)pred	_	_
 18	n	n	D	Df	INFLn	17	aux	_	_
-19	ibrewz	ibrewz-	D	Df	INFLn	16	xobj(23)pred	_	_
+19	ibrew.z	ibrew.z-	D	Df	INFLn	16	xobj(23)pred	_	_
 20	spasawór	spasawor	N	Nb	NUMBs|CASEa	19	sub	_	_
 21	n	n	D	Df	INFLn	20	aux	_	_
 
@@ -19748,7 +19748,7 @@
 6	z	z	R	R-	INFLn	7	aux	_	_
 7	jez	dowkʻ	P	Pp	PERS2|NUMBp|CASEa	8	obj	_	_
 8	xarbalel	xarbalem	V	V-	MOODn	5	xobj	_	_
-9	ibrewz	ibrewz-	D	Df	INFLn	8	adv	_	_
+9	ibrew.z	ibrew.z-	D	Df	INFLn	8	adv	_	_
 10	cʻorean	cʻorean	N	Nb	NUMBs|CASEa	9	obj	_	_
 
 1	aył	ayl#2	C	C-	INFLn	3	aux	_	_
@@ -20113,7 +20113,7 @@
 9	n	n	D	Df	INFLn	8	aux	_	_
 10	car̄ay	car̄ay	N	Nb	NUMBs|CASEa	2	obj	_	_
 11	ew	ew	C	C-	INFLn	0	pred	_	_
-12	ı̈bácʻ	ibacʻ	R	R-	INFLn	13	per	_	_
+12	ı̈.bácʻ	i.bacʻ	R	R-	INFLn	13	per	_	_
 13	ehan	hanem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	11	pred	_	_
 14	z	z	R	R-	INFLn	16	aux	_	_
 15	aǰoy	aǰ	A	A-	NUMBs|CASEg	16	atr	_	_
@@ -20128,7 +20128,7 @@
 
 1	tʻóyl	tʻoyl	A	A-	NUMBs|CASEa	2	xobj	_	_
 2	towkʻ	tam	V	V-	PERS2|NUMBp|TENSa|MOODm|VOICa	0	pred	_	_
-3	minčʻewcʻ	minčʻewcʻ	R	R-	INFLn	2	adv	_	_
+3	minčʻew.cʻ	minčʻew.cʻ	R	R-	INFLn	2	adv	_	_
 4	ayd	ayd	P	Pd	NUMBs|CASEa	5	atr	_	_
 5	vayr	vayr	N	Nb	NUMBs|CASEa	3	obl	_	_
 
@@ -20146,7 +20146,7 @@
 3	cʻ	cʻ	R	R-	INFLn	2	obl	_	_
 4	ekeals	gam	V	V-	NUMBp|MOODp|CASEa	3	obl	_	_
 5	n	n	D	Df	INFLn	4	aux	_	_
-6	ı̈veray	iveray	R	R-	INFLn	4	obl	_	_
+6	ı̈.veray	i.veray	R	R-	INFLn	4	obl	_	_
 7	nora	na	P	Pd	NUMBs|CASEg	6	obl	_	_
 8	cʻ	cʻ	R	R-	INFLn	11	apos	_	_
 9	kʻahanayapets	kʻahanayapet	N	Nb	NUMBp|CASEa	8	obl	_	_
@@ -20161,7 +20161,7 @@
 18	cers	cer	A	A-	NUMBp|CASEa	17	obl	_	_
 
 1	ibrew	ibrew	D	Df	INFLn	4	adv	_	_
-2	ı̈veray	iveray	R	R-	INFLn	1	obl	_	_
+2	ı̈.veray	i.veray	R	R-	INFLn	1	obl	_	_
 3	awazakí	awazak	N	Nb	NUMBs|CASEg	2	obl	_	_
 4	elēkʻ	elanem	V	V-	PERS2|NUMBp|TENSa|MOODi|VOICa	0	pred	_	_
 5	sowserawkʻ	sowser	N	Nb	NUMBp|CASEi	6	adv	_	_
@@ -20301,7 +20301,7 @@
 3	žam	žam	N	Nb	NUMBs|CASEn	5	sub	_	_
 4	mi	mi	M	Ma	NUMBs|CASEn	3	atr	_	_
 5	ancʻ	ancʻanem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	2	pred	_	_
-6	ı̈veray	iveray	R	R-	INFLn	5	per	_	_
+6	ı̈.veray	i.veray	R	R-	INFLn	5	per	_	_
 7	aył	ayl	A	A-	NUMBs|CASEn	9	sub	_	_
 8	omn	omn	P	Px	NUMBs|CASEn	7	atr	_	_
 9	vičēr	viqem	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	10	pred	_	_
@@ -20636,7 +20636,7 @@
 14	skseal	sksanim	V	V-	NUMBs|MOODp|CASEn	10	adv	_	_
 15	ı̈	i	R	R-	INFLn	14	obl	_	_
 16	Gałiłeē̈	Gałiłea	N	Ne	NUMBs|CASEb	15	obl	_	_
-17	minčʻewcʻ	minčʻewcʻ	R	R-	INFLn	10	adv	_	_
+17	minčʻew.cʻ	minčʻew.cʻ	R	R-	INFLn	10	adv	_	_
 18	aysr	aysr	D	Df	INFLn	17	adv	_	_
 
 1	Isk	isk	C	C-	INFLn	7	aux	_	_
@@ -20801,7 +20801,7 @@
 6	s	s	D	Df	INFLn	5	aux	_	_
 7	z	z	R	R-	INFLn	8	aux	_	_
 8	ays	ays	P	Pd	NUMBs|CASEa	5	atr	_	_
-9	ibrewz	ibrewz-	D	Df	INFLn	2	adv	_	_
+9	ibrew.z	ibrew.z-	D	Df	INFLn	2	adv	_	_
 10	xotorecʻowcʻičʻ	xr̄ovecʻowcʻičʻ	N	Nb	NUMBs|CASEa	9	obj	_	_
 11	žołovrdean	žołovowrd	N	Nb	NUMBs|CASEg	10	narg	_	_
 12	n	n	D	Df	INFLn	11	aux	_	_
@@ -21020,7 +21020,7 @@
 14	andē	and#3	N	Nb	NUMBs|CASEb	13	obl	_	_
 
 1	edin	dnem	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	0	pred	_	_
-2	ı̈veray	iveray	R	R-	INFLn	1	obl	_	_
+2	ı̈.veray	i.veray	R	R-	INFLn	1	obl	_	_
 3	nora	na	P	Pd	NUMBs|CASEg	2	obl	_	_
 4	z	z	R	R-	INFLn	5	aux	_	_
 5	xačʻ	xačʻ	N	Nb	NUMBs|CASEa	1	obj	_	_
@@ -21056,15 +21056,15 @@
 2	Erowsałemi	Erowsałem	N	Ne	NUMBs|CASEg	1	atr	_	_
 3	mí	mi	D	Df	INFLn	4	aux	_	_
 4	laykʻ	lam	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	0	pred	_	_
-5	ı̈veray	iveray	R	R-	INFLn	4	adv	_	_
+5	ı̈.veray	i.veray	R	R-	INFLn	4	adv	_	_
 6	im	es	P	Pp	PERS1|NUMBs|CASEg	5	obl	_	_
 
 1	aył	ayl#2	C	C-	INFLn	2	aux	_	_
 2	lacʻēkʻ	lam	V	V-	PERS2|NUMBp|TENSa|MOODm|VOICa	0	pred	_	_
-3	ı̈veray	iveray	R	R-	INFLn	5	adv	_	_
+3	ı̈.veray	i.veray	R	R-	INFLn	5	adv	_	_
 4	anjancʻ	anjn	N	Nb	NUMBp|CASEg	3	obl	_	_
 5	ew	ew	C	C-	INFLn	2	adv	_	_
-6	ı̈veray	iveray	R	R-	INFLn	5	adv	_	_
+6	ı̈.veray	i.veray	R	R-	INFLn	5	adv	_	_
 7	ordwócʻ	ordi	N	Nb	NUMBs|CASEg	6	obl	_	_
 8	jerocʻ	jer	P	Ps	PERS2|NUMBp|CASEg	7	atr	_	_
 
@@ -21096,7 +21096,7 @@
 5	tʻe	tʻē	G	G-	INFLn	3	comp	_	_
 
 1	ankarówkʻ	ankanim	V	V-	PERS2|NUMBp|TENSa|MOODm|VOICp	0	pred	_	_
-2	ı̈veray	iveray	R	R-	INFLn	1	obl	_	_
+2	ı̈.veray	i.veray	R	R-	INFLn	1	obl	_	_
 3	mer	mekʻ	P	Pp	PERS1|NUMBp|CASEg	2	obl	_	_
 
 1	ew	ew	C	C-	INFLn	0	aux(4)pred	_	_
@@ -21243,7 +21243,7 @@
 2	ēr	em	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	0	pred	_	_
 3	gir	gir	N	Nb	NUMBs|CASEn	2	sub	_	_
 4	greal	grem	V	V-	NUMBs|MOODp|CASEn	2	xobj	_	_
-5	ı̈veray	iveray	R	R-	INFLn	2	adv	_	_
+5	ı̈.veray	i.veray	R	R-	INFLn	2	adv	_	_
 6	nora	na	P	Pd	NUMBs|CASEg	5	obl	_	_
 7	yownarēn	yownarēn	D	Df	INFLn	8	atr	_	_
 8	ew	ew	C	C-	INFLn	12	atr	_	_
@@ -21366,10 +21366,10 @@
 6	ew	ew	C	C-	INFLn	0	pred	_	_
 7	xawár	xawar	N	Nb	NUMBs|CASEn	8	sub	_	_
 8	ełew	linim	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	6	pred	_	_
-9	ı̈veray	iveray	R	R-	INFLn	8	obl	_	_
+9	ı̈.veray	i.veray	R	R-	INFLn	8	obl	_	_
 10	amenayn	amenayn	P	Py	INFLn	11	atr	_	_
 11	erkri	erkir	N	Nb	NUMBs|CASEg	9	obl	_	_
-12	minčʻewy	minčʻewi	R	R-	INFLn	8	adv	_	_
+12	minčʻew.y	minčʻew.i	R	R-	INFLn	8	adv	_	_
 13	innerord	innerord	M	Mo	NUMBs|CASEa	14	atr	_	_
 14	žam	žam	N	Nb	NUMBs|CASEa	12	obl	_	_
 
@@ -21630,7 +21630,7 @@
 9	anti	anti	D	Df	INFLn	8	aux	_	_
 10	ew	ew	C	C-	INFLn	0	pred	_	_
 11	mteal	mtanem	V	V-	NUMBs|MOODp|CASEn	14	xadv	_	_
-12	ı̈nerkʻs	inerkʻs	D	Df	INFLn	11	per	_	_
+12	ı̈.nerkʻs	i.nerkʻs	D	Df	INFLn	11	per	_	_
 13	očʻ	očʻ	D	Df	INFLn	14	aux	_	_
 14	gtin	gtanem	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	10	pred	_	_
 15	z	z	R	R-	INFLn	16	aux	_	_
@@ -21856,7 +21856,7 @@
 3	ačʻkʻ	akn	N	Nb	NUMBp|CASEn	4	sub	_	_
 4	kaleal	ownim	V	V-	NUMBs|MOODp|CASEn	0	pred	_	_
 5	ein	em	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	4	aux	_	_
-6	ar̄i	ar̄i	R	R-	INFLn	4	adv	_	_
+6	ar̄.i	ar̄.i	R	R-	INFLn	4	adv	_	_
 7	čʻ	očʻ	D	Df	INFLn	8	aux	_	_
 8	čanačʻeloy	čanačʻem	V	V-	MOODd|CASEb	6	obl	_	_
 9	z	z	R	R-	INFLn	10	aux	_	_
@@ -22514,7 +22514,7 @@
 1	Ehan	hanem	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	6	pred	_	_
 2	z	z	R	R-	INFLn	3	aux	_	_
 3	nosa	na	P	Pd	NUMBp|CASEa	1	obj	_	_
-4	minčʻewı̈	minčʻewi	R	R-	INFLn	1	obl	_	_
+4	minčʻew.ı̈	minčʻew.i	R	R-	INFLn	1	obl	_	_
 5	Bētʻania	Bētʻania	N	Ne	NUMBs|CASEa	4	obl	_	_
 6	ew	ew	C	C-	INFLn	0	pred	_	_
 7	ambarjeal	ambar̄nam	V	V-	NUMBs|MOODp|CASEn	11	xadv	_	_
@@ -22761,9 +22761,9 @@
 14	nora	na	P	Pd	NUMBs|CASEg	13	atr	_	_
 15	z	z	R	R-	INFLn	16	aux	_	_
 16	pʻar̄s	pʻar̄kʻ	N	Nb	NUMBp|CASEa	13	apos	_	_
-17	ibrewz	ibrewz-	D	Df	INFLn	18	aux	_	_
+17	ibrew.z	ibrew.z-	D	Df	INFLn	18	aux	_	_
 18	miacni	miacin	A	A-	NUMBs|CASEg	16	atr	_	_
-19	ar̄i	ar̄i	R	R-	INFLn	18	atr	_	_
+19	ar̄.i	ar̄.i	R	R-	INFLn	18	atr	_	_
 20	hawrē	hayr	N	Nb	NUMBs|CASEb	19	obl	_	_
 21	li	li	A	A-	NUMBs|CASEn	18	atr	_	_
 22	šnorhawkʻ	šnorh	N	Nb	NUMBp|CASEi	23	obl	_	_
@@ -22778,7 +22778,7 @@
 6	kʻez	dow	P	Pp	PERS2|NUMBs|CASEa	4	obj	_	_
 7	zi	zi#2	G	G-	INFLn	12	comp	_	_
 8	eir	em	V	V-	PERS2|NUMBs|TENSi|MOODi|VOICa	7	pred	_	_
-9	ı̈nerkʻoy	inerkʻoy	R	R-	INFLn	8	xobj	_	_
+9	ı̈.nerkʻoy	i.nerkʻoy	R	R-	INFLn	8	xobj	_	_
 10	tʻzenwoy	tʻzeni	N	Nb	NUMBs|CASEg	9	obl	_	_
 11	n	n	D	Df	INFLn	10	aux	_	_
 12	tesí	tesanem	V	V-	PERS1|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
@@ -22799,7 +22799,7 @@
 12	ar̄nē	ar̄nem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	13	pred	_	_
 13	ew	ew	C	C-	INFLn	8	pred	_	_
 14	mkrtē	mkrtem	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	13	pred	_	_
-15	kʻanz	kʻanz-	D	Df	INFLn	10	obl	_	_
+15	kʻan.z	kʻan.z-	D	Df	INFLn	10	obl	_	_
 16	Yovhannēs	yovhannēs	N	Ne	NUMBs|CASEn	15	sub	_	_
 17	kʻanzi	kʻanzi	G	G-	INFLn	14	adv	_	_
 18	óčʻ	očʻ	D	Df	INFLn	17	aux(35)pred	_	_

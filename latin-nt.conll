@@ -9454,7 +9454,7 @@
 1	beatus	beatus	A	A-	NUMBs|GENDm|CASEn|DEGRp	2	xobj	_	_
 2	es	sum	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 3	Simon	Simon	N	Ne	NUMBs|GENDm|CASEv	0	voc	_	_
-4	BarIona	BarIona	N	Ne	INFLn	3	apos	_	_
+4	Bar.Iona	Bar.Iona	N	Ne	INFLn	3	apos	_	_
 
 1	quia	quia	D	Df	INFLn	6	adv	_	_
 2	caro	caro	N	Nb	NUMBs|GENDf|CASEn	3	sub	_	_
@@ -10474,7 +10474,7 @@
 14	magis	magis	D	Df	DEGRc	11	adv	_	_
 15	quam	quam#1	D	Df	INFLn	14	obl	_	_
 16	super	super	R	R-	INFLn	15	obl	_	_
-17	nonagintanovem	nonaginta	M	Ma	INFLn	16	obl	_	_
+17	nonaginta.novem	nonaginta	M	Ma	INFLn	16	obl	_	_
 18	quae	qui	P	Pr	NUMBp|GENDf|CASEn	20	sub	_	_
 19	non	non	D	Df	INFLn	20	aux	_	_
 20	erraverunt	erro	V	V-	PERS3|NUMBp|TENSr|MOODi|VOICa	17	atr	_	_
@@ -31831,7 +31831,7 @@
 4	usque	usque	D	Df	INFLn	5	adv	_	_
 5	ad	ad	R	R-	INFLn	3	atr	_	_
 6	annos	annus	N	Nb	NUMBp|GENDm|CASEa	5	obl	_	_
-7	octogintaquattuor	octoginta	M	Ma	INFLn	6	atr	_	_
+7	octoginta.quattuor	octoginta	M	Ma	INFLn	6	atr	_	_
 8	quae	qui	P	Pr	NUMBs|GENDf|CASEn	10	sub	_	_
 9	non	non	D	Df	INFLn	10	aux	_	_
 10	discedebat	discedo	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	3	apos	_	_
@@ -38462,7 +38462,7 @@
 5	Dominus	dominus	N	Nb	NUMBs|GENDm|CASEn	4	sub	_	_
 6	et	et	D	Df	INFLn	8	aux	_	_
 7	alios	alius	P	Px	NUMBp|GENDm|CASEa	8	atr	_	_
-8	septuagintaduos	septuagintaduo	M	Ma	NUMBp|GENDm|CASEa	4	obj	_	_
+8	septuaginta.duos	septuaginta.duo	M	Ma	NUMBp|GENDm|CASEa	4	obj	_	_
 
 1	et	et	C	C-	INFLn	2	aux	_	_
 2	misit	mitto	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
@@ -38740,7 +38740,7 @@
 1	reversi	revertor	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn	0	pred	_	_
 2	sunt	sum	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	1	aux	_	_
 3	autem	autem	D	Df	INFLn	1	aux	_	_
-4	septuagintaduo	septuagintaduo	M	Ma	NUMBp|GENDm|CASEn	1	sub	_	_
+4	septuaginta.duo	septuaginta.duo	M	Ma	NUMBp|GENDm|CASEn	1	sub	_	_
 5	cum	cum	R	R-	INFLn	1	adv	_	_
 6	gaudio	gaudium	N	Nb	NUMBs|GENDn|CASEb	5	obl	_	_
 7	dicentes	dico	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn	1	xadv	_	_
@@ -54156,7 +54156,7 @@
 3	ergo	ergo	D	Df	INFLn	9	aux	_	_
 4	quasi	quasi	D	Df	INFLn	5	aux	_	_
 5	stadia	stadium	N	Nb	NUMBp|GENDn|CASEa	2	adv	_	_
-6	vigintiquinque	vigintiquinque	M	Ma	INFLn	7	atr	_	_
+6	viginti.quinque	viginti.quinque	M	Ma	INFLn	7	atr	_	_
 7	aut	aut	C	C-	INFLn	5	atr	_	_
 8	triginta	triginta	M	Ma	INFLn	7	atr	_	_
 9	vident	video	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	18	pred	_	_
@@ -61062,7 +61062,7 @@
 7	sunt	sum	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 
 1	si	si	G	G-	INFLn	3	adv	_	_
-2	quominus	quominus	D	Df	INFLn	1	aux(10)pred	_	_
+2	quo.minus	quominus	D	Df	INFLn	1	aux(10)pred	_	_
 3	dixissem	dico	V	V-	PERS1|NUMBs|TENSr|MOODs|VOICa	0	pred	_	_
 4	vobis	vos	P	Pp	PERS2|NUMBp|GENDm|CASEd	3	obl	_	_
 5	quia	quia	G	G-	INFLn	3	comp	_	_
@@ -65675,7 +65675,7 @@
 9	plenum	plenus	A	A-	NUMBs|GENDn|CASEa|DEGRp	5	xadv	_	_
 10	magnis	magnus	A	A-	NUMBp|GENDm|CASEb|DEGRp	11	atr	_	_
 11	piscibus	piscis	N	Nb	NUMBp|GENDm|CASEb	9	obl	_	_
-12	centumquinquagintatribus	centumquinquagintatres	M	Ma	NUMBp|GENDm|CASEb	11	atr	_	_
+12	centum.quinquaginta.tribus	centum.quinquaginta.tres	M	Ma	NUMBp|GENDm|CASEb	11	atr	_	_
 
 1	et	et	D	Df	INFLn	2	aux	_	_
 2	cum	cum	G	G-	INFLn	7	adv	_	_
@@ -66312,7 +66312,7 @@
 4	nominum	nomen	N	Nb	NUMBp|GENDn|CASEg	3	part	_	_
 5	simul	simul	D	Df	INFLn	1	adv	_	_
 6	fere	fere	D	Df	INFLn	7	aux	_	_
-7	centumviginti	centumviginti	M	Ma	INFLn	1	xobj	_	_
+7	centum.viginti	centum.viginti	M	Ma	INFLn	1	xobj	_	_
 
 1	viri	vir	N	Nb	NUMBp|GENDm|CASEv	0	voc	_	_
 2	fratres	frater	N	Nb	NUMBp|GENDm|CASEv	1	apos	_	_
@@ -78946,7 +78946,7 @@
 2	nihil	nihil	P	Px	NUMBs|GENDn|CASEa	3	obj	_	_
 3	subtraxerim	subtraho	V	V-	PERS1|NUMBs|TENSr|MOODs|VOICa	0	comp(29)pred	_	_
 4	utilium	utilis	A	A-	NUMBp|GENDn|CASEg|DEGRp	2	part	_	_
-5	quominus	quominus	G	G-	INFLn	3	comp	_	_
+5	quo.minus	quominus	G	G-	INFLn	3	comp	_	_
 6	adnuntiarem	adnuntio	V	V-	PERS1|NUMBs|TENSi|MOODs|VOICa	8	pred	_	_
 7	vobis	vos	P	Pp	PERS2|NUMBp|GENDm|CASEd	6	obl	_	_
 8	et	et	C	C-	INFLn	5	pred	_	_
@@ -79067,7 +79067,7 @@
 1	non	non	D	Df	INFLn	3	aux	_	_
 2	enim	enim	D	Df	INFLn	3	aux	_	_
 3	subterfugi	subterfugio	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
-4	quominus	quominus	G	G-	INFLn	3	comp	_	_
+4	quo.minus	quominus	G	G-	INFLn	3	comp	_	_
 5	adnuntiarem	adnuntio	V	V-	PERS1|NUMBs|TENSi|MOODs|VOICa	4	pred	_	_
 6	omne	omnis	P	Px	NUMBs|GENDn|CASEa	7	atr	_	_
 7	consilium	consilium	N	Nb	NUMBs|GENDn|CASEa	5	obj	_	_
@@ -84069,7 +84069,7 @@
 3	age	ago	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
 
 1	si	si	G	G-	INFLn	3	adv	_	_
-2	quominus	quominus	D	Df	INFLn	1	aux(14)pred	_	_
+2	quo.minus	quominus	D	Df	INFLn	1	aux(14)pred	_	_
 3	venio	venio	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
 4	tibi	tu	P	Pp	PERS2|NUMBs|GENDm|CASEd	3	obl	_	_
 5	cito	cito	D	Df	DEGRp	3	adv	_	_
@@ -84967,7 +84967,7 @@
 16	saecula	saeculum	N	Nb	NUMBp|GENDn|CASEa	15	obl	_	_
 17	saeculorum	saeculum	N	Nb	NUMBp|GENDn|CASEg	16	atr	_	_
 18	procident	procido	V	V-	PERS3|NUMBp|TENSf|MOODi|VOICa	25	pred	_	_
-19	vigintiquattuor	viginti	M	Ma	INFLn	20	atr	_	_
+19	viginti.quattuor	viginti	M	Ma	INFLn	20	atr	_	_
 20	seniores	senex	A	A-	NUMBp|GENDm|CASEn|DEGRc	18	sub	_	_
 21	ante	ante	R	R-	INFLn	18	adv	_	_
 22	sedentem	sedeo	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEa	21	obl	_	_
@@ -85089,7 +85089,7 @@
 5	quattuor	quattuor	M	Ma	INFLn	6	atr	_	_
 6	animalia	animalis	A	A-	NUMBp|GENDn|CASEn|DEGRp	7	sub	_	_
 7	et	et	C	C-	INFLn	10	sub	_	_
-8	vigintiquattuor	viginti	M	Ma	INFLn	9	atr	_	_
+8	viginti.quattuor	viginti	M	Ma	INFLn	9	atr	_	_
 9	seniores	senex	A	A-	NUMBp|GENDm|CASEn|DEGRc	7	sub	_	_
 10	ceciderunt	cado	V	V-	PERS3|NUMBp|TENSr|MOODi|VOICa	0	pred	_	_
 11	coram	coram	R	R-	INFLn	10	obl	_	_
@@ -85634,7 +85634,7 @@
 2	audivi	audio	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 3	numerum	numerus	N	Nb	NUMBs|GENDm|CASEa	2	obj	_	_
 4	signatorum	signo	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEg	3	part	_	_
-5	centumquadragintaquattuor	centumquadragintaquattuor	M	Ma	INFLn	6	atr	_	_
+5	centum.quadraginta.quattuor	centum.quadraginta.quattuor	M	Ma	INFLn	6	atr	_	_
 6	milia	mille	M	Ma	NUMBp|GENDn|CASEn	7	atr	_	_
 7	signati	signo	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEv	3	sub(13)apos	_	_
 8	ex	ex	R	R-	INFLn	7	adv	_	_
@@ -86385,7 +86385,7 @@
 2	numerus	numerus	N	Nb	NUMBs|GENDm|CASEn	0	sub(8)pred	_	_
 3	equestris	equester	A	A-	NUMBs|GENDm|CASEg|DEGRp	4	atr	_	_
 4	exercitus	exercitus	N	Nb	NUMBs|GENDm|CASEg	2	atr	_	_
-5	viciesmilies	vicie(n)s	D	Df	INFLn	7	atr	_	_
+5	vicies.milies	vicie(n)s	D	Df	INFLn	7	atr	_	_
 6	dena	deni	A	A-	NUMBp|GENDn|CASEn|DEGRp	7	atr	_	_
 7	milia	mille	M	Ma	NUMBp|GENDn|CASEn	0	xobj(8)pred	_	_
 
@@ -86841,7 +86841,7 @@
 6	et	et	C	C-	INFLn	0	pred	_	_
 7	prophetabunt	propheto	V	V-	PERS3|NUMBp|TENSf|MOODi|VOICa	6	pred	_	_
 8	diebus	dies	N	Nb	NUMBp|GENDf|CASEb	7	adv	_	_
-9	milleducentissexaginta	milleducentisexaginta	M	Ma	NUMBp|GENDf|CASEb	8	atr	_	_
+9	mille.ducentis.sexaginta	mille.ducenti.sexaginta	M	Ma	NUMBp|GENDf|CASEb	8	atr	_	_
 10	amicti	amicio	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn	7	xadv	_	_
 11	saccos	saccus	N	Nb	NUMBp|GENDm|CASEa	10	obl	_	_
 
@@ -87137,7 +87137,7 @@
 15	saeculorum	saeculum	N	Nb	NUMBp|GENDn|CASEg	14	atr	_	_
 
 1	et	et	C	C-	INFLn	12	aux	_	_
-2	vigintiquattuor	vigintiquattuor	M	Ma	INFLn	3	atr	_	_
+2	viginti.quattuor	viginti.quattuor	M	Ma	INFLn	3	atr	_	_
 3	seniores	senex	A	A-	NUMBp|GENDm|CASEn|DEGRc	12	sub	_	_
 4	qui	qui	P	Pr	NUMBs|GENDm|CASEn	8	sub	_	_
 5	in	in	R	R-	INFLn	8	adv	_	_
@@ -87349,7 +87349,7 @@
 25	pascant	pasco	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	23	pred	_	_
 26	illam	ille	P	Pd	NUMBs|GENDf|CASEa	25	obj	_	_
 27	diebus	dies	N	Nb	NUMBp|GENDf|CASEb	25	adv	_	_
-28	milleducentissexaginta	milleducentisexaginta	M	Ma	NUMBp|GENDf|CASEb	27	atr	_	_
+28	mille.ducentis.sexaginta	mille.ducenti.sexaginta	M	Ma	NUMBp|GENDf|CASEb	27	atr	_	_
 
 1	et	et	C	C-	INFLn	2	aux	_	_
 2	factum	facio	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn	0	pred	_	_
@@ -87703,7 +87703,7 @@
 5	potestas	potestas	N	Nb	NUMBs|GENDf|CASEn	2	sub	_	_
 6	facere	facio	V	V-	TENSp|MOODn|VOICa	5	narg	_	_
 7	menses	mensis	N	Nb	NUMBp|GENDm|CASEa	6	adv	_	_
-8	quadragintaduo	quadragintaduo	M	Ma	INFLn	7	atr	_	_
+8	quadraginta.duo	quadraginta.duo	M	Ma	INFLn	7	atr	_	_
 
 1	et	et	C	C-	INFLn	2	aux	_	_
 2	aperuit	aperio	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
@@ -87947,7 +87947,7 @@
 2	numerus	numerus	N	Nb	NUMBs|GENDm|CASEn	4	sub	_	_
 3	eius	is	P	Pp	PERS3|NUMBs|GENDm|CASEg	2	atr	_	_
 4	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
-5	sescentisexagintasex	sescentisexagintasex	M	Ma	INFLn	4	xobj	_	_
+5	sescenti.sexaginta.sex	sescenti.sexaginta.sex	M	Ma	INFLn	4	xobj	_	_
 
 1	et	et	C	C-	INFLn	2	aux	_	_
 2	vidi	video	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
@@ -87962,7 +87962,7 @@
 8	et	et	C	C-	INFLn	0	pred	_	_
 9	cum	cum	R	R-	INFLn	8	adv(24)pred	_	_
 10	illo	ille	P	Pd	NUMBs|GENDm|CASEb	9	obl	_	_
-11	centumquadragintaquattuor	centumquadragintaquattuor	M	Ma	INFLn	12	atr	_	_
+11	centum.quadraginta.quattuor	centum.quadraginta.quattuor	M	Ma	INFLn	12	atr	_	_
 12	milia	mille	M	Ma	NUMBp|GENDn|CASEn	13	atr	_	_
 13	habentes	habeo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn	8	sub(24)pred	_	_
 14	nomen	nomen	N	Nb	NUMBs|GENDn|CASEa	16	obj	_	_
@@ -88023,7 +88023,7 @@
 5	canticum	canticum	N	Nb	NUMBs|GENDn|CASEa	4	obj	_	_
 6	nisi	nisi	D	Df	INFLn	2	atr	_	_
 7	illa	ille	P	Pd	NUMBp|GENDn|CASEn	9	atr	_	_
-8	centumquadragintaquattuor	centumquadragintaquattuor	M	Ma	INFLn	9	atr	_	_
+8	centum.quadraginta.quattuor	centum.quadraginta.quattuor	M	Ma	INFLn	9	atr	_	_
 9	milia	mille	M	Ma	NUMBp|GENDn|CASEn	6	sub	_	_
 10	qui	qui	P	Pr	NUMBs|GENDm|CASEn	11	sub	_	_
 11	empti	emo	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn	9	atr	_	_
@@ -88332,7 +88332,7 @@
 15	equorum	equus	N	Nb	NUMBp|GENDm|CASEg	14	atr	_	_
 16	per	per	R	R-	INFLn	8	adv	_	_
 17	stadia	stadium	N	Nb	NUMBp|GENDn|CASEa	16	obl	_	_
-18	millesescenta	millesescenti	M	Ma	NUMBp|GENDn|CASEa	17	atr	_	_
+18	mille.sescenta	mille.sescenti	M	Ma	NUMBp|GENDn|CASEa	17	atr	_	_
 
 1	et	et	C	C-	INFLn	2	aux	_	_
 2	vidi	video	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_

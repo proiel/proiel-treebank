@@ -4953,7 +4953,7 @@
 4	þizai	sa	P	Pd	NUMBs|GENDf|CASEd	5	aux	_	_
 5	auþidai	auþida	N	Nb	NUMBs|GENDf|CASEd	3	obl	_	_
 6	dage	dags	N	Nb	NUMBp|GENDm|CASEg	7	part	_	_
-7	fidwortiguns	fidwortigjus	M	Ma	NUMBp|GENDn|CASEa	8	adv	_	_
+7	fidwor.tiguns	fidwor.tigjus	M	Ma	NUMBp|GENDn|CASEa	8	adv	_	_
 8	fraisans	fraisan	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn|STREs	2	xobj	_	_
 9	fram	fram	R	R-	INFLn	8	ag	_	_
 10	Satanin	Satana	N	Ne	NUMBs|GENDm|CASEd	9	obl	_	_
@@ -6787,10 +6787,10 @@
 13	jah	jah	C	C-	INFLn	7	aux	_	_
 14	bar	bairan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	7	pred	_	_
 15	ain	ains	M	Ma	NUMBs|GENDn|CASEn	17	sub(25)apos	_	_
-16	·l·	þreistigjus*	M	Ma	INFLn	17	obj(25)apos	_	_
+16	·l·	þreis.tigjus*	M	Ma	INFLn	17	obj(25)apos	_	_
 17	jah	jah	C	C-	INFLn	14	apos	_	_
 18	ain	ains	M	Ma	NUMBs|GENDn|CASEn	17	sub(26)apos	_	_
-19	·j·	saíhstigjus	M	Ma	INFLn	17	obj(26)apos	_	_
+19	·j·	saíhs.tigjus	M	Ma	INFLn	17	obj(26)apos	_	_
 20	jah	jah	C	C-	INFLn	17	aux	_	_
 21	ain	ains	M	Ma	NUMBs|GENDn|CASEn	17	sub(27)apos	_	_
 22	·r·	taihuntehund	M	Ma	INFLn	17	obj(27)apos	_	_
@@ -6995,10 +6995,10 @@
 17	akran	akran	N	Nb	NUMBs|GENDn|CASEa	18	obj	_	_
 18	bairand	bairan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	14	apos	_	_
 19	ain	ains	M	Ma	NUMBs|GENDn|CASEa	21	sub(31)apos	_	_
-20	·l·	þreistigjus*	M	Ma	INFLn	21	obj(31)apos	_	_
+20	·l·	þreis.tigjus*	M	Ma	INFLn	21	obj(31)apos	_	_
 21	jah	jah	C	C-	INFLn	18	apos	_	_
 22	ain	ains	M	Ma	NUMBs|GENDn|CASEa	21	sub(32)apos	_	_
-23	·j·	saihstigjus*	M	Ma	INFLn	21	obj(32)apos	_	_
+23	·j·	saihs.tigjus*	M	Ma	INFLn	21	obj(32)apos	_	_
 24	jah	jah	C	C-	INFLn	21	aux	_	_
 25	ain	ains	M	Ma	NUMBs|GENDn|CASEa	21	sub(33)apos	_	_
 26	·r·	taihuntehund	M	Ma	INFLn	21	obj(33)apos	_	_
@@ -11551,7 +11551,7 @@
 27	saei	saei	P	Pr	NUMBs|GENDm|CASEn	29	sub	_	_
 28	ni	ni	D	Df	INFLn	29	aux	_	_
 29	andnimai	and-niman	V	V-	PERS3|NUMBs|TENSp|MOODo|VOICa	50	atr	_	_
-30	·r·falþ	taihuntaihundfalþs	A	A-	NUMBs|GENDn|CASEa|DEGRp|STREs	29	adv	_	_
+30	·r·.falþ	taihuntaihundfalþs	A	A-	NUMBs|GENDn|CASEa|DEGRp|STREs	29	adv	_	_
 31	nu	nu	D	Df	INFLn	29	adv	_	_
 32	in	in	R	R-	INFLn	29	adv	_	_
 33	þamma	sa	P	Pd	NUMBs|GENDo|CASEd	34	atr	_	_
@@ -29489,11 +29489,11 @@
 2	farjandans	farjan	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn|STREw	10	xadv	_	_
 3	swe	swe	D	Df	INFLn	6	aux	_	_
 4	spaurde	spaurds	N	Nb	NUMBp|GENDf|CASEg	6	part	_	_
-5	·k·	twaitigjus	M	Ma	INFLn	6	adv	_	_
+5	·k·	twai.tigjus	M	Ma	INFLn	6	adv	_	_
 6	jah	jah	C	C-	INFLn	2	adv	_	_
 7	·e·	fimf	M	Ma	INFLn	8	adv	_	_
 8	aiþþau	aiþþau	C	C-	INFLn	6	adv	_	_
-9	·l·	þreistigjus*	M	Ma	INFLn	8	adv	_	_
+9	·l·	þreis.tigjus*	M	Ma	INFLn	8	adv	_	_
 10	gasaiƕand	ga-saiƕan	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	19	pred	_	_
 11	Iesu	Iesus	N	Ne	NUMBs|GENDm|CASEa	10	obj	_	_
 12	gaggandan	gaggan	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEa|STREw	15	xobj	_	_
@@ -34702,7 +34702,7 @@
 5	frabauht	fra-bugjan	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn|STREs	6	xobj	_	_
 6	was	wisan#1	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	10	pred	_	_
 7	in	in	R	R-	INFLn	5	obl	_	_
-8	·t·	þrijahunda	M	Ma	INFLn	7	obl	_	_
+8	·t·	þrija.hunda	M	Ma	INFLn	7	obl	_	_
 9	skatte	skatts	N	Nb	NUMBp|GENDm|CASEg	8	part	_	_
 10	jah	jah	C	C-	INFLn	0	pred	_	_
 11	fradailiþ	fra-dailjan	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn|STREs	12	xobj	_	_
@@ -48740,7 +48740,7 @@
 21	in	in	R	R-	INFLn	19	narg	_	_
 22	izwis	jūs	P	Pp	PERS2|NUMBp|GENDm|CASEa	21	obl	_	_
 
-1	jahþe	jaþþe	C	C-	INFLn	0	aux(12)pred	_	_
+1	jah.þe	jaþþe	C	C-	INFLn	0	aux(12)pred	_	_
 2	bi	bi	R	R-	INFLn	0	adv(12)pred	_	_
 3	Teitu	Teitus	N	Ne	NUMBs|GENDm|CASEa	2	obl	_	_
 4	saei	saei	P	Pr	NUMBs|GENDm|CASEn	5	sub	_	_
@@ -55963,7 +55963,7 @@
 3	in	in	R	R-	INFLn	0	adv(23)pred	_	_
 4	bimaita	bimait	N	Nb	NUMBs|GENDn|CASEd	3	obl	_	_
 5	Xristaus	Xristus	N	Ne	NUMBs|GENDm|CASEg	4	atr	_	_
-6	miþganawistrodai	miþ-ganawistron	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn|STREs	0	xadv(23)pred	_	_
+6	miþ.ganawistrodai	miþ-ganawistron	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn|STREs	0	xadv(23)pred	_	_
 7	imma	is	P	Pp	PERS3|NUMBs|GENDm|CASEd	6	obl	_	_
 8	in	in	R	R-	INFLn	6	adv	_	_
 9	daupeinai	daupeins	N	Nb	NUMBs|GENDf|CASEd	8	obl	_	_
