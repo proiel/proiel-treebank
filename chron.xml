@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2015-05-07T18:53:44+02:00" schema-version="2.0">
+<proiel export-time="2015-11-09T09:16:38+00:00" schema-version="2.0">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -162,7 +162,7 @@
     <funder>University of Oslo, University of Thessaloniki</funder>
     <distributor>Department of Classics, History of Arts and Ideas</distributor>
     <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
-    <date>09 May 2015</date>
+    <date>09 November 2015</date>
     <license>CC BY-NC-SA 3.0</license>
     <license-url>http://creativecommons.org/licenses/by-nc-sa/3.0/us/</license-url>
     <reference-system>chapter, section</reference-system>
@@ -2457,11 +2457,11 @@
         <token id="1242087" form="ἢ" citation-part="17.8" lemma="ἤ" part-of-speech="C-" morphology="---------n" head-id="1242084" relation="atr" presentation-after=" "/>
         <token id="1242088" form="τοῦ" citation-part="17.8" lemma="ὁ" part-of-speech="S-" morphology="-s---og--i" head-id="1242089" relation="aux" presentation-after=" "/>
         <token id="1242089" form="Ζευγαλατίου" citation-part="17.8" lemma="Ζευγαλάτιον" part-of-speech="Ne" morphology="-s---ng--i" head-id="1242087" relation="atr" presentation-after=", "/>
-        <token id="1242090" form=" καὶ" citation-part="17.8" lemma="καί#1" part-of-speech="Df" morphology="---------n" head-id="1242093" relation="aux" presentation-before="-" presentation-after=" "/>
+        <token id="1242090" form="καὶ" citation-part="17.8" lemma="καί#1" part-of-speech="Df" morphology="---------n" head-id="1242093" relation="aux" presentation-before="- " presentation-after=" "/>
         <token id="1242091" form="οὕτως" citation-part="17.8" lemma="οὕτω(ς)" part-of-speech="Df" morphology="---------n" head-id="1242093" relation="adv" presentation-after=" "/>
         <token id="1242092" form="γὰρ" citation-part="17.8" lemma="γάρ" part-of-speech="Df" morphology="---------n" head-id="1242093" relation="aux" presentation-after=" "/>
         <token id="1242093" form="ὠνομάζετο" citation-part="17.8" lemma="ὀνομάζω" part-of-speech="V-" morphology="3siip----i" relation="parpred" presentation-after=", "/>
-        <token id="1242094" form=" καβαλλάριοι" citation-part="17.8" lemma="καβαλάριος" part-of-speech="Nb" morphology="-p---mn--i" head-id="1242081" relation="sub" presentation-before="-" presentation-after=" "/>
+        <token id="1242094" form="καβαλλάριοι" citation-part="17.8" lemma="καβαλάριος" part-of-speech="Nb" morphology="-p---mn--i" head-id="1242081" relation="sub" presentation-before="- " presentation-after=" "/>
         <token id="1242095" form="ὀλίγοι" citation-part="17.8" lemma="ὀλίγος" part-of-speech="A-" morphology="-p---mnp-i" head-id="1242094" relation="atr" presentation-after=" "/>
         <token id="1242096" form="καί" citation-part="17.8" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1242097" relation="aux" presentation-after=", "/>
         <token id="1242097" form="διωχθέντες" citation-part="17.8" lemma="διώκω" part-of-speech="V-" morphology="-pappmn--i" head-id="1242081" relation="xadv" presentation-after=" ">
@@ -3097,7 +3097,7 @@
         <token id="1242620" form="τριῶν" citation-part="18.4" lemma="τρεῖς" part-of-speech="Ma" morphology="-p---qg--i" head-id="1242621" relation="atr" presentation-after=" "/>
         <token id="1242621" form="θυγατέρων" citation-part="18.4" lemma="θυγάτηρ" part-of-speech="Nb" morphology="-p---fg--i" head-id="1242618" relation="part" presentation-after=" "/>
         <token id="1242622" form="αὐτοῦ" citation-part="18.4" lemma="αὐτός" part-of-speech="Pp" morphology="3s---mg--i" head-id="1242621" relation="atr" presentation-after=", "/>
-        <token id="1242623" form=" τῆς" citation-part="18.4" lemma="ὁ" part-of-speech="S-" morphology="-s---fg--i" head-id="1242626" relation="aux" presentation-before="-" presentation-after=" "/>
+        <token id="1242623" form="τῆς" citation-part="18.4" lemma="ὁ" part-of-speech="S-" morphology="-s---fg--i" head-id="1242626" relation="aux" presentation-before="- " presentation-after=" "/>
         <token id="1242624" form="κυρίως" citation-part="18.4" lemma="κυρίως" part-of-speech="Df" morphology="---------n" head-id="1242625" relation="adv" presentation-after=" "/>
         <token id="1242625" form="πρώτης" citation-part="18.4" lemma="πρῶτος" part-of-speech="Mo" morphology="-s---fg--i" head-id="1242626" relation="atr" presentation-after=" "/>
         <token id="1242626" form="θυγατρὸς" citation-part="18.4" lemma="θυγάτηρ" part-of-speech="Nb" morphology="-s---fg--i" head-id="1242631" relation="sub" presentation-after=" "/>
@@ -3114,7 +3114,7 @@
         <token id="1242637" form="καὶ" citation-part="18.4" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1242632" relation="obl" presentation-after=" "/>
         <token id="1242638" form="τῶν" citation-part="18.4" lemma="ὁ" part-of-speech="S-" morphology="-p---mg--i" head-id="1242639" relation="aux" presentation-after=" "/>
         <token id="1242639" form="παίδων" citation-part="18.4" lemma="παῖς" part-of-speech="Nb" morphology="-p---mg--i" head-id="1242637" relation="obl" presentation-after=" "/>
-        <token id="1242640" form=" καταλείψασα" citation-part="18.4" lemma="καταλείπω" part-of-speech="V-" morphology="-sapafn--i" head-id="1242653" relation="xadv" presentation-before="-" presentation-after=" ">
+        <token id="1242640" form="καταλείψασα" citation-part="18.4" lemma="καταλείπω" part-of-speech="V-" morphology="-sapafn--i" head-id="1242653" relation="xadv" presentation-before="- " presentation-after=" ">
           <slash target-id="1242618" relation="xsub"/>
         </token>
         <token id="1242641" form="γονεῖς" citation-part="18.4" lemma="γονεύς" part-of-speech="Nb" morphology="-p---ma--i" head-id="1242642" relation="obj" presentation-after=" "/>
@@ -3492,7 +3492,7 @@
         <token id="1243039" form="μητρός" citation-part="18.7" lemma="μήτηρ" part-of-speech="Nb" morphology="-s---fg--i" head-id="1243041" relation="atr" presentation-after=" "/>
         <token id="1243040" form="μου" citation-part="18.7" lemma="ἐγώ" part-of-speech="Pp" morphology="1s---mg--i" head-id="1243039" relation="atr" presentation-after=" "/>
         <token id="1243041" form="ἀδελφαί" citation-part="18.7" lemma="ἀδελφή" part-of-speech="Nb" morphology="-p---fn--i" head-id="1243055" relation="sub" presentation-after=", "/>
-        <token id="1243042" form=" καὶ" citation-part="18.7" lemma="καί#1" part-of-speech="Df" morphology="---------n" head-id="1243045" relation="aux" presentation-before="-" presentation-after=" "/>
+        <token id="1243042" form="καὶ" citation-part="18.7" lemma="καί#1" part-of-speech="Df" morphology="---------n" head-id="1243045" relation="aux" presentation-before="- " presentation-after=" "/>
         <token id="1243043" form="γὰρ" citation-part="18.7" lemma="γάρ" part-of-speech="Df" morphology="---------n" head-id="1243045" relation="aux" presentation-after=" "/>
         <token id="1243044" form="ἑτέρα" citation-part="18.7" lemma="ἕτερος" part-of-speech="A-" morphology="-s---fnp-i" head-id="1243046" relation="atr" presentation-after=" "/>
         <token id="1243045" form="ἀδελφὴ" citation-part="18.7" lemma="ἀδελφή" part-of-speech="Nb" morphology="-s---fn--i" head-id="1243048" relation="sub" presentation-after=" "/>
@@ -3508,7 +3508,7 @@
         <token id="1243052" form="ὑποτακτικὴ" citation-part="18.7" lemma="ὑποτακτικός" part-of-speech="A-" morphology="-s---fnp-i" head-id="1243051" relation="xobj" presentation-after=" "/>
         <token id="1243053" form="αὐτῆς" citation-part="18.7" lemma="αὐτός" part-of-speech="Pp" morphology="3s---fg--i" head-id="1243052" relation="obl" presentation-after=" "/>
         <token id="1243054" form="καλή" citation-part="18.7" lemma="καλός" part-of-speech="A-" morphology="-s---fnp-i" head-id="1243052" relation="atr" presentation-after=", "/>
-        <token id="1243055" form=" προσέδραμον" citation-part="18.7" lemma="προστρέχω" part-of-speech="V-" morphology="3paia----i" relation="pred" presentation-before="-" presentation-after=" "/>
+        <token id="1243055" form="προσέδραμον" citation-part="18.7" lemma="προστρέχω" part-of-speech="V-" morphology="3paia----i" relation="pred" presentation-before="- " presentation-after=" "/>
         <token id="1243056" form="μετὰ" citation-part="18.7" lemma="μετά" part-of-speech="R-" morphology="---------n" head-id="1243055" relation="adv" presentation-after=" "/>
         <token id="1243057" form="δακρύων" citation-part="18.7" lemma="δάκρυον" part-of-speech="Nb" morphology="-p---ng--i" head-id="1243056" relation="obl" presentation-after="· "/>
       </sentence>
@@ -4298,7 +4298,7 @@
         <token id="1243774" form="τὸν" citation-part="19.5" lemma="ὁ" part-of-speech="S-" morphology="-s---ma--i" head-id="1243776" relation="aux" presentation-after=" "/>
         <token id="1243775" form="μέγαν" citation-part="19.5" lemma="μέγας" part-of-speech="A-" morphology="-s---map-i" head-id="1243776" relation="atr" presentation-after=" "/>
         <token id="1243776" form="ἀμηρᾶν" citation-part="19.5" lemma="ἀμηρᾶς" part-of-speech="Nb" morphology="-s---ma--i" head-id="1243772" relation="apos" presentation-after="”, "/>
-        <token id="1243777" form=" δεικνὺς" citation-part="19.5" lemma="δείκνυμι" part-of-speech="V-" morphology="-sppamn--i" head-id="1770643" relation="xadv" presentation-before="-" presentation-after=" ">
+        <token id="1243777" form="δεικνὺς" citation-part="19.5" lemma="δείκνυμι" part-of-speech="V-" morphology="-sppamn--i" head-id="1770643" relation="xadv" presentation-before="- " presentation-after=" ">
           <slash target-id="1770643" relation="xsub"/>
         </token>
         <token id="1243778" form="ἐμέ" citation-part="19.5" lemma="ἐγώ" part-of-speech="Pp" morphology="1s---ma--i" head-id="1243777" relation="obj" presentation-after=", "/>
@@ -5676,13 +5676,13 @@
         <token id="1245905" form="ἀπό" citation-part="22.4" lemma="ἀπό" part-of-speech="R-" morphology="---------n" head-id="1245906" relation="adv" presentation-after=" "/>
         <token id="1245906" form="τε" citation-part="22.4" lemma="τε" part-of-speech="C-" morphology="---------n" head-id="1245901" relation="adv" presentation-after=" "/>
         <token id="1245907" form="κρύους" citation-part="22.4" lemma="κρύος" part-of-speech="Nb" morphology="-s---ng--i" head-id="1245905" relation="obl" presentation-after=", "/>
-        <token id="1245908" form=" κθ-ῃ" citation-part="22.4" lemma="29" part-of-speech="Mo" morphology="-s---fd--i" head-id="1245909" relation="xobj" presentation-before="-" presentation-after=" ">
+        <token id="1245908" form="κθ-ῃ" citation-part="22.4" lemma="29" part-of-speech="Mo" morphology="-s---fd--i" head-id="1245909" relation="xobj" presentation-before="- " presentation-after=" ">
           <slash target-id="1245909" relation="xsub"/>
         </token>
         <token id="1245909" form="ἦν" citation-part="22.4" lemma="εἰμί#1" part-of-speech="V-" morphology="3siia----i" relation="parpred" presentation-after=" "/>
         <token id="1245910" form="τοῦ" citation-part="22.4" lemma="ὁ" part-of-speech="S-" morphology="-s---mg--i" head-id="1245911" relation="aux" presentation-after=" "/>
         <token id="1245911" form="Αὐγούστου" citation-part="22.4" lemma="Αὔγουστος#1" part-of-speech="Ne" morphology="-s---mg--i" head-id="1245908" relation="atr" presentation-after=", "/>
-        <token id="1245912" form=" ἀπό" citation-part="22.4" lemma="ἀπό" part-of-speech="R-" morphology="---------n" head-id="1245906" relation="adv" presentation-before="-" presentation-after=" "/>
+        <token id="1245912" form="ἀπό" citation-part="22.4" lemma="ἀπό" part-of-speech="R-" morphology="---------n" head-id="1245906" relation="adv" presentation-before="- " presentation-after=" "/>
         <token id="1245913" form="τε" citation-part="22.4" lemma="τε" part-of-speech="C-" morphology="---------n" head-id="1245906" relation="aux" presentation-after=" "/>
         <token id="1245914" form="πείνας" citation-part="22.4" lemma="πείνα" part-of-speech="Nb" morphology="-s---fg--i" head-id="1245912" relation="obl" presentation-after=", "/>
         <token id="1245915" form="ἀπό" citation-part="22.4" lemma="ἀπό" part-of-speech="R-" morphology="---------n" head-id="1245906" relation="adv" presentation-after=" "/>
@@ -5842,7 +5842,7 @@
         <token id="1246055" form="τὸν" citation-part="22.7" lemma="ὁ" part-of-speech="S-" morphology="-s---ma--i" head-id="1246056" relation="aux" presentation-after=" "/>
         <token id="1246056" form="αὐθέντην" citation-part="22.7" lemma="αὐθέντης" part-of-speech="Nb" morphology="-s---ma--i" head-id="1246054" relation="apos" presentation-after=" "/>
         <token id="1246057" form="μου" citation-part="22.7" lemma="ἐγώ" part-of-speech="Pp" morphology="1s---mg--i" head-id="1246056" relation="atr" presentation-after=", "/>
-        <token id="1246058" form=" πολλάκις" citation-part="22.7" lemma="πολλάκις" part-of-speech="Df" morphology="---------n" head-id="1246060" relation="adv" presentation-before="-" presentation-after=" "/>
+        <token id="1246058" form="πολλάκις" citation-part="22.7" lemma="πολλάκις" part-of-speech="Df" morphology="---------n" head-id="1246060" relation="adv" presentation-before="- " presentation-after=" "/>
         <token id="1246059" form="με" citation-part="22.7" lemma="ἐγώ" part-of-speech="Pp" morphology="1s---ma--i" head-id="1246060" relation="obj" presentation-after=" "/>
         <token id="1246060" form="ἐπληροφόρησε" citation-part="22.7" lemma="πληροφορέω" part-of-speech="V-" morphology="3spia----i" relation="parpred" presentation-after=" "/>
         <token id="1246061" form="καὶ" citation-part="22.7" lemma="καί#1" part-of-speech="Df" morphology="---------n" head-id="1246062" relation="aux" presentation-after=" "/>
@@ -5850,7 +5850,7 @@
         <token id="1246063" form="ὡς" citation-part="22.7" lemma="ὡς" part-of-speech="Df" morphology="---------n" head-id="1246060" relation="adv" presentation-after=" "/>
         <token id="1246064" form="ἐν" citation-part="22.7" lemma="ἐν" part-of-speech="R-" morphology="---------n" head-id="1246063" relation="adv" presentation-after=" "/>
         <token id="1246065" form="μυστηρίῳ" citation-part="22.7" lemma="μυστήριον" part-of-speech="Nb" morphology="-s---nd--i" head-id="1246064" relation="obl" presentation-after=", "/>
-        <token id="1246066" form=" ἠγάπα" citation-part="22.7" lemma="ἀγαπάω" part-of-speech="V-" morphology="3siia----i" head-id="1246067" relation="pred" presentation-before="-" presentation-after=" ">
+        <token id="1246066" form="ἠγάπα" citation-part="22.7" lemma="ἀγαπάω" part-of-speech="V-" morphology="3siia----i" head-id="1246067" relation="pred" presentation-before="- " presentation-after=" ">
           <slash target-id="1246047" relation="sub"/>
         </token>
         <token id="1246067" form="καὶ" citation-part="22.7" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1246051" relation="pred" presentation-after=" "/>
@@ -5899,7 +5899,7 @@
         <token id="1246103" form="Θωμᾶ" citation-part="22.8" lemma="Θωμᾶς" part-of-speech="Ne" morphology="-s---mg--i" head-id="1246100" relation="apos" presentation-after=" "/>
         <token id="1246104" form="τοῦ" citation-part="22.8" lemma="ὁ" part-of-speech="S-" morphology="-s---mg--i" head-id="1246105" relation="aux" presentation-after=" "/>
         <token id="1246105" form="δεσπότου" citation-part="22.8" lemma="δεσπότης" part-of-speech="Nb" morphology="-s---mg--i" head-id="1246103" relation="apos" presentation-after=", "/>
-        <token id="1246106" form=" ἦν" citation-part="22.8" lemma="εἰμί#1" part-of-speech="V-" morphology="3siia----i" relation="parpred" presentation-before="-" presentation-after=" "/>
+        <token id="1246106" form="ἦν" citation-part="22.8" lemma="εἰμί#1" part-of-speech="V-" morphology="3siia----i" relation="parpred" presentation-before="- " presentation-after=" "/>
         <token id="1246107" form="γὰρ" citation-part="22.8" lemma="γάρ" part-of-speech="Df" morphology="---------n" head-id="1246106" relation="aux" presentation-after=" "/>
         <token id="1246108" form="εἰς" citation-part="22.8" lemma="εἰς" part-of-speech="R-" morphology="---------n" head-id="1246106" relation="xobj" presentation-after=" ">
           <slash target-id="1246115" relation="xsub"/>
@@ -5918,7 +5918,7 @@
         <token id="1246120" form="Μιχαὴλ" citation-part="22.8" lemma="Μιχαήλ" part-of-speech="Ne" morphology="---------n" head-id="1246119" relation="apos" presentation-after=" "/>
         <token id="1246121" form="ὁ" citation-part="22.8" lemma="ὁ" part-of-speech="S-" morphology="-s---mn--i" head-id="1246122" relation="aux" presentation-after=" "/>
         <token id="1246122" form="Ἰσῆς" citation-part="22.8" lemma="Ἰσῆς" part-of-speech="Ne" morphology="-s---mn--i" head-id="1246119" relation="apos" presentation-after=", "/>
-        <token id="1246123" form=" ἐσπούδαζον" citation-part="22.8" lemma="σπουδάζω" part-of-speech="V-" morphology="3piia----i" relation="pred" presentation-before="-" presentation-after=", "/>
+        <token id="1246123" form="ἐσπούδαζον" citation-part="22.8" lemma="σπουδάζω" part-of-speech="V-" morphology="3piia----i" relation="pred" presentation-before="- " presentation-after=", "/>
         <token id="1246124" form="ἵνα" citation-part="22.8" lemma="ἵνα" part-of-speech="G-" morphology="---------n" head-id="1246123" relation="adv" presentation-after=" "/>
         <token id="1246125" form="οἱ" citation-part="22.8" lemma="ὁ" part-of-speech="S-" morphology="-p---mn--i" head-id="1246126" relation="aux" presentation-after=" "/>
         <token id="1246126" form="δύο" citation-part="22.8" lemma="δύο" part-of-speech="Ma" morphology="---------n" head-id="1246131" relation="sub" presentation-after=" "/>
@@ -6075,7 +6075,7 @@
         <token id="1246253" form="παρὰ" citation-part="22.11" lemma="παρά" part-of-speech="R-" morphology="---------n" head-id="1246252" relation="ag" presentation-after=" "/>
         <token id="1246254" form="τοῦ" citation-part="22.11" lemma="ὁ" part-of-speech="S-" morphology="-s---mg--i" head-id="1246255" relation="aux" presentation-after=" "/>
         <token id="1246255" form="βασιλέως" citation-part="22.11" lemma="βασιλεύς" part-of-speech="Nb" morphology="-s---mg--i" head-id="1246253" relation="obl" presentation-after=", "/>
-        <token id="1246256" form=" ἦσαν" citation-part="22.11" lemma="εἰμί#1" part-of-speech="V-" morphology="3piia----i" relation="parpred" presentation-before="-" presentation-after=" "/>
+        <token id="1246256" form="ἦσαν" citation-part="22.11" lemma="εἰμί#1" part-of-speech="V-" morphology="3piia----i" relation="parpred" presentation-before="- " presentation-after=" "/>
         <token id="1246257" form="δὲ" citation-part="22.11" lemma="δέ" part-of-speech="Df" morphology="---------n" head-id="1246256" relation="aux" presentation-after=" "/>
         <token id="1246258" form="ὁ" citation-part="22.11" lemma="ὁ" part-of-speech="S-" morphology="-s---mn--i" head-id="1246261" relation="aux" presentation-after=" "/>
         <token id="1246259" form="καλὸς" citation-part="22.11" lemma="καλός" part-of-speech="A-" morphology="-s---mnp-i" head-id="1246260" relation="atr" presentation-after=" "/>
@@ -6095,7 +6095,7 @@
         </token>
         <token id="1246269" form="Δισύπατος" citation-part="22.11" lemma="Δισύπατος" part-of-speech="Ne" morphology="-s---mn--i" head-id="1246270" relation="apos" presentation-after=" "/>
         <token id="1246270" form="Γεώργιος" citation-part="22.11" lemma="Γεώργιος" part-of-speech="Ne" morphology="-s---mn--i" head-id="1246268" relation="xobj" presentation-after=", "/>
-        <token id="1246271" form=" τὴν" citation-part="22.11" lemma="ὁ" part-of-speech="S-" morphology="-s---fa--i" head-id="1246272" relation="aux" presentation-before="-" presentation-after=" "/>
+        <token id="1246271" form="τὴν" citation-part="22.11" lemma="ὁ" part-of-speech="S-" morphology="-s---fa--i" head-id="1246272" relation="aux" presentation-before="- " presentation-after=" "/>
         <token id="1246272" form="μάχην" citation-part="22.11" lemma="μάχη" part-of-speech="Nb" morphology="-s---fa--i" head-id="1246275" relation="obj" presentation-after=" "/>
         <token id="1246273" form="ἀπὸ" citation-part="22.11" lemma="ἀπό" part-of-speech="R-" morphology="---------n" head-id="1246275" relation="adv" presentation-after=" "/>
         <token id="1246274" form="μέρους" citation-part="22.11" lemma="μέρος" part-of-speech="Nb" morphology="-s---ng--i" head-id="1246273" relation="obl" presentation-after=" "/>
@@ -9251,7 +9251,7 @@
         <token id="1249166" form="Φιλανθρωπινὸς" citation-part="29.4" lemma="Φιλανθρωπινός" part-of-speech="Ne" morphology="-s---mn--i" head-id="1249165" relation="apos" presentation-after=" "/>
         <token id="1249167" form="ὁ" citation-part="29.4" lemma="ὁ" part-of-speech="S-" morphology="-s---mn--i" head-id="1249165" relation="aux" presentation-after=" "/>
         <token id="1249168" form="Λάσκαρις" citation-part="29.4" lemma="Λάσκαρης" part-of-speech="Ne" morphology="-s---mn--i" head-id="1249165" relation="apos" presentation-after=", "/>
-        <token id="1249169" form=" ὃς" citation-part="29.4" lemma="ὅς" part-of-speech="Pr" morphology="-s---mn--i" head-id="1249170" relation="sub" presentation-before="-" presentation-after=" "/>
+        <token id="1249169" form="ὃς" citation-part="29.4" lemma="ὅς" part-of-speech="Pr" morphology="-s---mn--i" head-id="1249170" relation="sub" presentation-before="- " presentation-after=" "/>
         <token id="1249170" form="ἐστάλη" citation-part="29.4" lemma="στέλλω" part-of-speech="V-" morphology="3saip----i" head-id="1249165" relation="apos" presentation-after=" "/>
         <token id="1249171" form="εἰς" citation-part="29.4" lemma="εἰς" part-of-speech="R-" morphology="---------n" head-id="1249170" relation="obl" presentation-after=" "/>
         <token id="1249172" form="τὴν" citation-part="29.4" lemma="ὁ" part-of-speech="S-" morphology="-s---fa--i" head-id="1249173" relation="aux" presentation-after=" "/>
@@ -9278,7 +9278,7 @@
         <token id="1249193" form="καὶ" citation-part="29.4" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1249194" relation="aux" presentation-after=" "/>
         <token id="1249194" form="αὐτὸς" citation-part="29.4" lemma="αὐτός" part-of-speech="Pd" morphology="-s---mn--i" head-id="1249195" relation="sub" presentation-after=" "/>
         <token id="1249195" form="ἐπιμεληθῆναι" citation-part="29.4" lemma="ἐπιμελέομαι" part-of-speech="V-" morphology="--anp----i" head-id="1249185" relation="comp" presentation-after=", "/>
-        <token id="1249196" form=" καὶ" citation-part="29.4" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1249157" relation="apos" presentation-before="-" presentation-after=" "/>
+        <token id="1249196" form="καὶ" citation-part="29.4" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1249157" relation="apos" presentation-before="- " presentation-after=" "/>
         <token id="1249197" form="Μανουὴλ" citation-part="29.4" lemma="Μανουήλ" part-of-speech="Ne" morphology="---------n" head-id="1249196" relation="apos" presentation-after=" "/>
         <token id="1249198" form="Παλαιολόγος" citation-part="29.4" lemma="Παλαιολόγος" part-of-speech="Ne" morphology="-s---mn--i" head-id="1249197" relation="apos" presentation-after=" "/>
         <token id="1249199" form="ὁ" citation-part="29.4" lemma="ὁ" part-of-speech="S-" morphology="-s---mn--i" head-id="1249200" relation="aux" presentation-after=" "/>
@@ -12008,7 +12008,7 @@
         <token id="1708464" empty-token-sort="V" relation="pred"/>
       </sentence>
       <sentence id="89466" status="reviewed">
-        <token id="1251545" form=" Ἦν" citation-part="33.4" lemma="εἰμί#1" part-of-speech="V-" morphology="3siia----i" relation="pred" presentation-before="-" presentation-after=" "/>
+        <token id="1251545" form="Ἦν" citation-part="33.4" lemma="εἰμί#1" part-of-speech="V-" morphology="3siia----i" relation="pred" presentation-before="- " presentation-after=" "/>
         <token id="1251546" form="δ’" citation-part="33.4" lemma="δέ" part-of-speech="Df" morphology="---------n" head-id="1251545" relation="aux" presentation-after=" "/>
         <token id="1251547" form="ὅ" citation-part="33.4" lemma="ὁ" part-of-speech="Pr" morphology="-s---na--i" head-id="1251548" relation="obj"/>
         <token id="1708465" form="περ" citation-part="33.4" lemma="πέρ" part-of-speech="Df" morphology="---------n" head-id="1251547" relation="aux" presentation-after=" "/>
@@ -13211,11 +13211,11 @@
       <sentence id="123178" status="reviewed">
         <token id="1252602" form="Εἰδές" citation-part="34.8" lemma="ὁράω" part-of-speech="V-" morphology="2saia----i" relation="pred" presentation-before="„" presentation-after=" "/>
         <token id="1252603" form="τον" citation-part="34.8" lemma="ὁ" part-of-speech="Pp" morphology="3s---ma--i" head-id="1252602" relation="obj" presentation-after=", "/>
-        <token id="1252604" form=" καὶ" citation-part="34.8" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1252605" relation="aux" presentation-before="-" presentation-after=" "/>
+        <token id="1252604" form="καὶ" citation-part="34.8" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1252605" relation="aux" presentation-before="- " presentation-after=" "/>
         <token id="1252605" form="παραλείπω" citation-part="34.8" lemma="παραλείπω" part-of-speech="V-" morphology="1spia----i" relation="parpred" presentation-after=" "/>
         <token id="1252606" form="τὴν" citation-part="34.8" lemma="ὁ" part-of-speech="S-" morphology="-s---fa--i" head-id="1252607" relation="aux" presentation-after=" "/>
         <token id="1252607" form="ὕβριν" citation-part="34.8" lemma="ὕβρις" part-of-speech="Nb" morphology="-s---fa--i" head-id="1252605" relation="obj" presentation-after=", "/>
-        <token id="1252608" form=" τὸν" citation-part="34.8" lemma="ὁ" part-of-speech="S-" morphology="-s---ma--i" head-id="1252609" relation="aux" presentation-before="-" presentation-after=" "/>
+        <token id="1252608" form="τὸν" citation-part="34.8" lemma="ὁ" part-of-speech="S-" morphology="-s---ma--i" head-id="1252609" relation="aux" presentation-before="- " presentation-after=" "/>
         <token id="1252609" form="μεσάζοντά" citation-part="34.8" lemma="μεσάζω" part-of-speech="V-" morphology="-sppama--i" head-id="1252603" relation="apos" presentation-after=" "/>
         <token id="1252610" form="σου" citation-part="34.8" lemma="σύ" part-of-speech="Pp" morphology="2s---mg--i" head-id="1252609" relation="atr" presentation-after="· "/>
       </sentence>
@@ -14598,7 +14598,7 @@
         <token id="1253777" form="οὐ" citation-part="36.3" lemma="οὐ" part-of-speech="Df" morphology="---------n" head-id="1253778" relation="aux" presentation-after=" "/>
         <token id="1253778" form="κατ’" citation-part="36.3" lemma="κατά" part-of-speech="R-" morphology="---------n" head-id="1253805" relation="adv" presentation-after=" "/>
         <token id="1253779" form="ἄγνοιαν" citation-part="36.3" lemma="ἄγνοια" part-of-speech="Nb" morphology="-s---fa--i" head-id="1253778" relation="obl" presentation-after=", "/>
-        <token id="1253780" form=" καὶ" citation-part="36.3" lemma="καί#1" part-of-speech="Df" morphology="---------n" head-id="1253787" relation="aux" presentation-before="-" presentation-after=" "/>
+        <token id="1253780" form="καὶ" citation-part="36.3" lemma="καί#1" part-of-speech="Df" morphology="---------n" head-id="1253787" relation="aux" presentation-before="- " presentation-after=" "/>
         <token id="1253781" form="γὰρ" citation-part="36.3" lemma="γάρ" part-of-speech="Df" morphology="---------n" head-id="1253787" relation="aux" presentation-after=" "/>
         <token id="1253782" form="καὶ" citation-part="36.3" lemma="καί#1" part-of-speech="Df" morphology="---------n" head-id="1253784" relation="aux" presentation-after=" "/>
         <token id="1253783" form="ὁ" citation-part="36.3" lemma="ὁ" part-of-speech="S-" morphology="-s---mn--i" head-id="1253784" relation="aux" presentation-after=" "/>
@@ -14623,7 +14623,7 @@
         <token id="1253802" form="Ἰταλίαν" citation-part="36.3" lemma="Ἰταλία" part-of-speech="Ne" morphology="-s---fa--i" head-id="1253800" relation="obl" presentation-after=" "/>
         <token id="1253803" form="οὐκ" citation-part="36.3" lemma="οὐ" part-of-speech="Df" morphology="---------n" head-id="1253804" relation="aux" presentation-after=" "/>
         <token id="1253804" form="εἶδον" citation-part="36.3" lemma="ὁράω" part-of-speech="V-" morphology="3paia----i" head-id="1253797" relation="pred" presentation-after=", "/>
-        <token id="1253805" form=" ἀλλὰ" citation-part="36.3" lemma="ἀλλά" part-of-speech="C-" morphology="---------n" head-id="1253772" relation="adv" presentation-before="-" presentation-after=" "/>
+        <token id="1253805" form="ἀλλὰ" citation-part="36.3" lemma="ἀλλά" part-of-speech="C-" morphology="---------n" head-id="1253772" relation="adv" presentation-before="- " presentation-after=" "/>
         <token id="1253806" form="διὰ" citation-part="36.3" lemma="διά" part-of-speech="R-" morphology="---------n" head-id="1253805" relation="adv" presentation-after=" "/>
         <token id="1253807" form="κακίαν" citation-part="36.3" lemma="κακία" part-of-speech="Nb" morphology="-s---fa--i" head-id="1253808" relation="obl" presentation-after=" "/>
         <token id="1253808" form="καὶ" citation-part="36.3" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1253806" relation="obl" presentation-after=" "/>
@@ -15691,13 +15691,13 @@
         </token>
         <token id="1254683" form="κατ’" citation-part="37.3" lemma="κατά" part-of-speech="R-" morphology="---------n" head-id="1254682" relation="adv" presentation-after=" "/>
         <token id="1254684" form="αὐτοῦ" citation-part="37.3" lemma="αὐτός" part-of-speech="Pp" morphology="3s---mg--i" head-id="1254683" relation="obl" presentation-after=", "/>
-        <token id="1254685" form=" οἴμοι" citation-part="37.3" lemma="οἴμοι" part-of-speech="I-" morphology="---------n" relation="voc" presentation-before="-" presentation-after=" "/>
+        <token id="1254685" form="οἴμοι" citation-part="37.3" lemma="οἴμοι" part-of-speech="I-" morphology="---------n" relation="voc" presentation-before="- " presentation-after=" "/>
         <token id="1254686" form="τῷ" citation-part="37.3" lemma="ὁ" part-of-speech="S-" morphology="-s---md--i" head-id="1254690" relation="aux" presentation-after=" "/>
         <token id="1254687" form="δυστυχεῖ" citation-part="37.3" lemma="δυστυχής" part-of-speech="A-" morphology="-s---mdp-i" head-id="1254688" relation="atr" presentation-after=" "/>
         <token id="1254688" form="καὶ" citation-part="37.3" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1254690" relation="atr" presentation-after=" "/>
         <token id="1254689" form="ἀθλίῳ" citation-part="37.3" lemma="ἄθλιος" part-of-speech="A-" morphology="-s---mdp-i" head-id="1254688" relation="atr" presentation-after=" "/>
         <token id="1254690" form="γενέτῃ" citation-part="37.3" lemma="γενέτης" part-of-speech="Nb" morphology="-s---md--i" head-id="1254685" relation="obl" presentation-after=", "/>
-        <token id="1254691" form=" χρόνου" citation-part="37.3" lemma="χρόνος" part-of-speech="Nb" morphology="-s---mg--i" head-id="1254694" relation="xadv" presentation-before="-" presentation-after=" ">
+        <token id="1254691" form="χρόνου" citation-part="37.3" lemma="χρόνος" part-of-speech="Nb" morphology="-s---mg--i" head-id="1254694" relation="xadv" presentation-before="- " presentation-after=" ">
           <slash target-id="1254694" relation="xsub"/>
         </token>
         <token id="1254692" form="ὄντος" citation-part="37.3" lemma="εἰμί#1" part-of-speech="V-" morphology="-sppamg--i" head-id="1254680" relation="apos" presentation-after=" "/>
@@ -16063,13 +16063,13 @@
         <token id="1255002" form="σαραγίῳ" citation-part="37.9" lemma="σαράγι" part-of-speech="Nb" morphology="-s---nd--i" head-id="1254998" relation="obl" presentation-after=" "/>
         <token id="1255003" form="λοιμώδει" citation-part="37.9" lemma="λοιμώδης" part-of-speech="A-" morphology="-s---fdp-i" head-id="1255004" relation="atr" presentation-after=" "/>
         <token id="1255004" form="νόσῳ" citation-part="37.9" lemma="νόσος" part-of-speech="Nb" morphology="-s---fd--i" head-id="1254992" relation="adv" presentation-after=", "/>
-        <token id="1255005" form=" ἰού" citation-part="37.9" lemma="ἰού" part-of-speech="I-" morphology="---------n" relation="voc" presentation-before="-" presentation-after=", "/>
+        <token id="1255005" form="ἰού" citation-part="37.9" lemma="ἰού" part-of-speech="I-" morphology="---------n" relation="voc" presentation-before="- " presentation-after=", "/>
         <token id="1255006" form="ἱού" citation-part="37.9" lemma="ἰού" part-of-speech="I-" morphology="---------n" head-id="1255005" relation="aux" presentation-after=" "/>
         <token id="1255007" form="μοι" citation-part="37.9" lemma="ἐγώ" part-of-speech="Pp" morphology="1s---md--i" head-id="1255005" relation="obl" presentation-after=" "/>
         <token id="1255008" form="τῷ" citation-part="37.9" lemma="ὁ" part-of-speech="S-" morphology="-s---md--i" head-id="1255010" relation="aux" presentation-after=" "/>
         <token id="1255009" form="ἀθλίῳ" citation-part="37.9" lemma="ἄθλιος" part-of-speech="A-" morphology="-s---mdp-i" head-id="1255010" relation="atr" presentation-after=" "/>
         <token id="1255010" form="γενέτῃ" citation-part="37.9" lemma="γενέτης" part-of-speech="Nb" morphology="-s---md--i" head-id="1255007" relation="apos" presentation-after=", "/>
-        <token id="1255011" form=" οὖσα" citation-part="37.9" lemma="εἰμί#1" part-of-speech="V-" morphology="-sppafn--i" head-id="1254993" relation="apos" presentation-before="-" presentation-after=" "/>
+        <token id="1255011" form="οὖσα" citation-part="37.9" lemma="εἰμί#1" part-of-speech="V-" morphology="-sppafn--i" head-id="1254993" relation="apos" presentation-before="- " presentation-after=" "/>
         <token id="1255012" form="χρονῶν" citation-part="37.9" lemma="χρόνος" part-of-speech="Nb" morphology="-p---mg--i" head-id="1255014" relation="xadv" presentation-after=" ">
           <slash target-id="1255014" relation="xsub"/>
         </token>
@@ -16657,14 +16657,14 @@
         <token id="1255513" form="καὶ" citation-part="38.4" lemma="καί" part-of-speech="C-" morphology="---------n" head-id="1255565" relation="sub" presentation-after=" "/>
         <token id="1255514" form="κύριος" citation-part="38.4" lemma="κύριος" part-of-speech="Nb" morphology="-s---mn--i" head-id="1255513" relation="sub" presentation-after=" "/>
         <token id="1255515" form="αὐτῶν" citation-part="38.4" lemma="αὐτός" part-of-speech="Pp" morphology="3p---mg--i" head-id="1255514" relation="atr" presentation-after=", "/>
-        <token id="1255516" form=" ἦν" citation-part="38.4" lemma="εἰμί#1" part-of-speech="V-" morphology="3siia----i" head-id="1255518" relation="aux" presentation-before="-" presentation-after=" "/>
+        <token id="1255516" form="ἦν" citation-part="38.4" lemma="εἰμί#1" part-of-speech="V-" morphology="3siia----i" head-id="1255518" relation="aux" presentation-before="- " presentation-after=" "/>
         <token id="1255517" form="γὰρ" citation-part="38.4" lemma="γάρ" part-of-speech="Df" morphology="---------n" head-id="1255518" relation="aux" presentation-after=" "/>
         <token id="1255518" form="εὑρισκόμενος" citation-part="38.4" lemma="εὑρίσκω" part-of-speech="V-" morphology="-sppmmn--i" relation="parpred" presentation-after=" "/>
         <token id="1255519" form="εἰς" citation-part="38.4" lemma="εἰς" part-of-speech="R-" morphology="---------n" head-id="1255518" relation="obl" presentation-after=" "/>
         <token id="1255520" form="τὴν" citation-part="38.4" lemma="ὁ" part-of-speech="S-" morphology="-s---fa--i" head-id="1255521" relation="aux" presentation-after=" "/>
         <token id="1255521" form="Μαντίνειαν" citation-part="38.4" lemma="Μαντίνεια" part-of-speech="Ne" morphology="-s---fa--i" head-id="1255519" relation="obl" presentation-after=" "/>
         <token id="1255522" form="πανοικί" citation-part="38.4" lemma="πανοικὶ" part-of-speech="Df" morphology="---------n" head-id="1255518" relation="adv" presentation-after=", "/>
-        <token id="1255523" form=" δραμὼν" citation-part="38.4" lemma="τρέχω" part-of-speech="V-" morphology="-sapamn--i" head-id="1255565" relation="xadv" presentation-before="-" presentation-after=" ">
+        <token id="1255523" form="δραμὼν" citation-part="38.4" lemma="τρέχω" part-of-speech="V-" morphology="-sapamn--i" head-id="1255565" relation="xadv" presentation-before="- " presentation-after=" ">
           <slash target-id="1255513" relation="xsub"/>
         </token>
         <token id="1255524" form="εἰς" citation-part="38.4" lemma="εἰς" part-of-speech="R-" morphology="---------n" head-id="1255523" relation="obl" presentation-after=" "/>
@@ -21529,7 +21529,7 @@
         </token>
       </sentence>
       <sentence id="89687" status="reviewed">
-        <token id="1259891" form=" Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="-" presentation-after=" "/>
+        <token id="1259891" form="Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="- " presentation-after=" "/>
         <token id="1259892" form="τὸ" citation-part="45.4" lemma="ὁ" part-of-speech="S-" morphology="-s---na--i" head-id="1259893" relation="aux" presentation-after=" "/>
         <token id="1259893" form="πνεῦμα" citation-part="45.4" lemma="πνεῦμα" part-of-speech="Nb" morphology="-s---na--i" head-id="1259914" relation="sub" presentation-after=" "/>
         <token id="1259894" form="ἅγιον" citation-part="45.4" lemma="ἅγιος" part-of-speech="A-" morphology="-s---nap-i" head-id="1259893" relation="atr" presentation-after=" "/>
@@ -21587,7 +21587,7 @@
         <token id="2013490" empty-token-sort="V" head-id="2013489" relation="adv"/>
       </sentence>
       <sentence id="89688" status="reviewed">
-        <token id="1259937" form=" Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="-" presentation-after=" "/>
+        <token id="1259937" form="Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="- " presentation-after=" "/>
         <token id="1259938" form="μὴ" citation-part="45.4" lemma="μή" part-of-speech="Df" morphology="---------n" head-id="1259940" relation="aux" presentation-after=" "/>
         <token id="1259939" form="ἄλλον" citation-part="45.4" lemma="ἄλλος" part-of-speech="A-" morphology="-s---map-i" head-id="1259946" relation="atr" presentation-after=" "/>
         <token id="1259940" form="εἶναι" citation-part="45.4" lemma="εἰμί#1" part-of-speech="V-" morphology="--pna----i" head-id="1259961" relation="comp" presentation-after=" "/>
@@ -21665,7 +21665,7 @@
         <token id="2013503" empty-token-sort="V" relation="pred"/>
       </sentence>
       <sentence id="89689" status="reviewed">
-        <token id="1259997" form=" Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="-" presentation-after=" "/>
+        <token id="1259997" form="Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="- " presentation-after=" "/>
         <token id="1259998" form="τὸν" citation-part="45.4" lemma="ὁ" part-of-speech="S-" morphology="-s---ma--i" head-id="1259999" relation="aux" presentation-after=" "/>
         <token id="1259999" form="υἱὸν" citation-part="45.4" lemma="υἱός" part-of-speech="Nb" morphology="-s---ma--i" head-id="1260024" relation="sub" presentation-after=" "/>
         <token id="1260000" form="τοῦ" citation-part="45.4" lemma="ὁ" part-of-speech="S-" morphology="-s---mg--i" head-id="1260001" relation="aux" presentation-after=" "/>
@@ -21722,7 +21722,7 @@
         <token id="1260051" form="Ὠριγένην" citation-part="45.4" lemma="Ὠριγένης" part-of-speech="Ne" morphology="-s---ma--i" head-id="1260048" relation="obl" presentation-after=". "/>
       </sentence>
       <sentence id="89690" status="reviewed">
-        <token id="1260052" form=" Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="-" presentation-after=" "/>
+        <token id="1260052" form="Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="- " presentation-after=" "/>
         <token id="1260053" form="τὸν" citation-part="45.4" lemma="ὁ" part-of-speech="S-" morphology="-s---ma--i" head-id="1260054" relation="aux" presentation-after=" "/>
         <token id="1260054" form="υἱὸν" citation-part="45.4" lemma="υἱός" part-of-speech="Nb" morphology="-s---ma--i" head-id="1260081" relation="sub" presentation-after=" "/>
         <token id="1260055" form="τοῦ" citation-part="45.4" lemma="ὁ" part-of-speech="S-" morphology="-s---mg--i" head-id="1260056" relation="aux" presentation-after=" "/>
@@ -21780,7 +21780,7 @@
         </token>
       </sentence>
       <sentence id="89691" status="reviewed">
-        <token id="1260103" form=" Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="-" presentation-after=" "/>
+        <token id="1260103" form="Πιστεύω" citation-part="45.4" lemma="πιστεύω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="- " presentation-after=" "/>
         <token id="1260104" form="τὰς" citation-part="45.4" lemma="ὁ" part-of-speech="S-" morphology="-p---fa--i" head-id="1260106" relation="aux" presentation-after=" "/>
         <token id="1260105" form="εἰκονικὰς" citation-part="45.4" lemma="εἰκονικός" part-of-speech="A-" morphology="-p---fap-i" head-id="1260106" relation="atr" presentation-after=" "/>
         <token id="1260106" form="ἀνατυπώσεις" citation-part="45.4" lemma="ἀνατύπωσις" part-of-speech="Nb" morphology="-p---fa--i" head-id="1260116" relation="obj" presentation-after=", "/>
@@ -21823,7 +21823,7 @@
         <token id="1260139" form="Βασίλειον" citation-part="45.4" lemma="Βασίλειος" part-of-speech="Ne" morphology="-s---ma--i" head-id="1260136" relation="obl" presentation-after=". "/>
       </sentence>
       <sentence id="89693" status="reviewed">
-        <token id="1260188" form=" Ὁμολογῶ" citation-part="45.4" lemma="ὁμολογέω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="-" presentation-after=" "/>
+        <token id="1260188" form="Ὁμολογῶ" citation-part="45.4" lemma="ὁμολογέω" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-before="- " presentation-after=" "/>
         <token id="1260189" form="βεβαίως" citation-part="45.4" lemma="βεβαίως" part-of-speech="Df" morphology="---------n" head-id="1260188" relation="adv" presentation-after=" "/>
         <token id="1260190" form="τὸ" citation-part="45.4" lemma="ὁ" part-of-speech="S-" morphology="-s---na--i" head-id="1260191" relation="aux" presentation-after=" "/>
         <token id="1260191" form="πνεῦμα" citation-part="45.4" lemma="πνεῦμα" part-of-speech="Nb" morphology="-s---na--i" head-id="1260206" relation="sub" presentation-after=" "/>
@@ -23133,7 +23133,7 @@
           <slash target-id="1261322" relation="xsub"/>
         </token>
         <token id="1261322" form="παθεῖν" citation-part="48.3" lemma="πάσχω" part-of-speech="V-" morphology="--ana----i" head-id="1770516" relation="comp" presentation-after=", "/>
-        <token id="1261323" form=" τὶς" citation-part="48.3" lemma="τίς" part-of-speech="Pi" morphology="-s---mn--i" head-id="1261325" relation="sub" presentation-before="-" presentation-after=" "/>
+        <token id="1261323" form="τὶς" citation-part="48.3" lemma="τίς" part-of-speech="Pi" morphology="-s---mn--i" head-id="1261325" relation="sub" presentation-before="- " presentation-after=" "/>
         <token id="1261324" form="γὰρ" citation-part="48.3" lemma="γάρ" part-of-speech="Df" morphology="---------n" head-id="1261325" relation="aux" presentation-after=" "/>
         <token id="1261325" form="οἷδε" citation-part="48.3" lemma="ὅδε" part-of-speech="Pd" morphology="-p---mn--i" relation="parpred" presentation-after=" "/>
         <token id="1261326" form="τὸ" citation-part="48.3" lemma="ὁ" part-of-speech="S-" morphology="-s---na--i" head-id="1261327" relation="aux" presentation-after=" "/>
@@ -23141,7 +23141,7 @@
         <token id="1261328" form="τῶν" citation-part="48.3" lemma="ὁ" part-of-speech="S-" morphology="-p---qg--i" head-id="1261330" relation="aux" presentation-after=" "/>
         <token id="1261329" form="σῶν" citation-part="48.3" lemma="σός" part-of-speech="Ps" morphology="2p---ng--i" head-id="1261330" relation="atr" presentation-after=" "/>
         <token id="1261330" form="κριμάτων" citation-part="48.3" lemma="κρίμα" part-of-speech="Nb" morphology="-p---ng--i" head-id="1261327" relation="atr" presentation-after="; "/>
-        <token id="1261331" form=" τῆς" citation-part="48.3" lemma="ὁ" part-of-speech="S-" morphology="-s---fg--i" head-id="1261334" relation="aux" presentation-before="-" presentation-after=" "/>
+        <token id="1261331" form="τῆς" citation-part="48.3" lemma="ὁ" part-of-speech="S-" morphology="-s---fg--i" head-id="1261334" relation="aux" presentation-before="- " presentation-after=" "/>
         <token id="1261332" form="μὲν" citation-part="48.3" lemma="μέν" part-of-speech="Df" morphology="---------n" head-id="1261339" relation="aux" presentation-after=" "/>
         <token id="1261333" form="σῆς" citation-part="48.3" lemma="σός" part-of-speech="Ps" morphology="2s---fg--i" head-id="1261334" relation="atr" presentation-after=" "/>
         <token id="1261334" form="φιλανθρωπίας" citation-part="48.3" lemma="φιλανθρωπία" part-of-speech="Nb" morphology="-s---fg--i" head-id="1261339" relation="sub" presentation-after=" "/>

@@ -33870,7 +33870,7 @@
 2	Pontio	Pontius	N	Ne	NUMBs|GENDm|CASEb	1	obl	_	_
 3	ex	ex	R	R-	INFLn	1	apos	_	_
 4	Trebulano	Trebulanus	A	A-	NUMBs|GENDn|CASEb|DEGRp	3	obl	_	_
-5	a..d..v.Idus.Maias.	calendar.expression	D	Df	INFLn	0	adv(6)pred	_	_
+5	a..d..v.Idus.Maias	calendar.expression	D	Df	INFLn	0	adv(6)pred	_	_
 
 1	ibi	ibi	D	Df	INFLn	2	adv	_	_
 2	accepi	accipio	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
