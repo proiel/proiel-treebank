@@ -92,12 +92,18 @@
         <value tag="g" summary="gerundive"/>
         <value tag="u" summary="supine"/>
         <value tag="x" summary="uncertain mood"/>
+        <value tag="y" summary="finiteness unspecified"/>
+        <value tag="e" summary="indicative or subjunctive"/>
+        <value tag="f" summary="indicative or imperative"/>
+        <value tag="h" summary="subjunctive or imperative"/>
+        <value tag="t" summary="finite"/>
       </field>
       <field tag="voice">
         <value tag="a" summary="active"/>
         <value tag="m" summary="middle"/>
         <value tag="p" summary="passive"/>
         <value tag="e" summary="middle or passive"/>
+        <value tag="x" summary="unspecified"/>
       </field>
       <field tag="gender">
         <value tag="m" summary="masculine"/>
@@ -115,18 +121,21 @@
         <value tag="o" summary="oblique"/>
         <value tag="g" summary="genitive"/>
         <value tag="c" summary="genitive or dative"/>
+        <value tag="e" summary="accusative or dative"/>
         <value tag="d" summary="dative"/>
         <value tag="b" summary="ablative"/>
         <value tag="i" summary="instrumental"/>
         <value tag="l" summary="locative"/>
         <value tag="v" summary="vocative"/>
         <value tag="x" summary="uncertain case"/>
+        <value tag="z" summary="no case"/>
       </field>
       <field tag="degree">
         <value tag="p" summary="positive"/>
         <value tag="c" summary="comparative"/>
         <value tag="s" summary="superlative"/>
         <value tag="x" summary="uncertain degree"/>
+        <value tag="z" summary="no degree"/>
       </field>
       <field tag="strength">
         <value tag="w" summary="weak"/>
