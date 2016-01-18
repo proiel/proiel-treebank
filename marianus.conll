@@ -1613,7 +1613,7 @@
 1	ꙇ҅	и	C	C-	INFLn	2	aux	_	_
 2	бꙑⷭ҇	бꙑти	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
 3	егда	ѥгда	D	Dq	INFLn	4	adv	_	_
-4	съконьча	съконьчати	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	2	obj	_	_
+4	съконьча	съконьчати	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	2	adv	_	_
 5	и҃съ	исоусъ	N	Ne	NUMBs|GENDm|CASEn	4	sub	_	_
 6	вьсѣ	вьсь	P	Px	NUMBp|GENDn|CASEa	7	atr	_	_
 7	словеса	слово	N	Nb	NUMBp|GENDn|CASEa	4	obj	_	_
@@ -3183,7 +3183,7 @@
 5	змиѩ	змиꙗ	N	Nb	NUMBp|GENDf|CASEn	4	sub	_	_
 6	ꙇ	и	C	C-	INFLn	1	xobj	_	_
 7	цѣли	цѣлъ	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREs	6	xobj	_	_
-8	ѣко	ꙗко	G	G-	INFLn	7	adv	_	_
+8	ѣко	ꙗко#1	D	Df	INFLn	7	adv	_	_
 9	голѫбье	голѫбь	N	Nb	NUMBp|GENDm|CASEn	8	sub	_	_
 
 1	Вьнемлѣте	вънимати	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	0	pred	_	_
@@ -5757,7 +5757,7 @@
 2	праведьнии	правьдьнъ	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	3	sub	_	_
 3	просвьтѧтъ	просвьтѣти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 4	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	3	aux	_	_
-5	ѣко	ꙗко	G	G-	INFLn	3	adv	_	_
+5	ѣко	ꙗко#1	D	Df	INFLn	3	adv	_	_
 6	слъньце	слъньце	N	Nb	NUMBs|GENDn|CASEn	5	sub	_	_
 7	въ	въ	R	R-	INFLn	3	adv	_	_
 8	ц҃срствии	цѣсарьствиѥ	N	Nb	NUMBs|GENDn|CASEl	7	obl	_	_
@@ -7745,7 +7745,7 @@
 9	съмръти	съмрьть	N	Nb	NUMBs|GENDf|CASEg	10	obl	_	_
 10	въкоусити	въкоусити	V	V-	TENSp|MOODn|VOICa	8	xobj	_	_
 11	доньдеже	доньде	G	G-	INFLn	8	adv	_	_
-12	видѧтъ	видѣти	V	V-	TENSp|MOODn|VOICa	11	aux	_	_
+12	видѧтъ	видѣти	V	V-	TENSp|MOODn|VOICa	11	pred	_	_
 13	с҃нъ	сꙑнъ#1	N	Nb	NUMBs|GENDm|CASEa	12	obj	_	_
 14	ч҃лвчскꙑ	чловѣчьскъ	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREw	13	atr	_	_
 15	грѧдѫшть	грѧсти	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEa|STREs	12	xobj	_	_
@@ -54912,7 +54912,7 @@
 6	слово	слово	N	Nb	NUMBs|GENDn|CASEn	9	sub	_	_
 7	мое	мои	P	Ps	PERS1|NUMBs|GENDn|CASEn	6	atr	_	_
 8	не	не	D	Df	INFLn	9	aux	_	_
-9	вьмѣштаатъ	въмѣщати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	5	sub	_	_
+9	вьмѣштаатъ	въмѣщати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	5	pred	_	_
 10	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	9	aux	_	_
 11	въ	въ	R	R-	INFLn	9	obl	_	_
 12	васъ	вꙑ	P	Pp	PERS2|NUMBp|GENDq|CASEg	11	obl	_	_

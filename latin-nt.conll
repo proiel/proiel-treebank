@@ -12383,7 +12383,7 @@
 
 1	quomodo	quomodo	D	Du	INFLn	3	adv	_	_
 2	continuo	continuo	D	Df	INFLn	3	adv	_	_
-3	aruit	aresco	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+3	aruit	areo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 
 1	respondens	respondeo	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDn|CASEn	4	xadv	_	_
 2	autem	autem	D	Df	INFLn	4	aux	_	_
@@ -26087,7 +26087,7 @@
 3	ficus	ficus	N	Nb	NUMBs|GENDf|CASEn	6	sub	_	_
 4	cui	qui	P	Pr	NUMBs|GENDf|CASEd	5	obl	_	_
 5	maledixisti	maledico	V	V-	PERS2|NUMBs|TENSr|MOODi|VOICa	3	atr	_	_
-6	aruit	aresco	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+6	aruit	areo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 
 1	et	et	C	C-	INFLn	4	aux	_	_
 2	respondens	respondeo	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn	4	xadv	_	_
@@ -29245,7 +29245,7 @@
 5	intro	intro	D	Df	INFLn	3	obl	_	_
 6	in	in	R	R-	INFLn	5	apos	_	_
 7	atrium	atrium	N	Nb	NUMBs|GENDn|CASEa	6	obl	_	_
-8	praetorii	praetorium	N	Nb	NUMBs|GENDm|CASEg	7	atr	_	_
+8	praetorii	praetorium	N	Nb	NUMBs|GENDn|CASEg	7	atr	_	_
 9	et	et	C	C-	INFLn	0	pred	_	_
 10	convocant	convoco	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	9	pred	_	_
 11	totam	totus	A	A-	NUMBs|GENDf|CASEa|DEGRp	12	atr	_	_
@@ -36260,7 +36260,7 @@
 
 1	et	et	C	C-	INFLn	3	aux	_	_
 2	natum	nascor	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn	3	xadv	_	_
-3	aruit	aresco	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+3	aruit	areo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 4	quia	quia	G	G-	INFLn	3	adv	_	_
 5	non	non	D	Df	INFLn	6	aux	_	_
 6	habebat	habeo	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	4	pred	_	_
@@ -61744,7 +61744,7 @@
 9	sicut	sicut	D	Df	INFLn	7	adv	_	_
 10	palmes	palmes	N	Nb	NUMBs|GENDm|CASEn	9	sub	_	_
 11	et	et	C	C-	INFLn	0	pred	_	_
-12	aruit	aresco	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	11	pred	_	_
+12	aruit	areo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	11	pred	_	_
 13	et	et	C	C-	INFLn	11	aux	_	_
 14	colligent	colligo	V	V-	PERS3|NUMBp|TENSf|MOODi|VOICa	11	pred	_	_
 15	eos	is	P	Pp	PERS3|NUMBp|GENDm|CASEa	14	obj	_	_
@@ -84875,7 +84875,7 @@
 7	circuitu	circuitus	N	Nb	NUMBs|GENDm|CASEb	6	obl	_	_
 8	sedis	sedes	N	Nb	NUMBs|GENDf|CASEg	7	part	_	_
 9	quattuor	quattuor	M	Ma	INFLn	10	atr	_	_
-10	animalia	animalis	A	A-	NUMBp|GENDn|CASEn|DEGRp	0	sub(16)pred	_	_
+10	animalia	animal	N	Nb	NUMBp|GENDn|CASEn	0	sub(16)pred	_	_
 11	plena	plenus	A	A-	NUMBp|GENDn|CASEn|DEGRp	10	atr	_	_
 12	oculis	oculus	N	Nb	NUMBp|GENDm|CASEb	11	obl	_	_
 13	ante	ante	D	Df	INFLn	14	adv	_	_
@@ -84953,7 +84953,7 @@
 2	cum	cum	G	G-	INFLn	18	adv	_	_
 3	darent	do	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	2	pred	_	_
 4	illa	ille	P	Pd	NUMBs|GENDf|CASEn	5	aux	_	_
-5	animalia	animalis	A	A-	NUMBp|GENDn|CASEn|DEGRp	3	sub	_	_
+5	animalia	animal	N	Nb	NUMBp|GENDn|CASEn	3	sub	_	_
 6	gloriam	gloria	N	Nb	NUMBs|GENDf|CASEa	7	obj	_	_
 7	et	et	C	C-	INFLn	3	obj	_	_
 8	honorem	honor	N	Nb	NUMBs|GENDm|CASEa	7	obj	_	_
@@ -85087,9 +85087,9 @@
 3	aperuisset	aperio	V	V-	PERS3|NUMBs|TENSl|MOODs|VOICa	2	pred	_	_
 4	librum	liber	N	Nb	NUMBs|GENDm|CASEa	3	obj	_	_
 5	quattuor	quattuor	M	Ma	INFLn	6	atr	_	_
-6	animalia	animalis	A	A-	NUMBp|GENDn|CASEn|DEGRp	7	sub	_	_
+6	animalia	animal	N	Nb	NUMBp|GENDn|CASEn	7	sub	_	_
 7	et	et	C	C-	INFLn	10	sub	_	_
-8	viginti.quattuor	viginti	M	Ma	INFLn	9	atr	_	_
+8	viginti.quattuor	viginti.quattuor	M	Ma	INFLn	9	atr	_	_
 9	seniores	senex	A	A-	NUMBp|GENDm|CASEn|DEGRc	7	sub	_	_
 10	ceciderunt	cado	V	V-	PERS3|NUMBp|TENSr|MOODi|VOICa	0	pred	_	_
 11	coram	coram	R	R-	INFLn	10	obl	_	_
@@ -85138,7 +85138,7 @@
 9	circuitu	circuitus	N	Nb	NUMBs|GENDm|CASEb	8	obl	_	_
 10	throni	thronus	N	Nb	NUMBs|GENDm|CASEg	11	atr	_	_
 11	et	et	C	C-	INFLn	9	atr	_	_
-12	animalium	animalis	A	A-	NUMBp|GENDn|CASEg|DEGRp	11	atr	_	_
+12	animalium	animal	N	Nb	NUMBp|GENDn|CASEg	11	atr	_	_
 13	et	et	C	C-	INFLn	11	aux	_	_
 14	seniorum	senex	A	A-	NUMBp|GENDm|CASEg|DEGRc	11	atr	_	_
 
@@ -85316,7 +85316,7 @@
 5	in	in	R	R-	INFLn	2	obl	_	_
 6	medio	medius	A	A-	NUMBs|GENDn|CASEb|DEGRp	5	obl	_	_
 7	quattuor	quattuor	M	Ma	INFLn	8	atr	_	_
-8	animalium	animalis	A	A-	NUMBp|GENDn|CASEg|DEGRp	6	part	_	_
+8	animalium	animal	N	Nb	NUMBp|GENDn|CASEg	6	part	_	_
 9	dicentem	dico	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEa	2	xobj	_	_
 
 1	bilibris	bilibris	A	A-	NUMBs|GENDm|CASEn|DEGRp	4	sub(15)pred	_	_
@@ -85744,7 +85744,7 @@
 9	seniorum	senex	A	A-	NUMBp|GENDm|CASEg|DEGRc	8	atr	_	_
 10	et	et	C	C-	INFLn	8	aux	_	_
 11	quattuor	quattuor	M	Ma	INFLn	12	atr	_	_
-12	animalium	animalis	A	A-	NUMBp|GENDn|CASEg|DEGRp	8	atr	_	_
+12	animalium	animal	N	Nb	NUMBp|GENDn|CASEg	8	atr	_	_
 
 1	et	et	C	C-	INFLn	2	aux	_	_
 2	ceciderunt	cado	V	V-	PERS3|NUMBp|TENSr|MOODi|VOICa	9	pred	_	_
@@ -88240,7 +88240,7 @@
 9	ut	ut	G	G-	INFLn	8	comp	_	_
 10	metatur	meto	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICp	9	pred	_	_
 11	quoniam	quoniam	G	G-	INFLn	7	adv	_	_
-12	aruit	aresco	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	11	pred	_	_
+12	aruit	areo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	11	pred	_	_
 13	messis	messis	N	Nb	NUMBs|GENDf|CASEn	12	sub	_	_
 14	terrae	terra	N	Nb	NUMBs|GENDf|CASEg	13	atr	_	_
 

@@ -14731,7 +14731,7 @@
 1	Terentiae	Terentia	N	Ne	NUMBs|GENDf|CASEd	2	obl	_	_
 2	pergrata	pergratus	A	A-	NUMBs|GENDf|CASEn|DEGRp	3	xobj	_	_
 3	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
-4	adsiduitas	adsiduitas	N	Nb	NUMBs|GENDf|CASEn	6	sub	_	_
+4	adsiduitas	assiduitas	N	Nb	NUMBs|GENDf|CASEn	6	sub	_	_
 5	tua	tuus	P	Ps	PERS2|NUMBs|GENDf|CASEn	6	atr	_	_
 6	et	et	C	C-	INFLn	3	sub	_	_
 7	diligentia	diligentia	N	Nb	NUMBs|GENDf|CASEn	6	sub	_	_
@@ -15163,7 +15163,7 @@
 14	non	non	D	Df	INFLn	15	aux	_	_
 15	oportuit	oportet	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	11	apos	_	_
 16	aliquando	aliquando	D	Df	INFLn	17	adv	_	_
-17	revertamur	reverto	V	V-	PERS1|NUMBp|TENSp|MOODs|VOICp	10	pred	_	_
+17	revertamur	revertor	V	V-	PERS1|NUMBp|TENSp|MOODs|VOICp	10	pred	_	_
 
 1	quod	quod	G	G-	INFLn	10	adv	_	_
 2	de	de	R	R-	INFLn	6	adv	_	_
@@ -16542,7 +16542,7 @@
 2	tamen	tamen	D	Df	INFLn	6	aux	_	_
 3	si	si	G	G-	INFLn	6	adv	_	_
 4	erit	sum	V	V-	PERS3|NUMBs|TENSf|MOODi|VOICa	3	pred	_	_
-5	necesse	necesse	A	A-	NUMBs|GENDn|CASEn|DEGRp	4	xobj	_	_
+5	necesse	necesse	D	Df	INFLn	4	xobj	_	_
 6	arcessemus	arcesso	V	V-	PERS1|NUMBp|TENSf|MOODi|VOICa	0	pred	_	_
 
 1	quid	quis	P	Pi	NUMBs|GENDn|CASEa	0	obj(3)pred	_	_
@@ -33789,7 +33789,7 @@
 6	velis	volo#1	V	V-	PERS2|NUMBs|TENSp|MOODs|VOICa	7	comp	_	_
 7	nescio	nescio	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 
-1	nullas	nullus	A	A-	NUMBp|GENDf|CASEa|DEGRp	4	obj	_	_
+1	nullas	nullus	P	Px	NUMBp|GENDf|CASEa	4	obj	_	_
 2	enim	enim	D	Df	INFLn	4	aux	_	_
 3	adhuc	adhuc	D	Df	INFLn	4	adv	_	_
 4	acceperam	accipio	V	V-	PERS1|NUMBs|TENSl|MOODi|VOICa	0	pred	_	_
@@ -35499,7 +35499,7 @@
 8	cum	cum	G	G-	INFLn	6	adv	_	_
 9	ad	ad	R	R-	INFLn	12	obl	_	_
 10	te	tu	P	Pp	PERS2|NUMBs|GENDm|CASEa	9	obl	_	_
-11	nullas	nullus	A	A-	NUMBp|GENDf|CASEa|DEGRp	12	obj	_	_
+11	nullas	nullus	P	Px	NUMBp|GENDf|CASEa	12	obj	_	_
 12	darem	do	V	V-	PERS1|NUMBs|TENSi|MOODs|VOICa	8	pred	_	_
 
 1	at	at	D	Df	INFLn	6	aux	_	_
@@ -37848,7 +37848,7 @@
 2	tua	tuus	P	Ps	PERS2|NUMBs|GENDf|CASEb	4	atr(8)narg	_	_
 3	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 4	opus	opus	N	Nb	NUMBs|GENDn|CASEn	3	sub	_	_
-5	adsiduitate	adsiduitas	N	Nb	NUMBs|GENDf|CASEb	4	narg(8)narg	_	_
+5	adsiduitate	assiduitas	N	Nb	NUMBs|GENDf|CASEb	4	narg(8)narg	_	_
 6	prudentia	prudentia	N	Nb	NUMBs|GENDf|CASEb	4	narg(8)narg	_	_
 7	gratia	gratia	N	Nb	NUMBs|GENDf|CASEb	4	narg(8)narg	_	_
 

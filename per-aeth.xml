@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2015-10-27T18:45:02+00:00" schema-version="2.0">
+<proiel export-time="2016-01-18T16:28:05+00:00" schema-version="2.0">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -170,7 +170,7 @@
     <funder>Research Council of Norway</funder>
     <distributor>Department of Philosophy, Classics, History of Arts and Ideas</distributor>
     <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
-    <date>27 October 2015</date>
+    <date>18 January 2016</date>
     <license>CC BY-NC-SA 3.0</license>
     <license-url>http://creativecommons.org/licenses/by-nc-sa/3.0/us/</license-url>
     <editor>Dag Haug</editor>
@@ -2637,7 +2637,7 @@
           <slash target-id="768387" relation="xsub"/>
         </token>
         <token id="768391" form="quia" citation-part="V.7" lemma="quia" part-of-speech="G-" morphology="---------n" head-id="768388" relation="adv" presentation-after=" "/>
-        <token id="768392" form="incensa" citation-part="V.7" lemma="incense" part-of-speech="V-" morphology="-srppfn--i" head-id="768391" relation="pred" presentation-after=" "/>
+        <token id="768392" form="incensa" citation-part="V.7" lemma="incendo" part-of-speech="V-" morphology="-srppfn--i" head-id="768391" relation="pred" presentation-after=" "/>
         <token id="768393" form="est" citation-part="V.7" lemma="sum" part-of-speech="V-" morphology="3spia----i" head-id="768392" relation="aux" presentation-after=" "/>
         <token id="768394" form="quaedam" citation-part="V.7" lemma="quidam" part-of-speech="Px" morphology="-s---fn--i" head-id="768395" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="768395" form="pars" citation-part="V.7" lemma="pars" part-of-speech="Nb" morphology="-s---fn--i" head-id="768392" relation="sub" information-status="new" presentation-after=" "/>

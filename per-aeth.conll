@@ -2010,7 +2010,7 @@
 10	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	9	aux	_	_
 11	incendium	incendium	N	Nb	NUMBs|GENDn|CASEn	9	xobj	_	_
 12	quia	quia	G	G-	INFLn	9	adv	_	_
-13	incensa	incense	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEn	12	pred	_	_
+13	incensa	incendo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEn	12	pred	_	_
 14	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	13	aux	_	_
 15	quaedam	quidam	P	Px	NUMBs|GENDf|CASEn	16	atr	_	_
 16	pars	pars	N	Nb	NUMBs|GENDf|CASEn	13	sub	_	_
