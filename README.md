@@ -30,7 +30,7 @@ The following texts are included in this release of the treebank:
   Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     | 41901 tokens
   Peregrinatio Aetheriae (ed. Heraeus 1908)           | Latin               | per-aeth    | 18356 tokens
   Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         | 81495 tokens
-  Sphrantzes, Chronicles (post-1453) (ed. Grecu 1966) | Ancient Greek       | chron       | 19295 tokens
+  Sphrantzes, Chronicles (post-1453) (ed. Grecu 1966) | Ancient Greek       | chron       | 23756 tokens
 
 (The 'size' column in the table above shows the number of annotated tokens in
 a text. The number of tokens will be slightly larger than the number of words
