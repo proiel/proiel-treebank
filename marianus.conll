@@ -993,7 +993,7 @@
 2	вꙑ	вꙑ	P	Pp	PERS2|NUMBp|GENDq|CASEn	7	sub	_	_
 3	ли	ли	D	Du	INFLn	7	aux	_	_
 4	паче	паче	D	Df	DEGRc	6	adv	_	_
-5	ихъ	и	P	Pp	PERS3|NUMBp|GENDf|CASEg	6	comp	_	_
+5	ихъ	и	P	Pp	PERS3|NUMBp|GENDf|CASEg	6	obl	_	_
 6	лоучъши	лоучии	A	A-	NUMBp|GENDm|CASEn|DEGRc|STREs	7	xobj	_	_
 7	есте	бꙑти	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 
@@ -20058,7 +20058,7 @@
 38	поѣсѣ	поꙗсъ	N	Nb	NUMBs|GENDm|CASEl	37	obl	_	_
 39	мѣди	мѣдь	N	Nb	NUMBs|GENDf|CASEg	34	apos	_	_
 40	нъ	нъ	C	C-	INFLn	21	comp	_	_
-41	обоувенꙑ	обоути	V	V-	NUMBp|TENSu|MOODp|VOICp|GENDm|CASEa|STREs	44	comp	_	_
+41	обоувенꙑ	обоути	V	V-	NUMBp|TENSu|MOODp|VOICp|GENDm|CASEa|STREs	44	xobj(51)comp	_	_
 42	въ	въ	R	R-	INFLn	41	obl	_	_
 43	сандалиѩ	санъдалиꙗ	N	Nb	NUMBp|GENDf|CASEa	42	obl	_	_
 44	ꙇ	и	C	C-	INFLn	40	comp	_	_
@@ -28993,7 +28993,7 @@
 1	б҃лгсна	благословлѥнъ	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREs	0	xobj(5)pred	_	_
 2	тꙑ	тꙑ	P	Pp	PERS2|NUMBs|GENDq|CASEn	0	sub(5)pred	_	_
 3	въ	въ	R	R-	INFLn	0	adv(5)pred	_	_
-4	женахъ	жена	N	Nb	NUMBp|GENDf|CASEl	3	comp	_	_
+4	женахъ	жена	N	Nb	NUMBp|GENDf|CASEl	3	obl	_	_
 
 1	она	онъ	P	Pd	NUMBs|GENDf|CASEn	4	sub	_	_
 2	же	же	D	Df	INFLn	4	aux	_	_
@@ -39595,7 +39595,7 @@
 7	како	како	D	Du	INFLn	8	adv	_	_
 8	оудръжѫ	оудрьжати	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
 9	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	8	aux	_	_
-10	доньдеже	доньде	G	G-	INFLn	8	comp	_	_
+10	доньдеже	доньде	G	G-	INFLn	8	adv	_	_
 11	коньчаатъ	коньчати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	10	pred	_	_
 12	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	11	aux	_	_
 

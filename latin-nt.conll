@@ -679,7 +679,7 @@
 10	in	in	R	R-	INFLn	9	obl	_	_
 11	Aegyptum	Aegyptus	N	Ne	NUMBs|GENDf|CASEa	10	obl	_	_
 12	et	et	C	C-	INFLn	13	aux	_	_
-13	esto	edo#1	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	2	pred	_	_
+13	esto	sum	V	V-	PERS2|NUMBs|TENSf|MOODm|VOICa	2	pred	_	_
 14	ibi	ibi	D	Df	INFLn	13	xobj	_	_
 15	usque	usque	D	Df	INFLn	16	adv	_	_
 16	dum	dum	G	G-	INFLn	13	adv	_	_
@@ -3929,7 +3929,7 @@
 3	ei	is	P	Pp	PERS3|NUMBs|GENDm|CASEd	2	obl	_	_
 4	Iesus	Iesus	N	Ne	NUMBs|GENDm|CASEn	2	sub	_	_
 
-1	vulpes	vulpis	N	Nb	NUMBp|GENDf|CASEn	3	sub	_	_
+1	vulpes	vulpes	N	Nb	NUMBp|GENDf|CASEn	3	sub	_	_
 2	foveas	fovea	N	Nb	NUMBp|GENDf|CASEa	3	obj	_	_
 3	habent	habeo	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	4	pred	_	_
 4	et	et	C	C-	INFLn	0	pred	_	_
@@ -31831,7 +31831,7 @@
 4	usque	usque	D	Df	INFLn	5	adv	_	_
 5	ad	ad	R	R-	INFLn	3	atr	_	_
 6	annos	annus	N	Nb	NUMBp|GENDm|CASEa	5	obl	_	_
-7	octoginta.quattuor	octoginta	M	Ma	INFLn	6	atr	_	_
+7	octoginta.quattuor	octoginta.quattuor	M	Ma	INFLn	6	atr	_	_
 8	quae	qui	P	Pr	NUMBs|GENDf|CASEn	10	sub	_	_
 9	non	non	D	Df	INFLn	10	aux	_	_
 10	discedebat	discedo	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	3	apos	_	_
@@ -38361,7 +38361,7 @@
 3	illi	ille	P	Pd	NUMBs|GENDm|CASEd	2	obl	_	_
 4	Iesus	Iesus	N	Ne	NUMBs|GENDm|CASEn	2	sub	_	_
 
-1	vulpes	vulpis	N	Nb	NUMBp|GENDf|CASEn	3	sub	_	_
+1	vulpes	vulpes	N	Nb	NUMBp|GENDf|CASEn	3	sub	_	_
 2	foveas	fovea	N	Nb	NUMBp|GENDf|CASEa	3	obj	_	_
 3	habent	habeo	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	4	pred	_	_
 4	et	et	C	C-	INFLn	0	pred	_	_
@@ -41929,7 +41929,7 @@
 1	ite	eo	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	0	pred	_	_
 
 1	dicite	dico	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	0	pred	_	_
-2	vulpi	vulpis	N	Nb	NUMBs|GENDf|CASEd	1	obl	_	_
+2	vulpi	vulpes	N	Nb	NUMBs|GENDf|CASEd	1	obl	_	_
 3	illi	ille	P	Pd	NUMBs|GENDf|CASEd	2	atr	_	_
 
 1	ecce	ecce	I	I-	INFLn	0	voc	_	_
@@ -44682,7 +44682,7 @@
 
 1	Deus	deus	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
 2	propitius	propitius	A	A-	NUMBs|GENDm|CASEn|DEGRp	3	xobj	_	_
-3	esto	edo#1	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+3	esto	sum	V	V-	PERS2|NUMBs|TENSf|MOODm|VOICa	0	pred	_	_
 4	mihi	ego	P	Pp	PERS1|NUMBs|GENDm|CASEd	2	obl	_	_
 5	peccatori	peccator	N	Nb	NUMBs|GENDm|CASEd	4	apos	_	_
 
@@ -47558,7 +47558,7 @@
 9	quod	qui	P	Pr	NUMBs|GENDn|CASEn	12	sub	_	_
 10	pro	pro	R	R-	INFLn	12	obl	_	_
 11	vobis	vos	P	Pp	PERS2|NUMBp|GENDm|CASEb	10	obl	_	_
-12	funditur	fundo#2	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	5	apos	_	_
+12	funditur	fundo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	5	apos	_	_
 
 1	verumtamen	verumtamen	D	Df	INFLn	8	aux	_	_
 2	ecce	ecce	I	I-	INFLn	0	voc	_	_
@@ -83855,7 +83855,7 @@
 9	reliquisti	relinquo	V	V-	PERS2|NUMBs|TENSr|MOODi|VOICa	5	pred	_	_
 
 1	memor	memor	A	A-	NUMBs|GENDm|CASEn|DEGRp	2	xobj	_	_
-2	esto	edo#1	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	esto	sum	V	V-	PERS2|NUMBs|TENSf|MOODm|VOICa	0	pred	_	_
 3	itaque	itaque	D	Df	INFLn	2	aux	_	_
 4	unde	unde	D	Du	INFLn	5	obl	_	_
 5	excideris	excido#1	V	V-	PERS2|NUMBs|TENSr|MOODs|VOICa	1	comp	_	_
@@ -83971,7 +83971,7 @@
 4	diebus	dies	N	Nb	NUMBp|GENDf|CASEb	2	adv	_	_
 5	decem	decem	M	Ma	INFLn	4	atr	_	_
 
-1	esto	edo#1	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	6	pred	_	_
+1	esto	sum	V	V-	PERS2|NUMBs|TENSf|MOODm|VOICa	6	pred	_	_
 2	fidelis	fidelis	A	A-	NUMBs|GENDm|CASEn|DEGRp	1	xobj	_	_
 3	usque	usque	D	Df	INFLn	4	adv	_	_
 4	ad	ad	R	R-	INFLn	1	adv	_	_
@@ -84359,7 +84359,7 @@
 10	mortuus	mortuus	A	A-	NUMBs|GENDm|CASEn|DEGRp	11	xobj	_	_
 11	es	sum	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	9	pred	_	_
 
-1	esto	edo#1	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	3	pred	_	_
+1	esto	sum	V	V-	PERS2|NUMBs|TENSf|MOODm|VOICa	3	pred	_	_
 2	vigilans	vigilo	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn	1	xobj	_	_
 3	et	et	C	C-	INFLn	0	pred	_	_
 4	confirma	confirmo	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	3	pred	_	_
@@ -84638,7 +84638,7 @@
 
 1	utinam	utinam	D	Df	INFLn	3	aux	_	_
 2	frigidus	frigidus	A	A-	NUMBs|GENDm|CASEn|DEGRp	4	xobj	_	_
-3	esses	edo#1	V	V-	PERS2|NUMBs|TENSi|MOODs|VOICa	0	pred	_	_
+3	esses	sum	V	V-	PERS2|NUMBs|TENSi|MOODs|VOICa	0	pred	_	_
 4	aut	aut	C	C-	INFLn	3	xobj	_	_
 5	calidus	calidus	A	A-	NUMBs|GENDm|CASEn|DEGRp	4	xobj	_	_
 

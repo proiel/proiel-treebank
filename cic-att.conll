@@ -4818,7 +4818,7 @@
 20	et	et	C	C-	INFLn	23	obj	_	_
 21	quantas	quantus	P	Pi	NUMBp|GENDf|CASEa	22	atr	_	_
 22	strages	strages	N	Nb	NUMBp|GENDf|CASEa	20	obj	_	_
-23	edidi	edo	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+23	edidi	edo#2	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 
 1	quos	qui	P	Pi	NUMBp|GENDm|CASEa	2	atr	_	_
 2	impetus	impetus	N	Nb	NUMBp|GENDm|CASEa	11	obj	_	_
@@ -31548,7 +31548,7 @@
 11	committamus	committo	V	V-	PERS1|NUMBp|TENSp|MOODs|VOICa	5	pred	_	_
 12	lepidum	lepidus	A	A-	NUMBs|GENDn|CASEn|DEGRp	14	sub	_	_
 13	quo	quo	G	G-	INFLn	11	adv	_	_
-14	excidat	excido	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	13	pred	_	_
+14	excidat	excido#1	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	13	pred	_	_
 
 1	consules	consul	N	Nb	NUMBp|GENDm|CASEn	2	sub	_	_
 2	flagrant	flagro	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
@@ -36396,7 +36396,7 @@
 8	te	tu	P	Pp	PERS2|NUMBs|GENDm|CASEb	9	obl	_	_
 9	cum	cum	R	R-	INFLn	10	adv	_	_
 10	feci	facio	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	5	atr	_	_
-11	edidi	edo	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+11	edidi	edo#2	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 
 1	ergo	ergo	D	Df	INFLn	0	aux(5)pred	_	_
 2	haec	hic	P	Pd	NUMBp|GENDn|CASEa	0	obj(5)pred	_	_
@@ -43754,4 +43754,21 @@
 5	meas	meus	P	Ps	PERS1|NUMBp|GENDf|CASEa	6	atr	_	_
 6	litteras	littera	N	Nb	NUMBp|GENDf|CASEa	4	obj	_	_
 7	gaudeo	gaudeo	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	Brundisium	Brundisium	N	Ne	NUMBs|GENDn|CASEa	2	obl	_	_
+2	venimus	venio	V	V-	PERS1|NUMBp|TENSr|MOODi|VOICa	0	pred	_	_
+3	vii.Kalend..Decembr	calendar.expression	N	Nb	INFLn	2	adv	_	_
+4	usi	utor	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn	2	xadv	_	_
+5	tua	tuus	P	Ps	PERS2|NUMBs|GENDf|CASEb	6	atr	_	_
+6	felicitate	felicitas	N	Nb	NUMBs|GENDf|CASEb	4	obl	_	_
+7	navigandi	navigo	V	V-	MOODd|CASEg	6	atr	_	_
+
+1	ita	ita	D	Df	INFLn	2	adv	_	_
+2	belle	belle	D	Df	DEGRp	4	adv	_	_
+3	nobis	nos	P	Pp	PERS1|NUMBp|GENDm|CASEd	4	adv	_	_
+4	flavit	flo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+5	ab	ab	R	R-	INFLn	4	adv	_	_
+6	Epiro	Epirus	N	Ne	NUMBs|GENDf|CASEb	5	obl	_	_
+7	lenissimus	lenis	A	A-	NUMBs|GENDm|CASEn|DEGRs	8	atr	_	_
+8	Onchesmites	Onchesmites	N	Nb	NUMBs|GENDm|CASEn	4	sub	_	_
 
