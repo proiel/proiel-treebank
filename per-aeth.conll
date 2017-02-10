@@ -1429,7 +1429,7 @@
 13	milia	mille	M	Ma	NUMBp|GENDn|CASEn	12	sub	_	_
 14	tria	tres	M	Ma	NUMBp|GENDn|CASEn	13	atr	_	_
 15	ut	ut	G	G-	INFLn	12	adv	_	_
-16	perexiremus	perexeo	V	V-	PERS1|NUMBs|TENSi|MOODs|VOICa	15	pred	_	_
+16	perexiremus	perexeo	V	V-	PERS1|NUMBp|TENSi|MOODs|VOICa	15	pred	_	_
 17	montes	mons	N	Nb	NUMBp|GENDm|CASEa	16	obj	_	_
 18	ipsos	ipse	P	Pd	NUMBp|GENDm|CASEa	17	aux	_	_
 19	quos	qui	P	Pr	NUMBp|GENDm|CASEa	20	obj	_	_
@@ -3636,7 +3636,7 @@
 7	per	per	R	R-	INFLn	6	xobj	_	_
 8	Egyptum	Aegyptus	N	Ne	NUMBs|GENDf|CASEa	7	obl	_	_
 9	quod	qui	P	Pr	NUMBs|GENDn|CASEn	10	sub	_	_
-10	transiebat	transeo	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	4	apos	_	_
+10	transiebat	transeo	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	4	apos	_	_
 11	per	per	R	R-	INFLn	10	xobj	_	_
 12	Arabiam	Arabia	N	Ne	NUMBs|GENDf|CASEa	11	obl	_	_
 13	ciuitatem	civitas	N	Nb	NUMBs|GENDf|CASEa	12	apos	_	_
@@ -10073,7 +10073,7 @@
 13	se	se	P	Pk	PERS3|NUMBs|GENDf|CASEa	16	obj	_	_
 14	omnis	omnis	P	Px	NUMBs|GENDp|CASEn	15	atr	_	_
 15	multitudo	multitudo	N	Nb	NUMBs|GENDf|CASEn	16	sub	_	_
-16	colliget	colligo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+16	colliget	colligo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 17	ad	ad	R	R-	INFLn	16	adv	_	_
 18	Anastasim	Anastasis	N	Ne	NUMBs|GENDm|CASEa	17	obl	_	_
 
@@ -10419,7 +10419,7 @@
 8	ante	ante	R	R-	INFLn	11	adv	_	_
 9	pullorum	pullus	N	Nb	NUMBp|GENDm|CASEg	10	atr	_	_
 10	cantum	cantus	N	Nb	NUMBs|GENDm|CASEa	8	obl	_	_
-11	colliget	colligo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+11	colliget	colligo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 12	se	se	P	Pk	PERS3|NUMBs|GENDf|CASEa	11	obj	_	_
 13	omnis	omnis	P	Px	NUMBs|GENDp|CASEn	14	atr	_	_
 14	multitudo	multitudo	N	Nb	NUMBs|GENDf|CASEn	11	sub	_	_
@@ -10498,7 +10498,7 @@
 15	multitudinem	multitudo	N	Nb	NUMBs|GENDf|CASEa	14	obl	_	_
 16	quae	qui	P	Pr	NUMBs|GENDf|CASEn	18	sub	_	_
 17	se	se	P	Pk	PERS3|NUMBs|GENDf|CASEa	18	obj	_	_
-18	colliget	colligo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	15	atr	_	_
+18	colliget	colligo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	15	atr	_	_
 
 1	Consuetudo	consuetudo	N	Nb	NUMBs|GENDf|CASEn	4	sub	_	_
 2	enim	enim	D	Df	INFLn	4	aux	_	_
@@ -10616,7 +10616,7 @@
 5	episcopus	episcopus	N	Nb	NUMBs|GENDm|CASEn	4	sub	_	_
 6	intro	intro	R	R-	INFLn	4	obl	_	_
 7	cancellos	cancellus	N	Nb	NUMBp|GENDm|CASEa	6	obl	_	_
-8	prendet	pre(he)ndo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	10	pred	_	_
+8	prendet	pr(eh)endo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	10	pred	_	_
 9	euangelium	evangelium	N	Nb	NUMBs|GENDn|CASEa	8	obj	_	_
 10	et	et	C	C-	INFLn	0	pred	_	_
 11	accedet	accedo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	10	pred	_	_
@@ -11245,7 +11245,7 @@
 7	hora	hora	N	Nb	NUMBs|GENDf|CASEb	8	sub	_	_
 8	incipiente	incipio	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDf|CASEb	10	adv	_	_
 9	secunda	secundus	M	Mo	NUMBs|GENDf|CASEb	7	atr	_	_
-10	colligent	colligo	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+10	colligent	colligo#1	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 11	se	se	P	Pk	PERS3|NUMBp|GENDm|CASEa	10	obj	_	_
 12	omnes	omnis	P	Px	NUMBp|GENDm|CASEn	10	sub	_	_
 13	in	in	R	R-	INFLn	10	adv	_	_
@@ -11632,7 +11632,7 @@
 9	turbae	turba	N	Nb	NUMBp|GENDf|CASEn	12	sub	_	_
 10	se	se	P	Pk	PERS3|NUMBp|GENDf|CASEa	12	obj	_	_
 11	undique	undique	D	Df	INFLn	12	adv	_	_
-12	colligent	colligo	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+12	colligent	colligo#1	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 13	in	in	R	R-	INFLn	12	adv	_	_
 14	Ierusolima	Hierosolyma	N	Ne	INFLn	13	obl	_	_
 15	non	non	D	Df	INFLn	16	aux	_	_
@@ -12813,7 +12813,7 @@
 25	ceteris	ceterus	A	A-	NUMBp|GENDq|CASEb|DEGRp	26	atr	_	_
 26	septimanis	septimana	N	Nb	NUMBp|GENDf|CASEb	23	adv	_	_
 27	quae	qui	P	Pr	NUMBp|GENDf|CASEn	28	sub	_	_
-28	transierunt	transeo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	26	atr	_	_
+28	transierunt	transeo	V	V-	PERS3|NUMBp|TENSr|MOODi|VOICa	26	atr	_	_
 29	tantum	tantum	D	Df	INFLn	31	aux	_	_
 30	modo	modo	D	Df	INFLn	31	adv	_	_
 31	quod	quod	G	G-	INFLn	23	adv	_	_
@@ -13012,7 +13012,7 @@
 8	se	se	P	Pk	PERS3|NUMBs|GENDf|CASEa	11	obj	_	_
 9	omnis	omnis	P	Px	NUMBs|GENDp|CASEn	10	atr	_	_
 10	multitudo	multitudo	N	Nb	NUMBs|GENDf|CASEn	11	sub	_	_
-11	colligit	colligo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+11	colligit	colligo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 12	ut	ut	G	G-	INFLn	7	apos	_	_
 13	non	non	D	Df	INFLn	14	aux	_	_
 14	solum	solum	D	Df	INFLn	16	aux	_	_
@@ -13125,7 +13125,7 @@
 9	post	post	R	R-	INFLn	12	adv	_	_
 10	cena	cena	N	Nb	NUMBs|GENDf|CASEb	9	obl	_	_
 11	noctu	noctu	D	Df	INFLn	12	adv	_	_
-12	comprehenditur	comprehendo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	7	apos	_	_
+12	comprehenditur	compr(eh)endo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	7	apos	_	_
 13	Dominus	dominus	N	Nb	NUMBs|GENDm|CASEn	12	sub	_	_
 14	sex	sex	M	Ma	INFLn	15	atr	_	_
 15	dies	dies	N	Nb	NUMBp|GENDp|CASEn	16	sub	_	_
@@ -13649,7 +13649,7 @@
 9	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	parpred	_	_
 10	ad	ad	R	R-	INFLn	5	apos	_	_
 11	Martyrium	martyrium	N	Nb	NUMBs|GENDn|CASEa	10	obl	_	_
-12	colligent	colligo	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	14	pred	_	_
+12	colligent	colligo#1	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	14	pred	_	_
 13	se	se	P	Pk	PERS3|NUMBp|GENDm|CASEa	12	obj	_	_
 14	et	et	C	C-	INFLn	0	pred	_	_
 15	ibi	ibi	D	Df	INFLn	25	adv	_	_
@@ -14000,7 +14000,7 @@
 5	consuetudinem	consuetudo	N	Nb	NUMBs|GENDf|CASEa	4	obl	_	_
 6	ad	ad	R	R-	INFLn	8	adv	_	_
 7	Martyrium	martyrium	N	Ne	NUMBs|GENDn|CASEa	6	obl	_	_
-8	colliget	colligo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+8	colliget	colligo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 9	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	8	obj	_	_
 10	omnis	omnis	P	Px	NUMBs|GENDp|CASEn	11	atr	_	_
 11	populus	populus	N	Nb	NUMBs|GENDm|CASEn	8	sub	_	_
@@ -14020,7 +14020,7 @@
 
 1	Itaque	itaque	D	Df	INFLn	6	aux	_	_
 2	ergo	ergo	D	Df	INFLn	6	aux	_	_
-3	collecto	colligo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEb	6	adv	_	_
+3	collecto	colligo#1	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEb	6	adv	_	_
 4	omni	omnis	P	Px	NUMBs|GENDq|CASEb	5	atr	_	_
 5	populo	populus	N	Nb	NUMBs|GENDm|CASEb	3	sub	_	_
 6	aguntur	ago	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICp	0	pred	_	_
@@ -14438,7 +14438,7 @@
 5	de	de	R	R-	INFLn	4	atr	_	_
 6	euangelio	evangelium	N	Nb	NUMBs|GENDn|CASEb	5	obl	_	_
 7	ubi	ubi	D	Dq	INFLn	8	adv	_	_
-8	comprehensus	comprehendo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	4	atr	_	_
+8	comprehensus	compr(eh)endo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	4	atr	_	_
 9	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	8	aux	_	_
 10	Dominus	dominus	N	Nb	NUMBs|GENDm|CASEn	8	sub	_	_
 
@@ -15010,7 +15010,7 @@
 3	omnis	omnis	P	Px	NUMBs|GENDp|CASEn	4	atr	_	_
 4	populus	populus	N	Nb	NUMBs|GENDm|CASEn	6	sub	_	_
 5	se	se	P	Pk	PERS3|NUMBs|GENDm|CASEa	6	obj	_	_
-6	colliget	colligo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+6	colliget	colligo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 7	ita	ita	D	Df	INFLn	6	adv	_	_
 8	ut	ut	G	G-	INFLn	7	apos	_	_
 9	nec	neque	D	Df	INFLn	11	aux	_	_
@@ -15462,7 +15462,7 @@
 1	hoc	hic	P	Pd	NUMBs|GENDn|CASEn	5	sub	_	_
 2	solum	solus	A	A-	NUMBs|GENDn|CASEn|DEGRp	1	atr	_	_
 3	hic	hic	D	Df	INFLn	5	adv	_	_
-4	amplius	amplius	D	Df	DEGRc	5	adv	_	_
+4	amplius	ample	D	Df	DEGRc	5	adv	_	_
 5	fit	fio	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 6	quod	quod	G	G-	INFLn	1	apos	_	_
 7	infantes	infans	N	Nb	NUMBp|GENDm|CASEn	23	sub	_	_
@@ -16480,7 +16480,7 @@
 21	post	post	R	R-	INFLn	24	adv	_	_
 22	passionem	passio	N	Nb	NUMBs|GENDf|CASEa	21	obl	_	_
 23	Domini	dominus	N	Nb	NUMBs|GENDm|CASEg	22	atr	_	_
-24	collecta	colligo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEn	12	atr(41)atr	_	_
+24	collecta	colligo#1	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEn	12	atr(41)atr	_	_
 25	erat	sum	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICa	24	aux	_	_
 26	multitudo	multitudo	N	Nb	NUMBs|GENDf|CASEn	24	sub	_	_
 27	cum	cum	R	R-	INFLn	24	adv	_	_
@@ -17871,7 +17871,7 @@
 21	de	de	R	R-	INFLn	18	narg	_	_
 22	ecclesia	ecclesia	N	Nb	NUMBs|GENDf|CASEb	21	obl	_	_
 23	et	et	D	Df	INFLn	24	aux	_	_
-24	itur	eo	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICp	34	pred	_	_
+24	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	34	pred	_	_
 25	cum	cum	R	R-	INFLn	24	adv	_	_
 26	ymnis	hymnus	N	Nb	NUMBp|GENDm|CASEb	25	obl	_	_
 27	ad	ad	R	R-	INFLn	24	obl	_	_
@@ -18262,7 +18262,7 @@
 5	incipiunt	incipio	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 6	se	se	P	Pk	PERS3|NUMBp|GENDf|CASEa	8	obj	_	_
 7	undique	undique	D	Df	INFLn	8	adv	_	_
-8	colligere	colligo	V	V-	TENSp|MOODn|VOICa	5	xobj	_	_
+8	colligere	colligo#1	V	V-	TENSp|MOODn|VOICa	5	xobj	_	_
 9	turbae	turba	N	Nb	NUMBp|GENDf|CASEn	5	sub	_	_
 10	non	non	D	Df	INFLn	11	aux	_	_
 11	solum	solum	D	Df	INFLn	13	aux	_	_
@@ -18335,7 +18335,7 @@
 17	isdem	idem	P	Pd	NUMBp|GENDq|CASEb	18	atr	_	_
 18	diebus	dies	N	Nb	NUMBp|GENDp|CASEb	20	adv	_	_
 19	Ierusolima	Hierosolyma	N	Ne	INFLn	20	adv	_	_
-20	colligunt	colligo	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+20	colligunt	colligo#1	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 
 1	Episcopi	episcopus	N	Nb	NUMBp|GENDm|CASEn	13	sub	_	_
 2	autem	autem	D	Df	INFLn	13	aux	_	_

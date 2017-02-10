@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2016-06-07T10:27:15+02:00" schema-version="2.1">
+<proiel export-time="2017-02-10T01:18:58+01:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -170,7 +170,7 @@
     <funder>Research Council of Norway</funder>
     <distributor>Department of Philosophy, Classics, History of Arts and Ideas</distributor>
     <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
-    <date>07 June 2016</date>
+    <date>10 February 2017</date>
     <license>CC BY-NC-SA 3.0</license>
     <license-url>http://creativecommons.org/licenses/by-nc-sa/3.0/us/</license-url>
     <editor>Dag Haug</editor>
@@ -1934,7 +1934,7 @@
         <token id="767837" form="tria" citation-part="IV.5" lemma="tres" part-of-speech="Ma" morphology="-p---nn--i" head-id="767836" relation="atr" presentation-after=", "/>
         <token id="767838" form="ut" citation-part="IV.5" lemma="ut" part-of-speech="G-" morphology="---------n" head-id="767835" relation="adv" presentation-after=" "/>
         <token id="859845" empty-token-sort="P" citation-part="IV.5" head-id="767839" relation="sub" antecedent-id="767834" information-status="old"/>
-        <token id="767839" form="perexiremus" citation-part="IV.5" lemma="perexeo" part-of-speech="V-" morphology="1sisa----i" head-id="767838" relation="pred" presentation-after=" "/>
+        <token id="767839" form="perexiremus" citation-part="IV.5" lemma="perexeo" part-of-speech="V-" morphology="1pisa----i" head-id="767838" relation="pred" presentation-after=" "/>
         <token id="767840" form="montes" citation-part="IV.5" lemma="mons" part-of-speech="Nb" morphology="-p---ma--i" head-id="767839" relation="obj" antecedent-id="767612" information-status="old" presentation-after=" "/>
         <token id="767841" form="ipsos" citation-part="IV.5" lemma="ipse" part-of-speech="Pd" morphology="-p---ma--i" head-id="767840" relation="aux" information-status="info_unannotatable" presentation-after=", "/>
         <token id="767842" form="quos" citation-part="IV.5" lemma="qui" part-of-speech="Pr" morphology="-p---ma--i" head-id="767843" relation="obj" presentation-after=" "/>
@@ -4627,7 +4627,7 @@
         </token>
         <token id="1161018" form="Egyptum" citation-part="IX.3" lemma="Aegyptus" part-of-speech="Ne" morphology="-s---fa--i" head-id="1161017" relation="obl" information-status="old_inact" presentation-after=", "/>
         <token id="1161019" form="quod" citation-part="IX.3" lemma="qui" part-of-speech="Pr" morphology="-s---nn--i" head-id="1161020" relation="sub" presentation-after=" "/>
-        <token id="1161020" form="transiebat" citation-part="IX.3" lemma="transeo" part-of-speech="V-" morphology="3piia----i" head-id="1161014" relation="apos" presentation-after=" "/>
+        <token id="1161020" form="transiebat" citation-part="IX.3" lemma="transeo" part-of-speech="V-" morphology="3siia----i" head-id="1161014" relation="apos" presentation-after=" "/>
         <token id="1161021" form="per" citation-part="IX.3" lemma="per" part-of-speech="R-" morphology="---------n" head-id="1161020" relation="xobj" presentation-after=" ">
           <slash target-id="1161019" relation="xsub"/>
         </token>
@@ -12442,7 +12442,7 @@
         <token id="776070" form="se" citation-part="XXIV.4" lemma="se" part-of-speech="Pk" morphology="3s---fa--i" head-id="776073" relation="obj" antecedent-id="775997" information-status="acc_inf" presentation-after=" "/>
         <token id="776071" form="omnis" citation-part="XXIV.4" lemma="omnis" part-of-speech="Px" morphology="-s---pn--i" head-id="776072" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="776072" form="multitudo" citation-part="XXIV.4" lemma="multitudo" part-of-speech="Nb" morphology="-s---fn--i" head-id="776073" relation="sub" antecedent-id="776070" information-status="old" presentation-after=" "/>
-        <token id="776073" form="colliget" citation-part="XXIV.4" lemma="colligo" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" "/>
+        <token id="776073" form="colliget" citation-part="XXIV.4" lemma="colligo#1" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" "/>
         <token id="776074" form="ad" citation-part="XXIV.4" lemma="ad" part-of-speech="R-" morphology="---------n" head-id="776073" relation="adv" presentation-after=" "/>
         <token id="776075" form="Anastasim" citation-part="XXIV.4" lemma="Anastasis" part-of-speech="Ne" morphology="-s---ma--i" head-id="776074" relation="obl" antecedent-id="776020" information-status="old" presentation-after=", "/>
         <token id="865602" empty-token-sort="C" citation-part="XXIV.4" head-id="776058" relation="apos"/>
@@ -12860,7 +12860,7 @@
         <token id="776387" form="ante" citation-part="XXIV.8" lemma="ante" part-of-speech="R-" morphology="---------n" head-id="776390" relation="adv" presentation-after=" "/>
         <token id="776388" form="pullorum" citation-part="XXIV.8" lemma="pullus" part-of-speech="Nb" morphology="-p---mg--i" head-id="776389" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="776389" form="cantum" citation-part="XXIV.8" lemma="cantus" part-of-speech="Nb" morphology="-s---ma--i" head-id="776387" relation="obl" information-status="non_spec" presentation-after=" "/>
-        <token id="776390" form="colliget" citation-part="XXIV.8" lemma="colligo" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" "/>
+        <token id="776390" form="colliget" citation-part="XXIV.8" lemma="colligo#1" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" "/>
         <token id="776391" form="se" citation-part="XXIV.8" lemma="se" part-of-speech="Pk" morphology="3s---fa--i" head-id="776390" relation="obj" antecedent-id="776308" information-status="old" presentation-after=" "/>
         <token id="776392" form="omnis" citation-part="XXIV.8" lemma="omnis" part-of-speech="Px" morphology="-s---pn--i" head-id="776393" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="776393" form="multitudo" citation-part="XXIV.8" lemma="multitudo" part-of-speech="Nb" morphology="-s---fn--i" head-id="776390" relation="sub" antecedent-id="776391" information-status="old" presentation-after=", "/>
@@ -12954,7 +12954,7 @@
         <token id="776462" form="multitudinem" citation-part="XXIV.8" lemma="multitudo" part-of-speech="Nb" morphology="-s---fa--i" head-id="776461" relation="obl" antecedent-id="1057004" information-status="non_spec_old" presentation-after=", "/>
         <token id="776463" form="quae" citation-part="XXIV.8" lemma="qui" part-of-speech="Pr" morphology="-s---fn--i" head-id="776465" relation="sub" presentation-after=" "/>
         <token id="776464" form="se" citation-part="XXIV.8" lemma="se" part-of-speech="Pk" morphology="3s---fa--i" head-id="776465" relation="obj" antecedent-id="776462" information-status="non_spec_old" presentation-after=" "/>
-        <token id="776465" form="colliget" citation-part="XXIV.8" lemma="colligo" part-of-speech="V-" morphology="3spia----i" head-id="776462" relation="atr" presentation-after=". "/>
+        <token id="776465" form="colliget" citation-part="XXIV.8" lemma="colligo#1" part-of-speech="V-" morphology="3spia----i" head-id="776462" relation="atr" presentation-after=". "/>
       </sentence>
       <sentence id="57820" status="reviewed">
         <token id="776466" form="Consuetudo" citation-part="XXIV.8" lemma="consuetudo" part-of-speech="Nb" morphology="-s---fn--i" head-id="776469" relation="sub" information-status="new" presentation-after=" "/>
@@ -13085,7 +13085,7 @@
         <token id="776572" form="episcopus" citation-part="XXIV.10" lemma="episcopus" part-of-speech="Nb" morphology="-s---mn--i" head-id="776571" relation="sub" antecedent-id="776485" information-status="old" presentation-after=" "/>
         <token id="776573" form="intro" citation-part="XXIV.10" lemma="intro" part-of-speech="R-" morphology="---------n" head-id="776571" relation="obl" information-status="info_unannotatable" presentation-after=" "/>
         <token id="776574" form="cancellos" citation-part="XXIV.10" lemma="cancellus" part-of-speech="Nb" morphology="-p---ma--i" head-id="776573" relation="obl" information-status="old_inact" presentation-after=", "/>
-        <token id="776575" form="prendet" citation-part="XXIV.10" lemma="pre(he)ndo" part-of-speech="V-" morphology="3spia----i" head-id="776577" relation="pred" presentation-after=" ">
+        <token id="776575" form="prendet" citation-part="XXIV.10" lemma="pr(eh)endo" part-of-speech="V-" morphology="3spia----i" head-id="776577" relation="pred" presentation-after=" ">
           <slash target-id="776572" relation="sub"/>
         </token>
         <token id="776576" form="euangelium" citation-part="XXIV.10" lemma="evangelium" part-of-speech="Nb" morphology="-s---na--i" head-id="776575" relation="obj" information-status="acc_gen" presentation-after=" "/>
@@ -13836,7 +13836,7 @@
         <token id="777165" form="hora" citation-part="XXV.8" lemma="hora" part-of-speech="Nb" morphology="-s---fb--i" head-id="777166" relation="sub" information-status="acc_gen" presentation-after=" "/>
         <token id="777166" form="incipiente" citation-part="XXV.8" lemma="incipio" part-of-speech="V-" morphology="-sppafb--i" head-id="777168" relation="adv" presentation-after=" "/>
         <token id="777167" form="secunda" citation-part="XXV.8" lemma="secundus" part-of-speech="Mo" morphology="-s---fb--i" head-id="777165" relation="atr" presentation-after=" "/>
-        <token id="777168" form="colligent" citation-part="XXV.8" lemma="colligo" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" "/>
+        <token id="777168" form="colligent" citation-part="XXV.8" lemma="colligo#1" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" "/>
         <token id="777169" form="se" citation-part="XXV.8" lemma="se" part-of-speech="Pk" morphology="3p---ma--i" head-id="777168" relation="obj" antecedent-id="777164" information-status="old" presentation-after=" "/>
         <token id="777170" form="omnes" citation-part="XXV.8" lemma="omnis" part-of-speech="Px" morphology="-p---mn--i" head-id="777168" relation="sub" antecedent-id="777169" information-status="quant" presentation-after=" "/>
         <token id="777171" form="in" citation-part="XXV.8" lemma="in" part-of-speech="R-" morphology="---------n" head-id="777168" relation="adv" presentation-after=" "/>
@@ -14291,7 +14291,7 @@
         <token id="777531" form="turbae" citation-part="XXV.12" lemma="turba" part-of-speech="Nb" morphology="-p---fn--i" head-id="777534" relation="sub" information-status="quant" presentation-after=" "/>
         <token id="777532" form="se" citation-part="XXV.12" lemma="se" part-of-speech="Pk" morphology="3p---fa--i" head-id="777534" relation="obj" antecedent-id="777531" information-status="non_spec_old" presentation-after=" "/>
         <token id="777533" form="undique" citation-part="XXV.12" lemma="undique" part-of-speech="Df" morphology="---------n" head-id="777534" relation="adv" presentation-after=" "/>
-        <token id="777534" form="colligent" citation-part="XXV.12" lemma="colligo" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" "/>
+        <token id="777534" form="colligent" citation-part="XXV.12" lemma="colligo#1" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" "/>
         <token id="777535" form="in" citation-part="XXV.12" lemma="in" part-of-speech="R-" morphology="---------n" head-id="777534" relation="adv" presentation-after=" "/>
         <token id="777536" form="Ierusolima" citation-part="XXV.12" lemma="Hierosolyma" part-of-speech="Ne" morphology="---------n" head-id="777535" relation="obl" antecedent-id="865761" information-status="old" presentation-after=", "/>
         <token id="777537" form="non" citation-part="XXV.12" lemma="non" part-of-speech="Df" morphology="---------n" head-id="777538" relation="aux" presentation-after=" "/>
@@ -15653,7 +15653,7 @@
         <token id="778651" form="ceteris" citation-part="XXIX.2" lemma="ceterus" part-of-speech="A-" morphology="-p---qbp-i" head-id="778652" relation="atr" presentation-after=" "/>
         <token id="778652" form="septimanis" citation-part="XXIX.2" lemma="septimana" part-of-speech="Nb" morphology="-p---fb--i" head-id="778649" relation="adv" antecedent-id="778624" information-status="old" presentation-after=", "/>
         <token id="778653" form="quae" citation-part="XXIX.2" lemma="qui" part-of-speech="Pr" morphology="-p---fn--i" head-id="778654" relation="sub" presentation-after=" "/>
-        <token id="778654" form="transierunt" citation-part="XXIX.2" lemma="transeo" part-of-speech="V-" morphology="3sria----i" head-id="778652" relation="atr" presentation-after="; "/>
+        <token id="778654" form="transierunt" citation-part="XXIX.2" lemma="transeo" part-of-speech="V-" morphology="3pria----i" head-id="778652" relation="atr" presentation-after="; "/>
         <token id="778655" form="tantum" citation-part="XXIX.2" lemma="tantum" part-of-speech="Df" morphology="---------n" head-id="778657" relation="aux" presentation-after=" "/>
         <token id="778656" form="modo" citation-part="XXIX.2" lemma="modo" part-of-speech="Df" morphology="---------n" head-id="778657" relation="adv" presentation-after=" "/>
         <token id="778657" form="quod" citation-part="XXIX.2" lemma="quod" part-of-speech="G-" morphology="---------n" head-id="778649" relation="adv" presentation-after=" "/>
@@ -15882,7 +15882,7 @@
         <token id="778839" form="se" citation-part="XXIX.5" lemma="se" part-of-speech="Pk" morphology="3s---fa--i" head-id="778842" relation="obj" antecedent-id="778797" information-status="old" presentation-after=" "/>
         <token id="778840" form="omnis" citation-part="XXIX.5" lemma="omnis" part-of-speech="Px" morphology="-s---pn--i" head-id="778841" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="778841" form="multitudo" citation-part="XXIX.5" lemma="multitudo" part-of-speech="Nb" morphology="-s---fn--i" head-id="778842" relation="sub" antecedent-id="778839" information-status="old" presentation-after=" "/>
-        <token id="778842" form="colligit" citation-part="XXIX.5" lemma="colligo" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=", "/>
+        <token id="778842" form="colligit" citation-part="XXIX.5" lemma="colligo#1" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=", "/>
         <token id="778843" form="ut" citation-part="XXIX.5" lemma="ut" part-of-speech="G-" morphology="---------n" head-id="778838" relation="apos" presentation-after=" "/>
         <token id="778844" form="non" citation-part="XXIX.5" lemma="non" part-of-speech="Df" morphology="---------n" head-id="778845" relation="aux" presentation-after=" "/>
         <token id="778845" form="solum" citation-part="XXIX.5" lemma="solum" part-of-speech="Df" morphology="---------n" head-id="778847" relation="aux" presentation-after=" "/>
@@ -16006,7 +16006,7 @@
         <token id="778946" form="post" citation-part="XXIX.6" lemma="post" part-of-speech="R-" morphology="---------n" head-id="778949" relation="adv" presentation-after=" "/>
         <token id="778947" form="cena" citation-part="XXIX.6" lemma="cena" part-of-speech="Nb" morphology="-s---fb--i" head-id="778946" relation="obl" information-status="acc_gen" presentation-after=" "/>
         <token id="778948" form="noctu" citation-part="XXIX.6" lemma="noctu" part-of-speech="Df" morphology="---------n" head-id="778949" relation="adv" presentation-after=" "/>
-        <token id="778949" form="comprehenditur" citation-part="XXIX.6" lemma="comprehendo" part-of-speech="V-" morphology="3spip----i" head-id="778944" relation="apos" presentation-after=" "/>
+        <token id="778949" form="comprehenditur" citation-part="XXIX.6" lemma="compr(eh)endo" part-of-speech="V-" morphology="3spip----i" head-id="778944" relation="apos" presentation-after=" "/>
         <token id="778950" form="Dominus" citation-part="XXIX.6" lemma="dominus" part-of-speech="Nb" morphology="-s---mn--i" head-id="778949" relation="sub" antecedent-id="778899" information-status="old" presentation-after=", "/>
         <token id="778951" form="sex" citation-part="XXIX.6" lemma="sex" part-of-speech="Ma" morphology="---------n" head-id="778952" relation="atr" presentation-after=" "/>
         <token id="778952" form="dies" citation-part="XXIX.6" lemma="dies" part-of-speech="Nb" morphology="-p---pn--i" head-id="778953" relation="sub" information-status="new" presentation-after=" "/>
@@ -16655,7 +16655,7 @@
         <token id="779442" form="est" citation-part="XXXII.1" lemma="sum" part-of-speech="V-" morphology="3spia----i" relation="parpred" presentation-after=" "/>
         <token id="779443" form="ad" citation-part="XXXII.1" lemma="ad" part-of-speech="R-" morphology="---------n" head-id="779438" relation="apos" presentation-after=" "/>
         <token id="779444" form="Martyrium" citation-part="XXXII.1" lemma="martyrium" part-of-speech="Nb" morphology="-s---na--i" head-id="779443" relation="obl" information-status="info_unannotatable" presentation-after=", "/>
-        <token id="779445" form="colligent" citation-part="XXXII.1" lemma="colligo" part-of-speech="V-" morphology="3ppia----i" head-id="779447" relation="pred" presentation-after=" "/>
+        <token id="779445" form="colligent" citation-part="XXXII.1" lemma="colligo#1" part-of-speech="V-" morphology="3ppia----i" head-id="779447" relation="pred" presentation-after=" "/>
         <token id="779446" form="se" citation-part="XXXII.1" lemma="se" part-of-speech="Pk" morphology="3p---ma--i" head-id="779445" relation="obj" antecedent-id="779437" information-status="non_spec_old" presentation-after=" "/>
         <token id="779447" form="et" citation-part="XXXII.1" lemma="et" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
         <token id="779448" form="ibi" citation-part="XXXII.1" lemma="ibi" part-of-speech="Df" morphology="---------n" head-id="779458" relation="adv" presentation-after=" "/>
@@ -17082,7 +17082,7 @@
         <token id="779774" form="consuetudinem" citation-part="XXXV.1" lemma="consuetudo" part-of-speech="Nb" morphology="-s---fa--i" head-id="779773" relation="obl" antecedent-id="779772" information-status="acc_inf" presentation-after=" "/>
         <token id="779775" form="ad" citation-part="XXXV.1" lemma="ad" part-of-speech="R-" morphology="---------n" head-id="779777" relation="adv" presentation-after=" "/>
         <token id="779776" form="Martyrium" citation-part="XXXV.1" lemma="martyrium" part-of-speech="Ne" morphology="-s---na--i" head-id="779775" relation="obl" antecedent-id="779666" information-status="old" presentation-after=" "/>
-        <token id="779777" form="colliget" citation-part="XXXV.1" lemma="colligo" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" "/>
+        <token id="779777" form="colliget" citation-part="XXXV.1" lemma="colligo#1" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" "/>
         <token id="779778" form="se" citation-part="XXXV.1" lemma="se" part-of-speech="Pk" morphology="3s---ma--i" head-id="779777" relation="obj" antecedent-id="779725" information-status="old" presentation-after=" "/>
         <token id="779779" form="omnis" citation-part="XXXV.1" lemma="omnis" part-of-speech="Px" morphology="-s---pn--i" head-id="779780" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="779780" form="populus" citation-part="XXXV.1" lemma="populus" part-of-speech="Nb" morphology="-s---mn--i" head-id="779777" relation="sub" antecedent-id="779778" information-status="old" presentation-after=", "/>
@@ -17107,7 +17107,7 @@
       <sentence id="57973" status="reviewed">
         <token id="779793" form="Itaque" citation-part="XXXV.1" lemma="itaque" part-of-speech="Df" morphology="---------n" head-id="779798" relation="aux" presentation-after=" "/>
         <token id="779794" form="ergo" citation-part="XXXV.1" lemma="ergo" part-of-speech="Df" morphology="---------n" head-id="779798" relation="aux" presentation-after=" "/>
-        <token id="779795" form="collecto" citation-part="XXXV.1" lemma="colligo" part-of-speech="V-" morphology="-srppmb--i" head-id="779798" relation="adv" presentation-after=" "/>
+        <token id="779795" form="collecto" citation-part="XXXV.1" lemma="colligo#1" part-of-speech="V-" morphology="-srppmb--i" head-id="779798" relation="adv" presentation-after=" "/>
         <token id="779796" form="omni" citation-part="XXXV.1" lemma="omnis" part-of-speech="Px" morphology="-s---qb--i" head-id="779797" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="779797" form="populo" citation-part="XXXV.1" lemma="populus" part-of-speech="Nb" morphology="-s---mb--i" head-id="779795" relation="sub" antecedent-id="779780" information-status="old" presentation-after=" "/>
         <token id="779798" form="aguntur" citation-part="XXXV.1" lemma="ago" part-of-speech="V-" morphology="3ppip----i" relation="pred" presentation-after=", "/>
@@ -17610,7 +17610,7 @@
         <token id="780186" form="de" citation-part="XXXVI.3" lemma="de" part-of-speech="R-" morphology="---------n" head-id="780185" relation="atr" presentation-after=" "/>
         <token id="780187" form="euangelio" citation-part="XXXVI.3" lemma="evangelium" part-of-speech="Nb" morphology="-s---nb--i" head-id="780186" relation="obl" antecedent-id="780094" information-status="old" presentation-after=", "/>
         <token id="780188" form="ubi" citation-part="XXXVI.3" lemma="ubi" part-of-speech="Dq" morphology="---------n" head-id="780189" relation="adv" presentation-after=" "/>
-        <token id="780189" form="comprehensus" citation-part="XXXVI.3" lemma="comprehendo" part-of-speech="V-" morphology="-srppmn--i" head-id="780185" relation="atr" presentation-after=" "/>
+        <token id="780189" form="comprehensus" citation-part="XXXVI.3" lemma="compr(eh)endo" part-of-speech="V-" morphology="-srppmn--i" head-id="780185" relation="atr" presentation-after=" "/>
         <token id="780190" form="est" citation-part="XXXVI.3" lemma="sum" part-of-speech="V-" morphology="3spia----i" head-id="780189" relation="aux" presentation-after=" "/>
         <token id="780191" form="Dominus" citation-part="XXXVI.3" lemma="dominus" part-of-speech="Nb" morphology="-s---mn--i" head-id="780189" relation="sub" antecedent-id="780049" information-status="old" presentation-after=". "/>
       </sentence>
@@ -18317,7 +18317,7 @@
         <token id="1053289" form="omnis" citation-part="XXXVII.4" lemma="omnis" part-of-speech="Px" morphology="-s---pn--i" head-id="1053290" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1053290" form="populus" citation-part="XXXVII.4" lemma="populus" part-of-speech="Nb" morphology="-s---mn--i" head-id="1053292" relation="sub" antecedent-id="780665" information-status="old" presentation-after=" "/>
         <token id="1053291" form="se" citation-part="XXXVII.4" lemma="se" part-of-speech="Pk" morphology="3s---ma--i" head-id="1053292" relation="obj" antecedent-id="1053290" information-status="old" presentation-after=" "/>
-        <token id="1053292" form="colliget" citation-part="XXXVII.4" lemma="colligo" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=", "/>
+        <token id="1053292" form="colliget" citation-part="XXXVII.4" lemma="colligo#1" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=", "/>
         <token id="1053293" form="ita" citation-part="XXXVII.4" lemma="ita" part-of-speech="Df" morphology="---------n" head-id="1053292" relation="adv" presentation-after=" "/>
         <token id="1053294" form="ut" citation-part="XXXVII.4" lemma="ut" part-of-speech="G-" morphology="---------n" head-id="1053293" relation="apos" presentation-after=" "/>
         <token id="1053295" form="nec" citation-part="XXXVII.4" lemma="neque" part-of-speech="Df" morphology="---------n" head-id="1053297" relation="aux" presentation-after=" "/>
@@ -18844,7 +18844,7 @@
         <token id="781152" form="hoc" citation-part="XXXVIII.1" lemma="hic" part-of-speech="Pd" morphology="-s---nn--i" head-id="781156" relation="sub" information-status="new" presentation-after=" "/>
         <token id="781153" form="solum" citation-part="XXXVIII.1" lemma="solus" part-of-speech="A-" morphology="-s---nnp-i" head-id="781152" relation="atr" presentation-after=" "/>
         <token id="781154" form="hic" citation-part="XXXVIII.1" lemma="hic" part-of-speech="Df" morphology="---------n" head-id="781156" relation="adv" presentation-after=" "/>
-        <token id="781155" form="amplius" citation-part="XXXVIII.1" lemma="amplius" part-of-speech="Df" morphology="-------c-i" head-id="781156" relation="adv" presentation-after=" "/>
+        <token id="781155" form="amplius" citation-part="XXXVIII.1" lemma="ample" part-of-speech="Df" morphology="-------c-i" head-id="781156" relation="adv" presentation-after=" "/>
         <token id="781156" form="fit" citation-part="XXXVIII.1" lemma="fio" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=", "/>
         <token id="781157" form="quod" citation-part="XXXVIII.1" lemma="quod" part-of-speech="G-" morphology="---------n" head-id="781152" relation="apos" presentation-after=" "/>
         <token id="781158" form="infantes" citation-part="XXXVIII.1" lemma="infans" part-of-speech="Nb" morphology="-p---mn--i" head-id="781174" relation="sub" information-status="acc_gen" presentation-after=", "/>
@@ -20018,7 +20018,7 @@
         <token id="782113" form="post" citation-part="XLIII.3" lemma="post" part-of-speech="R-" morphology="---------n" head-id="782116" relation="adv" presentation-after=" "/>
         <token id="782114" form="passionem" citation-part="XLIII.3" lemma="passio" part-of-speech="Nb" morphology="-s---fa--i" head-id="782113" relation="obl" information-status="new" presentation-after=" "/>
         <token id="782115" form="Domini" citation-part="XLIII.3" lemma="dominus" part-of-speech="Nb" morphology="-s---mg--i" head-id="782114" relation="atr" antecedent-id="781979" information-status="old" presentation-after=" "/>
-        <token id="782116" form="collecta" citation-part="XLIII.3" lemma="colligo" part-of-speech="V-" morphology="-srppfn--i" head-id="866606" relation="atr" presentation-after=" "/>
+        <token id="782116" form="collecta" citation-part="XLIII.3" lemma="colligo#1" part-of-speech="V-" morphology="-srppfn--i" head-id="866606" relation="atr" presentation-after=" "/>
         <token id="782117" form="erat" citation-part="XLIII.3" lemma="sum" part-of-speech="V-" morphology="3siia----i" head-id="782116" relation="aux" presentation-after=" "/>
         <token id="782118" form="multitudo" citation-part="XLIII.3" lemma="multitudo" part-of-speech="Nb" morphology="-s---fn--i" head-id="782116" relation="sub" information-status="acc_gen" presentation-after=" "/>
         <token id="782119" form="cum" citation-part="XLIII.3" lemma="cum" part-of-speech="R-" morphology="---------n" head-id="782116" relation="adv" presentation-after=" "/>
@@ -21684,7 +21684,7 @@
         <token id="783423" form="de" citation-part="XLVII.1" lemma="de" part-of-speech="R-" morphology="---------n" head-id="783420" relation="narg" information-status="info_unannotatable" presentation-after=" "/>
         <token id="783424" form="ecclesia" citation-part="XLVII.1" lemma="ecclesia" part-of-speech="Nb" morphology="-s---fb--i" head-id="783423" relation="obl" information-status="old" presentation-after=", "/>
         <token id="783425" form="et" citation-part="XLVII.1" lemma="et" part-of-speech="Df" morphology="---------n" head-id="783426" relation="aux" presentation-after=" "/>
-        <token id="783426" form="itur" citation-part="XLVII.1" lemma="eo" part-of-speech="V-" morphology="3ppip----i" head-id="783436" relation="pred" presentation-after=" "/>
+        <token id="783426" form="itur" citation-part="XLVII.1" lemma="eo" part-of-speech="V-" morphology="3spip----i" head-id="783436" relation="pred" presentation-after=" "/>
         <token id="783427" form="cum" citation-part="XLVII.1" lemma="cum" part-of-speech="R-" morphology="---------n" head-id="783426" relation="adv" presentation-after=" "/>
         <token id="783428" form="ymnis" citation-part="XLVII.1" lemma="hymnus" part-of-speech="Nb" morphology="-p---mb--i" head-id="783427" relation="obl" information-status="non_spec" presentation-after=" "/>
         <token id="783429" form="ad" citation-part="XLVII.1" lemma="ad" part-of-speech="R-" morphology="---------n" head-id="783426" relation="obl" information-status="info_unannotatable" presentation-after=" "/>
@@ -22166,7 +22166,7 @@
         <token id="783799" form="incipiunt" citation-part="XLIX.1" lemma="incipio" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" "/>
         <token id="783800" form="se" citation-part="XLIX.1" lemma="se" part-of-speech="Pk" morphology="3p---fa--i" head-id="783802" relation="obj" information-status="non_spec" presentation-after=" "/>
         <token id="783801" form="undique" citation-part="XLIX.1" lemma="undique" part-of-speech="Df" morphology="---------n" head-id="783802" relation="adv" presentation-after=" "/>
-        <token id="783802" form="colligere" citation-part="XLIX.1" lemma="colligo" part-of-speech="V-" morphology="--pna----i" head-id="783799" relation="xobj" presentation-after=" ">
+        <token id="783802" form="colligere" citation-part="XLIX.1" lemma="colligo#1" part-of-speech="V-" morphology="--pna----i" head-id="783799" relation="xobj" presentation-after=" ">
           <slash target-id="783803" relation="xsub"/>
         </token>
         <token id="783803" form="turbae" citation-part="XLIX.1" lemma="turba" part-of-speech="Nb" morphology="-p---fn--i" head-id="783799" relation="sub" antecedent-id="783800" information-status="non_spec_old" presentation-after=" "/>
@@ -22243,7 +22243,7 @@
         <token id="783870" form="isdem" citation-part="XLIX.1" lemma="idem" part-of-speech="Pd" morphology="-p---qb--i" head-id="783871" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="783871" form="diebus" citation-part="XLIX.1" lemma="dies" part-of-speech="Nb" morphology="-p---pb--i" head-id="783873" relation="adv" antecedent-id="783853" information-status="old" presentation-after=" "/>
         <token id="783872" form="Ierusolima" citation-part="XLIX.1" lemma="Hierosolyma" part-of-speech="Ne" morphology="---------n" head-id="783873" relation="adv" antecedent-id="783845" information-status="old" presentation-after=" "/>
-        <token id="783873" form="colligunt" citation-part="XLIX.1" lemma="colligo" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=". "/>
+        <token id="783873" form="colligunt" citation-part="XLIX.1" lemma="colligo#1" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=". "/>
       </sentence>
       <sentence id="58135" status="reviewed">
         <token id="783874" form="Episcopi" citation-part="XLIX.2" lemma="episcopus" part-of-speech="Nb" morphology="-p---mn--i" head-id="783886" relation="sub" information-status="acc_gen" presentation-after=" "/>

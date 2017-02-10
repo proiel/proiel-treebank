@@ -221,7 +221,7 @@
 11	in	in	R	R-	INFLn	14	adv	_	_
 12	nostrum	noster	P	Ps	PERS1|NUMBs|GENDm|CASEa	13	atr	_	_
 13	annum	annus	N	Nb	NUMBs|GENDm|CASEa	11	obl	_	_
-14	reciderit	recido	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	10	pred	_	_
+14	reciderit	recido#1	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	10	pred	_	_
 15	firmior	firmus	A	A-	NUMBs|GENDp|CASEn|DEGRp	16	atr	_	_
 16	candidatus	candidatus	N	Nb	NUMBs|GENDm|CASEn	17	xobj	_	_
 17	fore	sum	V	V-	TENSp|MOODn|VOICa	18	xobj	_	_
@@ -1142,7 +1142,7 @@
 
 1	quod	qui	P	Pr	NUMBs|GENDn|CASEa	3	obj	_	_
 2	si	si	G	G-	INFLn	4	adv	_	_
-3	adsequor	adsequor	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICp	2	pred	_	_
+3	adsequor	assequor	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICp	2	pred	_	_
 4	supero	supero	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	7	pred	_	_
 5	Crassum	Crassus	N	Ne	NUMBs|GENDm|CASEa	4	obj	_	_
 6	divitiis	divitiae	N	Nb	NUMBp|GENDf|CASEb	4	adv	_	_
@@ -1197,7 +1197,7 @@
 
 1	qua.re	quare	D	Dq	INFLn	3	adv	_	_
 2	non	non	D	Df	INFLn	3	aux	_	_
-3	dubito	dubito	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	dubito	dubito	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 4	quin	quin	G	G-	INFLn	3	comp	_	_
 5	tibi	tu	P	Pp	PERS2|NUMBs|GENDm|CASEd	9	adv	_	_
 6	quoque	quoque	D	Df	INFLn	5	aux	_	_
