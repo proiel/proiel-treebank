@@ -27,7 +27,7 @@ The following texts are included in this release of the treebank:
   Codex Marianus (ed. Jagić 1883)                     | Old Church Slavonic | marianus    |  58,269 tokens
   Jerome's Vulgate                                    | Latin               | latin-nt    | 106,279 tokens
   Caesar, Commentarii belli Gallici (ed. Holmes 1914) | Latin               | caes-gal    |  28,608 tokens
-  Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     |  41,901 tokens
+  Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     |  41,915 tokens
   Peregrinatio Aetheriae (ed. Heraeus 1908)           | Latin               | per-aeth    |  18,356 tokens
   Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         |  81,495 tokens
   Sphrantzes, Chronicles (post-1453) (ed. Grecu 1966) | Ancient Greek       | chron       |  24,612 tokens
