@@ -21,7 +21,7 @@ The following texts are included in this release of the treebank:
 
   Text                                                | Language            | Filename    | Size
   ----------------------------------------------------|---------------------|-------------|---------------
-  The Greek New Testament (ed. Tischendorf 1869)      | Ancient Greek       | greek-nt    | 140,676 tokens
+  The Greek New Testament (ed. Tischendorf 1869)      | Ancient Greek       | greek-nt    | 140,757 tokens
   The Armenian New Testament (ed. Künzle 1984)        | Classical Armenian  | armenian-nt |  23,513 tokens
   The Gothic Bible (ed. Streitberg 1919)              | Gothic              | gothic-nt   |  57,211 tokens
   Codex Marianus (ed. Jagić 1883)                     | Old Church Slavonic | marianus    |  58,269 tokens
@@ -29,7 +29,7 @@ The following texts are included in this release of the treebank:
   Caesar, Commentarii belli Gallici (ed. Holmes 1914) | Latin               | caes-gal    |  28,608 tokens
   Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     |  41,915 tokens
   Peregrinatio Aetheriae (ed. Heraeus 1908)           | Latin               | per-aeth    |  18,356 tokens
-  Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         |  81,495 tokens
+  Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         |  82,357 tokens
   Sphrantzes, Chronicles (post-1453) (ed. Grecu 1966) | Ancient Greek       | chron       |  24,612 tokens
 
 (The 'size' column in the table above shows the number of annotated tokens in
