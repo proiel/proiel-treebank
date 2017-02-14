@@ -5089,7 +5089,7 @@
 4	Kafarnaum	Kafarnaum	N	Ne	INFLn	3	obl	_	_
 5	jah	jah	C	C-	INFLn	0	pred	_	_
 6	suns	suns	D	Df	INFLn	9	adv	_	_
-7	sabbato	sabbato	N	Nb	INFLn	8	aux	_	_
+7	sabbato	sabbato	N	Nb	INFLn	8	atr	_	_
 8	daga	dags	N	Nb	NUMBs|GENDm|CASEd	9	adv	_	_
 9	galeiþands	ga-leiþan	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	12	xadv	_	_
 10	in	in	R	R-	INFLn	9	obl	_	_
@@ -12347,7 +12347,7 @@
 3	þai	sa	P	Pd	NUMBp|GENDm|CASEn	4	aux	_	_
 4	bokarjos	bokareis	N	Nb	NUMBp|GENDm|CASEn	5	sub	_	_
 5	jah	jah	C	C-	INFLn	2	sub	_	_
-6	gudjane	gudja	N	Nb	NUMBp|GENDm|CASEg	7	aux	_	_
+6	gudjane	gudja	N	Nb	NUMBp|GENDm|CASEg	7	part	_	_
 7	auhumistans	auhuma	A	A-	NUMBp|GENDm|CASEn|DEGRs|STREw	5	sub	_	_
 8	jah	jah	C	C-	INFLn	0	pred	_	_
 9	sokidedun	sokjan	V	V-	PERS3|NUMBp|TENSu|MOODi|VOICa	8	pred	_	_
@@ -30030,7 +30030,7 @@
 1	attans	atta	N	Nb	NUMBp|GENDm|CASEn	3	sub	_	_
 2	izwarai	izwar	P	Ps	PERS2|NUMBp|GENDm|CASEn	1	atr	_	_
 3	matidedun	matjan	V	V-	PERS3|NUMBp|TENSu|MOODi|VOICa	7	pred	_	_
-4	manna	manna#1	N	Nb	INFLn	3	aux	_	_
+4	manna	manna#1	N	Nb	INFLn	3	obj	_	_
 5	in	in	R	R-	INFLn	3	adv	_	_
 6	auþidai	auþida	N	Nb	NUMBs|GENDf|CASEd	5	obl	_	_
 7	jah	jah	C	C-	INFLn	0	pred	_	_
@@ -41535,12 +41535,12 @@
 1	sa	sa	P	Pd	NUMBs|GENDm|CASEn	2	aux	_	_
 2	faurastandands	faura-standan	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	0	sub(5)pred	_	_
 3	in	in	R	R-	INFLn	0	adv(5)pred	_	_
-4	usdaudein	usdaudei	N	Nb	NUMBs|GENDf|CASEd	3	aux	_	_
+4	usdaudein	usdaudei	N	Nb	NUMBs|GENDf|CASEd	3	obl	_	_
 
 1	sa	sa	P	Pd	NUMBs|GENDm|CASEn	2	aux	_	_
 2	armands	arman	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	0	sub(5)pred	_	_
 3	in	in	R	R-	INFLn	0	adv(5)pred	_	_
-4	hlasein	hlasei	N	Nb	NUMBs|GENDf|CASEd	3	aux	_	_
+4	hlasein	hlasei	N	Nb	NUMBs|GENDf|CASEd	3	obl	_	_
 
 1	friaþwa	frijaþwa	N	Nb	NUMBs|GENDf|CASEn	0	sub(3)pred	_	_
 2	unliuta	unliuts	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREs	0	xobj(3)pred	_	_
@@ -42408,7 +42408,7 @@
 3	jah	jah	C	C-	INFLn	0	sub(10)pred	_	_
 4	Iasson	Iasson	N	Ne	NUMBs|GENDm|CASEn	3	sub	_	_
 5	jah	jah	C	C-	INFLn	3	aux	_	_
-6	Soseipatrus	Soseipatrus	N	Ne	NUMBs|GENDm|CASEn	3	aux	_	_
+6	Soseipatrus	Soseipatrus	N	Ne	NUMBs|GENDm|CASEn	3	sub	_	_
 7	þai	sa	P	Pd	NUMBp|GENDm|CASEn	8	aux	_	_
 8	niþjos	niþjis	N	Nb	NUMBp|GENDm|CASEn	3	apos	_	_
 9	meinai	meins	P	Ps	PERS1|NUMBp|GENDm|CASEn	8	atr	_	_
@@ -51646,7 +51646,7 @@
 10	ist	wisan#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	apos	_	_
 11	Agar	Agar	N	Ne	INFLn	10	xobj	_	_
 
-1	Seina	Seina	N	Ne	INFLn	3	aux	_	_
+1	Seina	Seina	N	Ne	INFLn	3	sub	_	_
 2	fairguni	fairguni	N	Nb	NUMBs|GENDn|CASEn	3	xobj	_	_
 3	ist	wisan#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 4	in	in	R	R-	INFLn	2	atr	_	_
@@ -53055,7 +53055,7 @@
 12	weiham	weihs	A	A-	NUMBp|GENDm|CASEd|DEGRp|STREw	9	obl	_	_
 13	jah	jah	C	C-	INFLn	8	pred	_	_
 14	ingardjans	ingardja	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	13	xobj(17)pred	_	_
-15	gudis	guþ	N	Nb	NUMBs|GENDm|CASEg	14	aux	_	_
+15	gudis	guþ	N	Nb	NUMBs|GENDm|CASEg	14	atr	_	_
 16	anatimridai	ana-timrjan	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn|STREs	14	atr	_	_
 
 1	in	in	R	R-	INFLn	6	adv	_	_
