@@ -21149,7 +21149,7 @@
 4	τοῦ	ὁ	S	S-	NUMBs|GENDm|CASEg	5	aux	_	_
 5	Ἰουλίου	Ἰούλιος	N	Ne	NUMBs|GENDm|CASEg	3	atr	_	_
 6	μηνὸς	μείς	N	Nb	NUMBs|GENDm|CASEg	5	apos	_	_
-7	ἀπεσώθη	ἀποσῴζω	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICp	0	pred	_	_
+7	ἀπεσώθη	ἀποσῴζω	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	0	pred	_	_
 8	ἐκεῖσε	ἐκεῖσε	D	Df	INFLn	7	obl	_	_
 9	ἤγουν	ἤγουν	D	Df	INFLn	11	aux	_	_
 10	τοὺς	ὁ	S	S-	NUMBp|GENDm|CASEa	11	aux	_	_
@@ -22462,7 +22462,7 @@
 37	τὸ	ὁ	S	S-	NUMBs|GENDn|CASEn	38	aux	_	_
 38	λεγόμενον	λέγω	V	V-	NUMBs|TENSp|MOODp|VOICp|GENDn|CASEn	36	atr	_	_
 39	Παλαιόκαστρον	Παλαιόκαστρον	N	Ne	NUMBs|GENDn|CASEn	38	xobj	_	_
-40	ἐκλάπη	κλέπτω	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICp	51	adv	_	_
+40	ἐκλάπη	κλέπτω	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICp	51	adv	_	_
 41	καὶ	καί	C	C-	INFLn	45	aux	_	_
 42	μᾶλλον	μᾶλλον	D	Df	DEGRc	45	aux	_	_
 43	ὁ	ὁ	S	S-	NUMBs|GENDm|CASEn	45	aux	_	_
