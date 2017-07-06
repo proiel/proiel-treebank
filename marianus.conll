@@ -4897,7 +4897,7 @@
 11	себе	себе	P	Pk	PERS3|NUMBs|GENDq|CASEg	10	aux	_	_
 12	ꙇ	и	C	C-	INFLn	3	aux	_	_
 13	въшедъше	вънити	V	V-	NUMBp|TENSu|MOODp|VOICa|GENDm|CASEn|STREs	14	xadv	_	_
-14	живѫтъ	жити	V	V-	MOODu|CASEa	3	pred	_	_
+14	живѫтъ	жити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	3	pred	_	_
 15	тоу	тоу	D	Df	INFLn	14	obl	_	_
 16	ꙇ	и	C	C-	INFLn	3	aux	_	_
 17	бѫдѫтъ	бꙑти	V	V-	PERS3|NUMBp|TENSf|MOODi|VOICa	3	pred	_	_
@@ -7038,7 +7038,7 @@
 5	ꙇде	ити	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	9	pred	_	_
 6	при	при	R	R-	INFLn	5	adv	_	_
 7	мори	морѥ	N	Nb	NUMBs|GENDn|CASEl	6	obl	_	_
-8	галилѣисцѣмъ	галилеискъ	A	A-	NUMBs|GENDo|CASEl|DEGRp|STREs	7	atr	_	_
+8	галилѣисцѣмъ	галилеискъ	A	A-	NUMBs|GENDn|CASEl|DEGRp|STREw	7	atr	_	_
 9	ꙇ	и	C	C-	INFLn	0	pred	_	_
 10	въшедъ	вънити	V	V-	NUMBs|TENSu|MOODp|VOICa|GENDm|CASEn|STREs	13	xadv	_	_
 11	на	на	R	R-	INFLn	10	obl	_	_
@@ -19531,7 +19531,7 @@
 18	и	и	P	Pp	PERS3|NUMBs|GENDm|CASEa	17	obj	_	_
 19	мъного	мъного	D	Df	DEGRp	17	adv	_	_
 20	г҃лѧ	глаголати	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	17	xadv	_	_
-21	ѣко	ꙗко	G	G-	INFLn	20	adv	_	_
+21	ѣко	ꙗко	G	G-	INFLn	20	comp	_	_
 
 1	дъшти	дъщи	N	Nb	NUMBs|GENDf|CASEn	5	sub	_	_
 2	моѣ	мои	P	Ps	PERS1|NUMBs|GENDf|CASEn	1	atr	_	_
@@ -35685,7 +35685,7 @@
 1	ꙇ	и	C	C-	INFLn	15	aux	_	_
 2	елико	ѥлико	P	Pr	INFLn	4	sub	_	_
 3	не	не	D	Df	INFLn	4	aux	_	_
-4	приемлѭтъ	приѩти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	19	apos	_	_
+4	приемлѭтъ	приимати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	19	apos	_	_
 5	васъ	вꙑ	P	Pp	PERS2|NUMBp|GENDq|CASEg	4	obj	_	_
 6	ꙇсходѧште	исходити	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	15	xadv	_	_
 7	отъ	отъ	R	R-	INFLn	6	obl	_	_
