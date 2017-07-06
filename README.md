@@ -29,7 +29,7 @@ The following texts are included in this release of the treebank:
   Caesar, Commentarii belli Gallici (ed. Holmes 1914) | Latin               | caes-gal    |  28,608 tokens
   Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     |  42,708 tokens
   Peregrinatio Aetheriae (ed. Heraeus 1908)           | Latin               | per-aeth    |  18,356 tokens
-  Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         |  82,357 tokens
+  Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         |  85,080 tokens
   Sphrantzes, Chronicles (post-1453) (ed. Grecu 1966) | Ancient Greek       | chron       |  24,612 tokens
 
 (The 'size' column in the table above shows the number of annotated tokens in
