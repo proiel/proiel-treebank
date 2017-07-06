@@ -25323,7 +25323,7 @@
 4	accidit	accido	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	19	pred	_	_
 5	ut	ut	G	G-	INFLn	4	comp	_	_
 6	neglecta	neglego	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEb	17	adv	_	_
-7	quispiam	quispiam	P	Px	NUMBp|GENDm|CASEn	17	sub	_	_
+7	quispiam	quispiam	P	Px	NUMBs|GENDm|CASEn	17	sub	_	_
 8	religione	religio	N	Nb	NUMBs|GENDf|CASEb	6	sub	_	_
 9	aut	aut	C	C-	INFLn	14	aux	_	_
 10	capta	capio	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDn|CASEa	13	obj	_	_

@@ -9585,7 +9585,7 @@
 14	gessimus	gero	V	V-	PERS1|NUMBp|TENSr|MOODi|VOICa	12	atr	_	_
 15	fortuito	fortuito	D	Df	INFLn	16	adv	_	_
 16	gessisse	gero	V	V-	TENSr|MOODn|VOICa	17	xobj	_	_
-17	videamur	video	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICp	11	pred	_	_
+17	videamur	video	V	V-	PERS1|NUMBp|TENSp|MOODs|VOICp	11	pred	_	_
 
 1	meos	meus	P	Ps	PERS1|NUMBp|GENDm|CASEa	3	atr	_	_
 2	bonos	bonus	A	A-	NUMBp|GENDm|CASEa|DEGRp	3	atr	_	_
