@@ -4317,7 +4317,7 @@
 10	κὺρ	κύρης	N	Nb	INFLn	11	atr	_	_
 11	Θεόδωρος	Θεόδωρος	N	Ne	NUMBs|GENDm|CASEn	9	apos	_	_
 12	ἵνα	ἵνα	G	G-	INFLn	25	adv(45)pred	_	_
-13	ἀπομείνῃ	ἀπομένω	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	12	pred	_	_
+13	ἀπομείνῃ	ἀπομένω	V	V-	PERS3|NUMBs|TENSa|MOODs|VOICa	12	pred	_	_
 14	ἅπας	ἅπας	A	A-	NUMBs|GENDm|CASEn|DEGRp	16	atr	_	_
 15	ὁ	ὁ	S	S-	NUMBs|GENDm|CASEn	16	aux	_	_
 16	τόπος	τόπος	N	Nb	NUMBs|GENDm|CASEn	13	sub	_	_
@@ -19150,7 +19150,7 @@
 42	οὐδ’	οὐδέ	C	C-	INFLn	48	xadv	_	_
 43	ἀναβολὴν	ἀναβολή	N	Nb	NUMBs|GENDf|CASEa	47	obj	_	_
 44	τὴν	ὁ	S	S-	NUMBs|GENDf|CASEa	43	aux	_	_
-45	οἱαν	οἷος	A	A-	NUMBs|GENDf|CASEa|DEGRp	43	atr	_	_
+45	οἱαν	οἷος#1	A	A-	NUMBs|GENDf|CASEa|DEGRp	43	atr	_	_
 46	οῦν	οὖν	D	Df	INFLn	45	aux	_	_
 47	ποιήσας	ποιέω	V	V-	NUMBs|TENSa|MOODp|VOICa|GENDm|CASEn	42	xadv	_	_
 48	ἀλλὰ	ἀλλά	C	C-	INFLn	60	xadv	_	_
