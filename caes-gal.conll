@@ -12,12 +12,12 @@
 12	aliam	alius	P	Px	NUMBs|GENDf|CASEa	6	obj(23)apos(22)apos	_	_
 13	Aquitani	Aquitani	N	Nb	NUMBp|GENDm|CASEn	6	sub(23)apos(22)apos	_	_
 14	tertiam	tertius	M	Mo	NUMBs|GENDf|CASEa	6	obj(24)apos(22)apos	_	_
-15	qui	qui	P	Pr	NUMBp|GENDm|CASEn	21	sub	_	_
+15	qui	qui	P	Pr	NUMBp|GENDm|CASEn	6	sub(26)sub(25)sub(24)apos(22)apos	_	_
 16	ipsorum	ipse	P	Pp	PERS3|NUMBp|GENDm|CASEg	17	atr	_	_
-17	lingua	lingua	N	Nb	NUMBs|GENDf|CASEb	21	adv	_	_
-18	Celtae	Celtae	N	Nb	NUMBp|GENDm|CASEn	21	xobj	_	_
-19	nostra	noster	P	Ps	PERS1|NUMBs|GENDf|CASEb	6	adv(26)sub(25)sub(24)apos(22)apos	_	_
-20	Galli	Galli	N	Nb	NUMBp|GENDm|CASEn	6	xobj(26)sub(25)sub(24)apos(22)apos	_	_
+17	lingua	lingua	N	Nb	NUMBs|GENDf|CASEb	6	adv(26)sub(25)sub(24)apos(22)apos	_	_
+18	Celtae	Celtae	N	Nb	NUMBp|GENDm|CASEn	6	xobj(26)sub(25)sub(24)apos(22)apos	_	_
+19	nostra	noster	P	Ps	PERS1|NUMBs|GENDf|CASEb	21	adv	_	_
+20	Galli	Galli	N	Nb	NUMBp|GENDm|CASEn	21	xobj	_	_
 21	appellantur	appello	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICp	6	sub(25)sub(24)apos(22)apos	_	_
 
 1	Hi	hic	P	Pd	NUMBp|GENDm|CASEn	8	sub	_	_
@@ -19543,13 +19543,13 @@
 13	Britanniam	Britannia	N	Ne	NUMBs|GENDf|CASEa	12	obl	_	_
 14	traiectus	traiectus	N	Nb	NUMBs|GENDm|CASEn	10	sub	_	_
 
-1	Huc	huc	D	Df	INFLn	7	obl	_	_
-2	naves	navis	N	Nb	NUMBp|GENDf|CASEa	17	sub	_	_
-3	undique	undique	D	Df	INFLn	17	obl	_	_
+1	Huc	huc	D	Df	INFLn	17	obl	_	_
+2	naves	navis	N	Nb	NUMBp|GENDf|CASEa	7	sub	_	_
+3	undique	undique	D	Df	INFLn	2	atr	_	_
 4	ex	ex	R	R-	INFLn	3	adv	_	_
 5	finitimis	finitimus	A	A-	NUMBp|GENDq|CASEb|DEGRp	6	atr	_	_
 6	regionibus	regio	N	Nb	NUMBp|GENDf|CASEb	4	obl	_	_
-7	et	et	C	C-	INFLn	16	comp	_	_
+7	et	et	C	C-	INFLn	17	sub	_	_
 8	quam	qui	P	Pr	NUMBs|GENDf|CASEa	14	obj	_	_
 9	superiore	superus	A	A-	NUMBs|GENDq|CASEb|DEGRc	10	atr	_	_
 10	aestate	aestas	N	Nb	NUMBs|GENDf|CASEb	14	adv	_	_
@@ -19557,9 +19557,9 @@
 12	Veneticum	veneticus	A	A-	NUMBs|GENDo|CASEa|DEGRp	13	atr	_	_
 13	bellum	bellum	N	Nb	NUMBs|GENDn|CASEa	11	obl	_	_
 14	fecerat	facio	V	V-	PERS3|NUMBs|TENSl|MOODi|VOICa	15	atr	_	_
-15	classem	classis	N	Nb	NUMBs|GENDf|CASEa	7	sub(18)comp	_	_
+15	classem	classis	N	Nb	NUMBs|GENDf|CASEa	7	sub	_	_
 16	iubet	iubeo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
-17	convenire	convenio	V	V-	TENSp|MOODn|VOICa	7	comp	_	_
+17	convenire	convenio	V	V-	TENSp|MOODn|VOICa	16	comp	_	_
 
 1	Interim	interim	D	Df	INFLn	18	adv	_	_
 2	consilio	consilium	N	Nb	NUMBs|GENDn|CASEb	5	sub	_	_
