@@ -5652,7 +5652,7 @@
 4	Syriam	Syrie	N	Ne	NUMBs|GENDf|CASEa	5	obj	_	_
 5	ademi	adimo	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 
-1	senatum	senatus	N	Nb	NUMBs|GENDm|CASEa	9	obj	_	_
+1	senatum	senatus	N	Nb	NUMBs|GENDm|CASEa	6	obj	_	_
 2	ad	ad	R	R-	INFLn	6	obl	_	_
 3	pristinam	pristinus	A	A-	NUMBs|GENDf|CASEa|DEGRp	5	atr	_	_
 4	suam	suus	P	Pt	PERS3|NUMBs|GENDf|CASEa	5	atr	_	_
@@ -10806,10 +10806,10 @@
 1	sibi	se	P	Pk	PERS3|NUMBs|GENDm|CASEd	4	ag	_	_
 2	enim	enim	D	Df	INFLn	9	aux	_	_
 3	bene	bene	D	Df	DEGRp	4	adv	_	_
-4	gestae	gero	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEg	10	comp(11)comp	_	_
+4	gestae	gero	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEg	10	narg(11)narg	_	_
 5	mihi	ego	P	Pp	PERS1|NUMBs|GENDm|CASEd	6	ag	_	_
-6	conservatae	conservo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEg	10	comp(11)comp	_	_
-7	rei	res	N	Nb	NUMBs|GENDf|CASEg	10	sub(11)comp	_	_
+6	conservatae	conservo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEg	10	narg(11)narg	_	_
+7	rei	res	N	Nb	NUMBs|GENDf|CASEg	6	sub	_	_
 8	publicae	publicus	A	A-	NUMBs|GENDf|CASEg|DEGRp	7	atr	_	_
 9	dat	do	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 10	testimonium	testimonium	N	Nb	NUMBs|GENDn|CASEa	9	obj	_	_
@@ -35069,7 +35069,7 @@
 8	salutem	salus	N	Nb	NUMBs|GENDf|CASEa	9	obj	_	_
 9	dicit	dico	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 
-1	Dionysium	Dionysius	N	Ne	NUMBs|GENDm|CASEa	10	obj	_	_
+1	Dionysium	Dionysius	N	Ne	NUMBs|GENDm|CASEa	6	obj	_	_
 2	semper	semper	D	Df	INFLn	6	adv	_	_
 3	equidem	equidem	D	Df	INFLn	6	aux	_	_
 4	ut	ut	D	Dq	INFLn	5	adv	_	_
@@ -40242,7 +40242,7 @@
 12	me	ego	P	Pp	PERS1|NUMBs|GENDm|CASEb	11	obl	_	_
 13	quodam	quidam	P	Px	NUMBs|GENDo|CASEb	14	atr	_	_
 14	modo	modus	N	Nb	NUMBs|GENDm|CASEb	15	adv	_	_
-15	dare	do	V	V-	TENSp|MOODn|VOICa	16	sub	_	_
+15	dare	do	V	V-	TENSp|MOODn|VOICa	16	comp	_	_
 16	atque	atque	C	C-	INFLn	0	comp(28)pred	_	_
 17	etiam	etiam	D	Df	INFLn	18	aux	_	_
 18	minus	parvus	A	A-	NUMBs|GENDn|CASEa|DEGRc	19	sub	_	_
@@ -44613,4 +44613,159 @@
 4	Bibulo	Bibulus	N	Ne	NUMBs|GENDm|CASEd	0	obl(7)pred	_	_
 5	dierum	dies	N	Nb	NUMBp|GENDf|CASEg	0	obj(7)pred	_	_
 6	XX	viginti	M	Ma	INFLn	5	atr	_	_
+
+1	subito	subito	D	Df	INFLn	3	adv	_	_
+2	consilium	consilium	N	Nb	NUMBs|GENDn|CASEa	3	obj	_	_
+3	cepi	coepi	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
+4	ut	ut	G	G-	INFLn	2	apos	_	_
+5	ante.quam	antequam	G	G-	INFLn	7	adv	_	_
+6	luceret	luceo	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	5	pred	_	_
+7	exirem	exeo	V	V-	PERS1|NUMBs|TENSi|MOODs|VOICa	4	pred	_	_
+8	ne	ne	G	G-	INFLn	7	adv	_	_
+9	qui	qui	P	Px	NUMBs|GENDm|CASEn	10	atr	_	_
+10	conspectus	conspectus	N	Nb	NUMBs|GENDm|CASEn	12	sub	_	_
+11	fieret	fio	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	8	pred	_	_
+12	aut	aut	C	C-	INFLn	11	sub	_	_
+13	sermo	sermo	N	Nb	NUMBs|GENDm|CASEn	12	sub	_	_
+14	lictoribus	lictor	N	Nb	NUMBp|GENDm|CASEb	16	sub	_	_
+15	praesertim	praesertim	D	Df	INFLn	16	aux	_	_
+16	laureatis	laureatus	A	A-	NUMBp|GENDm|CASEb|DEGRp	11	adv	_	_
+
+1	de	de	R	R-	INFLn	13	adv	_	_
+2	reliquo	reliquus	A	A-	NUMBs|GENDn|CASEb|DEGRp	1	obl	_	_
+3	ne	ne	D	Df	INFLn	7	aux	_	_
+4	que	que	C	C-	INFLn	7	aux	_	_
+5	hercule	hercle	I	I-	INFLn	0	voc	_	_
+6	quid	quis	P	Pi	NUMBs|GENDn|CASEa	7	obj	_	_
+7	agam	ago	V	V-	PERS1|NUMBs|TENSp|MOODs|VOICa	9	comp	_	_
+8	ne	ne	D	Df	INFLn	11	aux	_	_
+9	que	que	C	C-	INFLn	13	comp	_	_
+10	quid	quis	P	Pi	NUMBs|GENDn|CASEa	11	obj	_	_
+11	acturus	ago	V	V-	NUMBs|TENSf|MOODp|VOICa|GENDm|CASEn	9	comp	_	_
+12	sim	sum	V	V-	PERS1|NUMBs|TENSp|MOODs|VOICa	11	aux	_	_
+13	scio	scio	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	ita	ita	D	Df	INFLn	3	adv	_	_
+2	sum	sum	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	3	aux	_	_
+3	perturbatus	perturbo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	0	pred	_	_
+4	temeritate	temeritas	N	Nb	NUMBs|GENDf|CASEb	3	adv	_	_
+5	nostri	noster	P	Ps	PERS1|NUMBs|GENDm|CASEg	7	atr	_	_
+6	amentissimi	amens	A	A-	NUMBs|GENDn|CASEg|DEGRs	7	atr	_	_
+7	consili	consilium	N	Nb	NUMBs|GENDn|CASEg	4	atr	_	_
+
+1	tibi	tu	P	Pp	PERS2|NUMBs|GENDm|CASEd	4	obl	_	_
+2	vero	vero	D	Df	INFLn	4	aux	_	_
+3	quid	quis	P	Pi	NUMBs|GENDn|CASEa	4	obj	_	_
+4	suadeam	suadeo	V	V-	PERS1|NUMBs|TENSp|MOODs|VOICa	0	pred	_	_
+5	quoius	qui	P	Pr	NUMBs|GENDm|CASEg	7	atr	_	_
+6	ipse	ipse	P	Pp	PERS3|NUMBs|GENDm|CASEn	8	sub	_	_
+7	consilium	consilium	N	Nb	NUMBs|GENDn|CASEa	8	obj	_	_
+8	exspecto	exspecto	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	1	atr	_	_
+
+1	Gnaeus	Gnaeus	N	Ne	NUMBs|GENDm|CASEn	5	sub	_	_
+2	noster	noster	P	Ps	PERS1|NUMBs|GENDm|CASEn	1	atr	_	_
+3	quid	quis	P	Pi	NUMBs|GENDn|CASEa	5	obj	_	_
+4	consili	consilium	N	Nb	NUMBs|GENDn|CASEg	3	part	_	_
+5	ceperit	capio	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	7	comp	_	_
+6	capiat	capio	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	7	comp	_	_
+7	ve	ve	C	C-	INFLn	8	comp	_	_
+8	nescio	nescio	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+9	adhuc	adhuc	D	Df	INFLn	1	adv(15)apos	_	_
+10	in	in	R	R-	INFLn	12	obl	_	_
+11	oppidis	oppidum	N	Nb	NUMBp|GENDn|CASEb	10	obl	_	_
+12	coartatus	coarto	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	13	xobj	_	_
+13	et	et	C	C-	INFLn	1	xobj(15)apos	_	_
+14	stupens	stupeo	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn	13	xobj	_	_
+
+1	omnes	omnis	P	Px	NUMBp|GENDm|CASEn	6	sub	_	_
+2	si	si	G	G-	INFLn	6	adv	_	_
+3	in	in	R	R-	INFLn	5	obl	_	_
+4	Italia	Italia	N	Ne	NUMBs|GENDf|CASEb	3	obl	_	_
+5	consistat	consisto	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	2	pred	_	_
+6	erimus	sum	V	V-	PERS1|NUMBp|TENSf|MOODi|VOICa	0	pred	_	_
+7	una	una	D	Df	INFLn	6	xobj	_	_
+
+1	sin	sin	G	G-	INFLn	5	adv	_	_
+2	cedet	cedo	V	V-	PERS3|NUMBs|TENSf|MOODi|VOICa	1	pred	_	_
+3	consili	consilium	N	Nb	NUMBs|GENDn|CASEg	4	atr	_	_
+4	res	res	N	Nb	NUMBs|GENDf|CASEn	5	xobj	_	_
+5	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	adhuc	adhuc	D	Df	INFLn	0	adv(10)pred	_	_
+2	certe	certe	D	Df	DEGRp	0	aux(10)pred	_	_
+3	nisi	nisi	G	G-	INFLn	0	adv(10)pred	_	_
+4	ego	ego	P	Pp	PERS1|NUMBs|GENDm|CASEn	5	sub	_	_
+5	insanio	insanio	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	3	pred	_	_
+6	stulte	stulte	D	Df	DEGRp	8	xobj	_	_
+7	omnia	omnis	P	Px	NUMBp|GENDn|CASEn	0	sub(10)pred	_	_
+8	et	et	C	C-	INFLn	0	xobj(10)pred	_	_
+9	incaute	incaute	D	Df	DEGRp	8	xobj	_	_
+
+1	tu	tu	P	Pp	PERS2|NUMBs|GENDm|CASEn	6	sub	_	_
+2	quaeso	quaeso	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	parpred	_	_
+3	crebro	crebro	D	Df	DEGRp	6	adv	_	_
+4	ad	ad	R	R-	INFLn	6	obl	_	_
+5	me	ego	P	Pp	PERS1|NUMBs|GENDm|CASEa	4	obl	_	_
+6	scribe	scribo	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+7	vel	vel	D	Df	INFLn	11	aux	_	_
+8	quod	qui	P	Px	NUMBs|GENDn|CASEa	11	obj	_	_
+9	in	in	R	R-	INFLn	11	obl	_	_
+10	buccam	bucca	N	Nb	NUMBs|GENDf|CASEa	9	obl	_	_
+11	venerit	venio	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	6	obj	_	_
+
+1	unam	unus	M	Ma	NUMBs|GENDf|CASEa	5	atr	_	_
+2	adhuc	adhuc	D	Df	INFLn	6	adv	_	_
+3	a	ab	R	R-	INFLn	6	obl	_	_
+4	te	tu	P	Pp	PERS2|NUMBs|GENDm|CASEb	3	obl	_	_
+5	epistulam	epistula	N	Nb	NUMBs|GENDf|CASEa	6	obj	_	_
+6	acceperam	accipio	V	V-	PERS1|NUMBs|TENSl|MOODi|VOICa	0	pred	_	_
+7	datam	do	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEa	5	atr	_	_
+8	xii.Kal	calendar.expression	D	Df	INFLn	7	adv	_	_
+9	in	in	R	R-	INFLn	11	adv	_	_
+10	qua	qui	P	Pr	NUMBs|GENDf|CASEb	9	obl	_	_
+11	significabatur	significo	V	V-	PERS3|NUMBs|TENSi|MOODi|VOICp	5	atr	_	_
+12	aliam	alius	P	Px	NUMBs|GENDf|CASEa	15	obj	_	_
+13	te	tu	P	Pp	PERS2|NUMBs|GENDm|CASEa	15	sub	_	_
+14	ante	ante	D	Df	INFLn	15	adv	_	_
+15	dedisse	do	V	V-	TENSr|MOODn|VOICa	11	comp	_	_
+16	quam	qui	P	Pr	NUMBs|GENDf|CASEa	18	obj	_	_
+17	non	non	D	Df	INFLn	18	aux	_	_
+18	acceperam	accipio	V	V-	PERS1|NUMBs|TENSl|MOODi|VOICa	12	atr	_	_
+
+1	sed	sed	C	C-	INFLn	2	aux	_	_
+2	quaeso	quaeso	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+3	ut	ut	G	G-	INFLn	2	comp	_	_
+4	scribas	scribo	V	V-	PERS2|NUMBs|TENSp|MOODs|VOICa	3	pred	_	_
+5	quam	quam#3	D	Df	INFLn	6	aux	_	_
+6	saepissime	saepe	D	Df	DEGRs	4	adv	_	_
+7	non	non	D	Df	INFLn	8	aux	_	_
+8	modo	modo	D	Df	INFLn	9	aux	_	_
+9	si	si	G	G-	INFLn	14	adv	_	_
+10	quid	quis	P	Px	NUMBs|GENDn|CASEa	11	obj	_	_
+11	scies	scio	V	V-	PERS2|NUMBs|TENSf|MOODi|VOICa	12	pred	_	_
+12	aut	aut	C	C-	INFLn	9	pred	_	_
+13	audieris	audio	V	V-	PERS2|NUMBs|TENSr|MOODs|VOICa	12	pred	_	_
+14	sed	sed	C	C-	INFLn	4	adv	_	_
+15	etiam	etiam	D	Df	INFLn	16	aux	_	_
+16	si	si	G	G-	INFLn	14	adv	_	_
+17	quid	quis	P	Px	NUMBs|GENDn|CASEa	18	obj	_	_
+18	suspicabere	suspicor	V	V-	PERS2|NUMBs|TENSf|MOODi|VOICp	20	pred	_	_
+19	maxime	magis	D	Df	DEGRs	27	adv	_	_
+20	que	que	C	C-	INFLn	16	pred	_	_
+21	quid	quis	P	Pi	NUMBs|GENDn|CASEn	23	sub	_	_
+22	nobis	nos	P	Pp	PERS1|NUMBp|GENDm|CASEd	23	ag	_	_
+23	faciendum	facio	V	V-	MOODd|CASEa	24	comp	_	_
+24	aut	aut	C	C-	INFLn	27	comp	_	_
+25	non	non	D	Df	INFLn	26	aux	_	_
+26	faciendum	facio	V	V-	MOODd|CASEa	24	comp	_	_
+27	putes	puto	V	V-	PERS2|NUMBs|TENSp|MOODs|VOICa	20	pred	_	_
+
+1	ne	ne	D	Df	INFLn	4	aux	_	_
+2	ipsum	ipse	P	Pp	PERS3|NUMBs|GENDm|CASEa	4	obj	_	_
+3	quidem	quidem	D	Df	INFLn	4	aux	_	_
+4	scire	scio	V	V-	TENSp|MOODn|VOICa	5	comp	_	_
+5	puto	puto	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred(9)pred	_	_
+6	nostrum	nos	P	Pp	PERS1|NUMBp|GENDm|CASEg	8	part	_	_
+7	quidem	quidem	D	Df	INFLn	0	adv(10)pred(9)pred	_	_
+8	nemo	nemo	P	Px	NUMBs|GENDm|CASEn	0	sub(10)pred(9)pred	_	_
 

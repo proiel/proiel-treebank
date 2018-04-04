@@ -28,7 +28,7 @@ The following texts are included in this release of the treebank:
   Jerome's Vulgate                                    | Latin               | latin-nt    | 112,468 tokens
   Caesar, Commentarii belli Gallici (ed. Holmes 1914) | Latin               | caes-gal    |  28,608 tokens
   Cicero, De officiis (ed. Miller 1913)               | Latin               | cic-off     |  10,644 tokens
-  Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     |  42,708 tokens
+  Cicero, Epistulae ad Atticum (ed. Purser 1901)      | Latin               | cic-att     |  42,855 tokens
   Palladius, Opus agriculturae (ed. Schmitt 1898)     | Latin               | pal-agr     |  12,148 tokens
   Peregrinatio Aetheriae (ed. Heraeus 1908)           | Latin               | per-aeth    |  18,356 tokens
   Herodotus, Histories (ed. Godley 1920)              | Ancient Greek       | hdt         |  85,080 tokens
