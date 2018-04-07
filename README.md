@@ -21,7 +21,7 @@ The following texts are included in this release of the treebank:
 
   Text                                                | Language            | Filename    | Size
   ----------------------------------------------------|---------------------|-------------|---------------
-  The Greek New Testament (ed. Tischendorf 1869)      | Ancient Greek       | greek-nt    | 140,757 tokens
+  The Greek New Testament (ed. Tischendorf 1869)      | Ancient Greek       | greek-nt    | 140,763 tokens
   The Armenian New Testament (ed. Künzle 1984)        | Classical Armenian  | armenian-nt |  23,513 tokens
   The Gothic Bible (ed. Streitberg 1919)              | Gothic              | gothic-nt   |  57,211 tokens
   Codex Marianus (ed. Jagić 1883)                     | Old Church Slavonic | marianus    |  58,269 tokens
