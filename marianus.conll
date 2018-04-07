@@ -9624,11 +9624,11 @@
 2	же	же	D	Df	INFLn	10	aux	_	_
 3	ишедъ	изити	V	V-	NUMBs|TENSu|MOODp|VOICa|GENDm|CASEn|STREs	10	xadv	_	_
 4	въ	въ	R	R-	INFLn	6	adv	_	_
-5	шестѫѭ	шестъ	M	Mo	NUMBs|GENDf|CASEa	9	atr	_	_
+5	шестѫѭ	шестъ	M	Mo	NUMBs|GENDf|CASEa	4	obl	_	_
 6	и	и	C	C-	INFLn	3	adv	_	_
 7	въ	въ	R	R-	INFLn	6	adv	_	_
-8	девѧтѫѭ҄	девѧтъ	M	Mo	NUMBs|GENDf|CASEa	7	obl	_	_
-9	годинѫ	година	N	Nb	NUMBs|GENDf|CASEa	4	obl	_	_
+8	девѧтѫѭ҄	девѧтъ	M	Mo	NUMBs|GENDf|CASEa	9	atr	_	_
+9	годинѫ	година	N	Nb	NUMBs|GENDf|CASEa	7	obl	_	_
 10	сътвори	сътворити	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
 11	такожде	такожде	D	Df	INFLn	10	adv	_	_
 
@@ -18316,7 +18316,7 @@
 11	домъ	домъ	N	Nb	NUMBs|GENDm|CASEn	9	sub	_	_
 12	тъ	тъ	P	Pd	NUMBs|GENDm|CASEn	11	atr	_	_
 
-1	ꙇ	и	C	C-	INFLn	16	aux	_	_
+1	ꙇ	и	C	C-	INFLn	12	aux	_	_
 2	аште	аще	G	G-	INFLn	12	adv	_	_
 3	сотона	сотона	N	Nb	NUMBs|GENDm|CASEn	4	sub	_	_
 4	въста	въстати	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	8	pred	_	_
@@ -23809,13 +23809,13 @@
 1	даждъ	дати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
 2	нама	вѣ	P	Pp	PERS1|NUMBd|GENDq|CASEd	1	obl	_	_
 3	да	да	G	G-	INFLn	1	comp	_	_
-4	единъ	ѥдинъ	M	Ma	NUMBs|GENDm|CASEn	13	sub	_	_
-5	о	о	R	R-	INFLn	13	obl	_	_
+4	единъ	ѥдинъ	M	Ma	NUMBs|GENDm|CASEn	8	sub(17)pred	_	_
+5	о	о	R	R-	INFLn	8	obl(17)pred	_	_
 6	деснѫѭ	деснъ	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	5	obl	_	_
 7	тебе	тꙑ	P	Pp	PERS2|NUMBs|GENDp|CASEg	6	atr	_	_
 8	и	и	C	C-	INFLn	3	pred	_	_
-9	единъ	ѥдинъ	M	Ma	NUMBs|GENDm|CASEn	8	sub(17)pred	_	_
-10	о	о	R	R-	INFLn	8	obl(17)pred	_	_
+9	единъ	ѥдинъ	M	Ma	NUMBs|GENDm|CASEn	13	sub	_	_
+10	о	о	R	R-	INFLn	13	obl	_	_
 11	шюѭ	шоуи	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREs	10	obl	_	_
 12	тебе	тꙑ	P	Pp	PERS2|NUMBs|GENDp|CASEg	11	atr	_	_
 13	сѧдевѣ	сѣсти	V	V-	PERS1|NUMBd|TENSp|MOODi|VOICa	8	pred	_	_
@@ -34203,7 +34203,7 @@
 5	фарисѣовъ	фарисеовъ	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREs	4	atr	_	_
 6	вьзлеже	възлещи	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
 
-1	ꙇ	и	C	C-	INFLn	27	aux	_	_
+1	ꙇ	и	C	C-	INFLn	9	aux(44)pred	_	_
 2	се	се	I	I-	INFLn	0	voc	_	_
 3	жена	жена	N	Nb	NUMBs|GENDf|CASEn	9	sub(44)pred	_	_
 4	въ	въ	R	R-	INFLn	9	adv(44)pred	_	_
@@ -55271,7 +55271,7 @@
 3	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	2	atr	_	_
 4	славѧи	славити	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREw	1	xobj	_	_
 5	мѧ	азъ	P	Pp	PERS1|NUMBs|GENDq|CASEa	4	obj	_	_
-6	егоже	иже	P	Pr	NUMBs|GENDm|CASEg	8	aux	_	_
+6	егоже	иже	P	Pr	NUMBs|GENDm|CASEg	8	obj	_	_
 7	вꙑ	вꙑ	P	Pp	PERS2|NUMBp|GENDq|CASEn	8	sub	_	_
 8	г҃лете	глаголати	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	2	apos	_	_
 9	ѣко	ꙗко	G	G-	INFLn	8	comp	_	_
@@ -60936,7 +60936,7 @@
 1	нъ	нъ	C	C-	INFLn	2	aux	_	_
 2	придетъ	прити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 3	година	година	N	Nb	NUMBs|GENDf|CASEn	2	sub	_	_
-4	егда	ѥгда	D	Dq	INFLn	18	adv	_	_
+4	егда	ѥгда	D	Dq	INFLn	10	adv	_	_
 5	къ	къ	R	R-	INFLn	10	adv	_	_
 6	томоу	тъ	P	Pd	NUMBs|GENDn|CASEd	5	obl	_	_
 7	въ	въ	R	R-	INFLn	10	adv	_	_
