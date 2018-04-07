@@ -7778,7 +7778,7 @@
 12	þraihun	þreihan	V	V-	PERS3|NUMBp|TENSu|MOODi|VOICa	5	pred	_	_
 13	ina	is	P	Pp	PERS3|NUMBs|GENDm|CASEa	12	obj	_	_
 
-1	jah	jah	C	C-	INFLn	35	aux	_	_
+1	jah	jah	C	C-	INFLn	23	aux	_	_
 2	qinono	qino	N	Nb	NUMBp|GENDf|CASEg	3	part	_	_
 3	suma	sums	P	Px	NUMBs|GENDf|CASEn	23	sub	_	_
 4	wisandei	wisan#1	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDf|CASEn|STREw	10	xadv	_	_
@@ -21429,7 +21429,7 @@
 6	Fareisaiaus	Fareisaius	N	Nb	NUMBs|GENDm|CASEg	4	atr	_	_
 7	anakumbida	ana-kumbjan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	0	pred	_	_
 
-1	þaruh	þaruh	D	Df	INFLn	28	aux	_	_
+1	þaruh	þaruh	D	Df	INFLn	10	aux(46)pred	_	_
 2	sai	sai	I	I-	INFLn	0	voc	_	_
 3	qino	qino	N	Nb	NUMBs|GENDf|CASEn	10	sub(46)pred	_	_
 4	in	in	R	R-	INFLn	10	adv(46)pred	_	_
@@ -46068,8 +46068,8 @@
 
 1	Pawlus	Pawlus	N	Ne	NUMBs|GENDm|CASEn	8	sub	_	_
 2	apaustaulus	apaustaulus	N	Nb	NUMBs|GENDm|CASEn	1	apos	_	_
-3	Iesuis	Iesus	N	Ne	NUMBs|GENDm|CASEg	4	apos	_	_
-4	Xristaus	Xristus	N	Ne	NUMBs|GENDm|CASEg	2	atr	_	_
+3	Iesuis	Iesus	N	Ne	NUMBs|GENDm|CASEg	2	atr	_	_
+4	Xristaus	Xristus	N	Ne	NUMBs|GENDm|CASEg	3	apos	_	_
 5	þairh	þairh	R	R-	INFLn	2	atr	_	_
 6	wiljan	wilja	N	Nb	NUMBs|GENDm|CASEa	5	obl	_	_
 7	gudis	guþ	N	Nb	NUMBs|GENDm|CASEg	6	atr	_	_
@@ -54486,8 +54486,8 @@
 12	jah	jah	C	C-	INFLn	9	obl	_	_
 13	andstald	andstald*	N	Nb	NUMBs|GENDn|CASEa	12	obl	_	_
 14	ahmins	ahma	N	Nb	NUMBs|GENDm|CASEg	13	atr	_	_
-15	Xristaus	Xristus	N	Ne	NUMBs|GENDm|CASEg	16	apos	_	_
-16	Iesuis	Iesus	N	Ne	NUMBs|GENDm|CASEg	14	apos	_	_
+15	Xristaus	Xristus	N	Ne	NUMBs|GENDm|CASEg	14	apos	_	_
+16	Iesuis	Iesus	N	Ne	NUMBs|GENDm|CASEg	15	apos	_	_
 17	bi	bi	R	R-	INFLn	6	adv	_	_
 18	usbeisnai	usbeisns	N	Nb	NUMBs|GENDf|CASEd	19	obl	_	_
 19	jah	jah	C	C-	INFLn	17	obl	_	_
@@ -55039,8 +55039,8 @@
 7	in	in	R	R-	INFLn	4	adv	_	_
 8	ufarassaus	ufarassus	N	Nb	NUMBs|GENDm|CASEg	7	obl	_	_
 9	kunþjis	kunþi	N	Nb	NUMBs|GENDn|CASEg	8	atr	_	_
-10	Xristaus	Xristus	N	Ne	NUMBs|GENDm|CASEg	11	apos	_	_
-11	Iesuis	Iesus	N	Ne	NUMBs|GENDm|CASEg	9	narg	_	_
+10	Xristaus	Xristus	N	Ne	NUMBs|GENDm|CASEg	9	narg	_	_
+11	Iesuis	Iesus	N	Ne	NUMBs|GENDm|CASEg	10	apos	_	_
 12	fraujins	frauja	N	Nb	NUMBs|GENDm|CASEg	11	apos	_	_
 13	meinis	meins	P	Ps	PERS1|NUMBs|GENDo|CASEg	12	atr	_	_
 14	in	in	R	R-	INFLn	17	adv	_	_
