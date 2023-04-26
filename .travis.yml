@@ -1,7 +1,0 @@
-language: ruby
-rvm:
-  - 2.7.1
-dist: xenial
-os: linux
-install: gem install proiel-cli
-script: proiel validate *.xml
