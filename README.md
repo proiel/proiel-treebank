@@ -1,3 +1,5 @@
+As of April 2023, releases of the PROIEL Treebank have moved to https://github.com/syntacticus/syntacticus-treebank-data.
+
 The PROIEL Treebank
 ===================
 
